@@ -19,7 +19,7 @@
     * [Metodología](#metodologia)
     * [Evaluación](#evaluacion)
     * [Integridad en las evaluaciones](#integridad-en-las-evaluaciones)
-    * [Politica de integridad académica del Departamento de Ciencia de la Computación](#politica-de-integridad-academica-del-departamento-de-ciencia-de-la-computacion)
+    * [Politica de integridad académica del Departamento de Ciencia de la Computación](#politica-de-integridad-academica-del-departamento-de-ciencia-de-la-computación)
 * [Wiki](#wiki)
 * [Foro](#foro)
     * [Etiquetas](#etiquetas)
