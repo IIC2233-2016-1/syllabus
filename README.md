@@ -30,29 +30,29 @@
 # Calendario
 
 ### Marzo
-| Día  | Contenido                  | Información adicional |
-|:-----|:---------------------------|:----------------------|
-|      |                            |                       |
+| Día  | Evento | Contenido                  | Información adicional |
+|:-----|:-------|:---------------------------|:----------------------|
+|Jueves 03 | AC01 | Primer día de clases. Paradigma OOP |                       |
 
 ### Abril
-| Día  | Contenido                  | Información adicional |
-|:-----|:---------------------------|:----------------------|
-|      |                            |                       |
+| Día  | Evento | Contenido                  | Información adicional |
+|:-----|:-------|:---------------------------|:----------------------|
+|      |        |                            |                       |
 
 ### Mayo
-| Día  | Contenido                  | Información adicional |
-|:-----|:---------------------------|:----------------------|
-|      |                            |                       |
+| Día  | Evento | Contenido                  | Información adicional |
+|:-----|:-------|:---------------------------|:----------------------|
+|      |        |                            |                       |
 
 ### Junio
-| Día  | Contenido                  | Información adicional |
-|:-----|:---------------------------|:----------------------|
-|      |                            |                       |
+| Día  | Evento | Contenido                  | Información adicional |
+|:-----|:-------|:---------------------------|:----------------------|
+|      |        |                            |                       |
 
 ### Julio
-| Día  | Contenido                  | Información adicional |
-|:-----|:---------------------------|:----------------------|
-|     
+| Día  | Evento | Contenido                  | Información adicional |
+|:-----|:-------|:---------------------------|:----------------------|
+|      |        |                            |                       |
 
 # Programa
 
