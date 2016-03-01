@@ -7,7 +7,7 @@
     * [Mayo](#mayo)
     * [Junio](#junio)
     * [Julio](#julio)
-* [Programa](#programa)
+* [Extracto del programa del curso](#extracto-del-programa-del-curso)
     * [Equipo](#equipo)
         * [Profesores](#profesores)
         * [Ayudantes Jefes](#ayudantes-jefes)
@@ -20,8 +20,6 @@
     * [Evaluación](#evaluacion)
 * [Wiki](#wiki)
 * [Foro](#foro)
-    * [Etiquetas](#etiquetas)
-    * [Procedimiento](#procedimiento)
 
 
 
@@ -54,7 +52,7 @@
 |:-----|:-------|:---------------------------|:----------------------|
 |      |        |                            |                       |
 
-# Programa
+# Extracto del programa del curso
 
 ## Equipo
 
@@ -186,46 +184,11 @@ Solo se aproximará la nota final **NF**. Todo el resto de las notas serán usad
 No se podrá faltar al midterm o el examen final. **La inasistencia a cualquiera de ellos es reprobatoria**.
 
 
-
 # Wiki
 
-Toda la información que subiremos se encontrará en la [Wiki](https://github.com/IIC2233-2015-2/syllabus/wiki) del repositorio.
-
+Toda la información que subiremos se encontrará en la [Wiki](https://github.com/IIC2233-2016-1/syllabus/wiki) del repositorio.
 
 
 # Foro
 
-La página de [Issues](https://github.com/IIC2233-2015-2/syllabus/issues) se utilizará como foro para preguntas. 
-
-
-## Procedimiento
-
-> Tanto al publicar entradas como al comentar, se debe atenerse a las **normas del curso**, además debes utilizar **[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)** cuando sea necesario. Por ejemplo, cuando se necesita mostrar código o mensajes de error.
-
-Antes de postear:
-* Haber buscado exhaustivamente una solución al problema y seguir sin encontrar una respuesta. 
-* Entrar al foro del curso: [Issues](https://github.com/IIC2233-2015-2/syllabus/issues).
-* Buscar si alguien tiene la misma pregunta o problema.
-    * Si encuentras un post marcado como resuelto, pero no te satisface la respuesta, puedes comentar la *issue* y **volver a abrirla**.
-* En caso de no encontrar un post que te sirva, lo creamos presionando [New issue](https://github.com/IIC2233-2015-2/syllabus/issues/new).
-* Escribir una entrada **explicando bien el problema o pregunta**.
-* Publicar.
-
-Una vez resuelto el problema, dar las **gracias** y **cerrar la issue**.
-
-
-## [Etiquetas](https://github.com/IIC2233-2015-2/syllabus/labels)
-
-Dentro de Issues, [las entradas se pueden etiquetar dentro de ciertas categorías predefinidas](https://help.github.com/articles/applying-labels-to-issues-and-pull-requests/) para mantener el orden y facilitar búsquedas. Una entrada puede tener múltiples etiquetas. Los ayudantes nos encargaremos de ir etiquetando las preguntas en el foro.
-
-* [Material](https://github.com/IIC2233-2015-2/syllabus/labels/Material): para solicitar material que no haya sido subido al repositorio o comunicar algún error encontrado. 
-* [Actividades](https://github.com/IIC2233-2015-2/syllabus/labels/Actividades): Relacionado con las actividades en clase, ya sea sobre las notas, problemas de enunciado o dudas sobre estas. 
-* [Código](https://github.com/IIC2233-2015-2/syllabus/labels/C%C3%B3digo): Para preguntar sobre fragmentos de código, guía de estilo [PEP8](https://www.python.org/dev/peps/pep-0008/) o sobre citación de código. 
-* Tareas *n*: Preguntas sobre el enunciado de la tarea número *n*.
-* [Interrogación](https://github.com/IIC2233-2015-2/syllabus/labels/Interrogaci%C3%B3n): Preguntas sobre las fechas, contenido, periodos de recorrección de las interrogaciones y examen.
-* [Materia](https://github.com/IIC2233-2015-2/syllabus/labels/Materia): Preguntas sobre conceptos y/o temas vistos en clases o fuera de esta.
-* [Duplicada](https://github.com/IIC2233-2015-2/syllabus/labels/Duplicada): Pregunta repetida, se hará referencia a la pregunta original. 
-* [Git](https://github.com/IIC2233-2015-2/syllabus/labels/Git): Preguntas relacionadas con `git` o *Github*. 
-* [Inválida](https://github.com/IIC2233-2015-2/syllabus/labels/Inv%C3%A1lida): La pregunta no cumple los estándares o viola el procedimiento descrito abajo.
-* [Meta-pregunta](https://github.com/IIC2233-2015-2/syllabus/labels/Meta-pregunta): Preguntas sobre cómo y qué preguntar.
-* [Tengo un error](https://github.com/IIC2233-2015-2/syllabus/labels/Tengo%20un%20error): Para preguntar sobre posibles soluciones a errores o bugs en códigos. 
+La página de [Issues](https://github.com/IIC2233-2016-1/syllabus/issues) se utilizará como foro para preguntas. Visita la [guía del foro](https://github.com/IIC2233-2016-1/syllabus/wiki/Gu%C3%ADa-del-Foro para saber como utilizar esta herramienta correctamente.
