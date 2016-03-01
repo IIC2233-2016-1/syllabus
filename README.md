@@ -29,10 +29,12 @@
 
 # Calendario
 
+**Todas las actividades (AC) son evaluadas**
+
 ### Marzo
 | Día  | Evento | Contenido                  | Información adicional |
 |:-----|:-------|:---------------------------|:----------------------|
-|Jueves 03 | AC01 | Primer día de clases. Paradigma OOP |                       |
+|Jueves 03 | AC01 | Primer día de clases. Modelación OOP |                       |
 
 ### Abril
 | Día  | Evento | Contenido                  | Información adicional |
