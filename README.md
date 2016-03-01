@@ -18,8 +18,6 @@
     * [Contenidos](#contenidos)
     * [Metodología](#metodologia)
     * [Evaluación](#evaluacion)
-    * [Integridad en las evaluaciones](#integridad-en-las-evaluaciones)
-    * [Politica de integridad académica del Departamento de Ciencia de la Computación](#politica-de-integridad-academica-del-departamento-de-ciencia-de-la-computación)
 * [Wiki](#wiki)
 * [Foro](#foro)
     * [Etiquetas](#etiquetas)
@@ -186,28 +184,6 @@ Durante el semestre NO se borrará ninguna evaluación. Tampoco existe la posibi
 Solo se aproximará la nota final **NF**. Todo el resto de las notas serán usadas con dos decimales.
 
 No se podrá faltar al midterm o el examen final. **La inasistencia a cualquiera de ellos es reprobatoria**.
-
-
-## Integridad en las evaluaciones
-
-Cualquier irregularidad en alguna evaluación del curso tendrá como sanción inmediata un 1.0 en ella. Esto sin perjuicio de sanciones posteriores que estén de acuerdo a la Política de Integridad Académica del Departamento de Ciencia de la Computación, a las normas de la Escuela de Ingeniería o de la Universidad que sean aplicables para el caso.
-
-Esto incluye pero no se limita a:
-- Copia en test escrito
-- Copia en actividad en clases o tarea
-- Desacatar las reglas de cada evaluación. Por ejemplo, si una actividad es en pareja no es posible que cada integrante la realice en forma individual, mientras que si la actividad es individual no se puede trabajar en conjunto
-
-## Politica de integridad academica del Departamento de Ciencia de la Computación
-
-Los alumnos de la Escuela de Ingeniería de la Pontificia Universidad Católica de Chile deben mantener un comportamiento acorde a la Declaración de Principios de la Universidad.  En particular, se espera que **mantengan altos estándares de honestidad académica**.  Cualquier acto deshonesto o fraude académico está prohibido; los alumnos que incurran en este tipo de acciones se exponen a un Procedimiento Sumario. Es responsabilidad de cada alumno conocer y respetar el documento sobre Integridad Académica publicado por la Dirección de Docencia de la Escuela de Ingeniería (disponible en SIDING).
-Específicamente, para los cursos del Departamento de Ciencia de la Computación, rige obligatoriamente la siguiente política de integridad académica. Todo trabajo presentado por un alumno para los efectos de la evaluación de un curso debe ser hecho individualmente por el alumno, sin apoyo en material de terceros.  Por “trabajo” se entiende en general las interrogaciones escritas, las tareas de programación u otras, los trabajos de laboratorio, los proyectos, el examen, entre otros.
-**En particular, si un alumno copia un trabajo, o si a un alumno se le prueba que compró o intentó comprar un trabajo, obtendrá nota final 1.1 en el curso y se solicitará a la Dirección de Docencia de la Escuela de Ingeniería que no le permita retirar el curso de la carga académica semestral.**
-Por “copia” se entiende incluir en el trabajo presentado como propio, partes hechas por otra persona.  **En caso que corresponda a “copia” a otros alumnos, la sanción anterior se aplicará a todos los involucrados**.  En todos los casos, se informará a la Dirección de Docencia de la Escuela de Ingeniería para que tome sanciones adicionales si lo estima conveniente.
-Obviamente, está permitido usar material disponible públicamente, por ejemplo, libros o contenidos tomados de Internet, siempre y cuando se incluya la referencia correspondiente.
-Lo anterior se entiende como complemento al Reglamento del Alumno de la Pontificia Universidad Católica de Chile*.  Por ello, es posible pedir a la Universidad la aplicación de sanciones adicionales especificadas en dicho reglamento.
-
-
-* Reglamento del Alumno dela Pontificia Universidad Católica de Chile disponible en: http://admisionyregistros.uc.cl/alumnos/informacion-academica/reglamentos-estudiantiles
 
 
 
