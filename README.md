@@ -180,4 +180,4 @@ Toda la información que subiremos se encontrará en la [Wiki](https://github.co
 
 # Foro
 
-La página de [Issues](https://github.com/IIC2233-2016-1/syllabus/issues) se utilizará como foro para preguntas. Visita la [guía del foro](https://github.com/IIC2233-2016-1/syllabus/wiki/Gu%C3%ADa-del-Foro) para saber como utilizar esta herramienta correctamente.
+La página de [Issues](https://github.com/IIC2233-2016-1/syllabus/issues) se utilizará como foro para preguntas. **Visita la [guía del foro](https://github.com/IIC2233-2016-1/syllabus/wiki/Gu%C3%ADa-del-Foro) para saber como utilizar esta herramienta.**
