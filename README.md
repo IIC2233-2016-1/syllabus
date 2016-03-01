@@ -16,7 +16,6 @@
     * [Descripción del curso](#descripcion-del-curso)
     * [Objetivos](#objetivos)
     * [Contenidos](#contenidos)
-    * [Metodología](#metodologia)
     * [Evaluación](#evaluacion)
 * [Wiki](#wiki)
 * [Foro](#foro)
@@ -151,16 +150,6 @@ diseño básico de algoritmos y técnicas de análisis.
     * Serialización en formato JSON
 * Networking:
     * ​Sockets, cliente, servidor
-
-## Metodologia
-
-* Módulos semanales:
-    * Cátedra: 2
-    * Ayudantía/Laboratorio 1
-
-El curso se realiza utilizando metodologías de enseñanza teóricas-prácticas centradas en el alumno que permitan a los estudiantes desarrollar las competencias definidas en los objetivos del curso, tanto en cátedras como en ayudantías.
-
-Este curso está diseñado de forma tal que el alumno dedique al estudio personal un promedio de 7 hrs. a la semana.
 
 ## Evaluacion
 
