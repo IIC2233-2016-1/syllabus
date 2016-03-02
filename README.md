@@ -19,6 +19,7 @@
     * [Evaluación](#evaluacion)
 * [Wiki](#wiki)
 * [Foro](#foro)
+* [Semestres Anteriores](#semestres-anteriores)
 
 
 
@@ -181,3 +182,9 @@ Toda la información que subiremos se encontrará en la [Wiki](https://github.co
 # Foro
 
 La página de [Issues](https://github.com/IIC2233-2016-1/syllabus/issues) se utilizará como foro para preguntas. **Visita la [guía del foro](https://github.com/IIC2233-2016-1/syllabus/wiki/Gu%C3%ADa-del-Foro) para saber como utilizar esta herramienta.**
+
+# Semestres Anteriores
+
+Puedes ver los `syllabus` de los semestres anteriores en:
+- [2015-1](https://github.com/IIC2233-2015-1)
+- [2015-2](https://github.com/IIC2233-2015-2)
