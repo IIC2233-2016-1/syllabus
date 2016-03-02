@@ -186,5 +186,5 @@ La página de [Issues](https://github.com/IIC2233-2016-1/syllabus/issues) se uti
 # Semestres Anteriores
 
 Puedes ver los `syllabus` de los semestres anteriores en:
-- [2015-1](https://github.com/IIC2233-2015-1)
-- [2015-2](https://github.com/IIC2233-2015-2)
+- [2015-1](https://github.com/IIC2233-2015-1/syllabus)
+- [2015-2](https://github.com/IIC2233-2015-2/syllabus)
