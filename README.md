@@ -40,7 +40,7 @@
 ### Mayo
 | Día  | Evento | Contenido                  | Información adicional |
 |:-----|:-------|:---------------------------|:----------------------|
-|      |        |                            |                       |
+|Martes 17| Midterm Test | Por anunciar           |                       |
 
 ### Junio
 | Día  | Evento | Contenido                  | Información adicional |
@@ -50,7 +50,7 @@
 ### Julio
 | Día  | Evento | Contenido                  | Información adicional |
 |:-----|:-------|:---------------------------|:----------------------|
-|      |        |                            |                       |
+|Martes 5 |Final Exam| Por anunciar          |                       |
 
 # Extracto del programa del curso
 
@@ -80,14 +80,30 @@
 
 | Nombre                | Área          | Github        | Email         |
 |:--------------------- |:--------------|:--------------|:--------------|
-|                       |               |               |               |
+| Ariel Seisdedos       | Docencia    | [@robocop6](https://github.com/robocop6) | aeseisdedos@uc.cl |
+| Guillermo Figueroa    | Tarea       | [@gafigueroa](https://github.com/gafigueroa) | gafigueroa@uc.cl |
+| Fernando Florenzano   | Tarea       | [@fdoflorenzano](https://github.com/fdoflorenzano) | faflorenzano@uc.cl |
+| Rodolfo Palma         | Tarea       | [@rpalmaotero](https://github.com/rpalmaotero) | rdpalma@uc.cl |
+
 
 
 ### Ayudantes TPD
 
 | Nombre                | Área          | Github        | Email         |
 |:--------------------- |:--------------|:--------------|:--------------|
-|                       |               |               |               |
+|René Acuña|Actividades|[@rtacuna](https://github.com/rtacuna)|rtacuna@uc.cl|
+|María José Hidalgo|Actividades|[@cotehidalgov](https://github.com/cotehidalgov)|mjhidalgo@uc.cl|
+|Osvaldo Torres|Actividades|[@oatorresuc](https://github.com/oatorresuc)|oatorres@uc.cl|
+|Florencia Valladares|Actividades|[@fvr1](https://github.com/)|fvalladares1@uc.cl|
+|Andrés Fernández|Docencia|[@andresfdezc](https://github.com/andresfdezc)|alfernandez@uc.cl|
+|Benjamín Kramm|Docencia|[@btkramm](https://github.com/btkramm)|btkramm@uc.cl|
+|Freddie Venegas|Docencia|[@fgvenegas](https://github.com/fgvenegas)|fgvenegas@uc.cl|
+|Florencia Barrios|Tareas|[@flobarrios](https://github.com/flobarrios)|fbarrios1@uc.cl|
+|Germán Contreras|Tareas|[@Geeermy](https://github.com/Geeermy)|glcontreras@uc.cl|
+|Tamara Covacevich|Tareas|[@tamycova](https://github.com/tamycova)|tcovacevich@uc.cl|
+|Nicolás Gebauer|Tareas|[@negebauer](https://github.com/negebauer)|negebauer@uc.cl|
+|Felipe Matus|Tareas|[@matusfelipe](https://github.com/matusfelipe)|fgmatus@uc.cl|
+|Felipe Pezoa|Tareas|[@mainscientist](https://github.com/mainscientist)|fipezoa@uc.cl|
 
 
 ## Descripcion del curso
