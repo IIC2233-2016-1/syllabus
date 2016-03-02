@@ -24,7 +24,7 @@
 
 # Calendario
 
-**Todas las actividades (AC) son evaluadas**
+**Todas las actividades (AC) son evaluadas.** La ausencia a clases implica un 1.0 en las evaluaciones de ese día.
 
 ### Marzo
 | Día  | Evento | Contenido                  | Información adicional |
