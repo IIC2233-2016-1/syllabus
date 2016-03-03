@@ -7,7 +7,7 @@
     * [Mayo](#mayo)
     * [Junio](#junio)
     * [Julio](#julio)
-* [Programa](#programa)
+* [Extracto del programa del curso](#extracto-del-programa-del-curso)
     * [Equipo](#equipo)
         * [Profesores](#profesores)
         * [Ayudantes Jefes](#ayudantes-jefes)
@@ -16,45 +16,43 @@
     * [Descripción del curso](#descripcion-del-curso)
     * [Objetivos](#objetivos)
     * [Contenidos](#contenidos)
-    * [Metodología](#metodologia)
     * [Evaluación](#evaluacion)
-    * [Integridad en las evaluaciones](#integridad-en-las-evaluaciones)
-    * [Politica de integridad académica del Departamento de Ciencia de la Computación](#politica-de-integridad-academica-del-departamento-de-ciencia-de-la-computación)
 * [Wiki](#wiki)
 * [Foro](#foro)
-    * [Etiquetas](#etiquetas)
-    * [Procedimiento](#procedimiento)
+* [Semestres Anteriores](#semestres-anteriores)
 
 
 
 # Calendario
 
+**Todas las actividades (AC) son evaluadas.** La ausencia a clases implica un 1.0 en las evaluaciones de ese día.
+
 ### Marzo
-| Día  | Contenido                  | Información adicional |
-|:-----|:---------------------------|:----------------------|
-|      |                            |                       |
+| Día  | Evento | Contenido                  | Información adicional |
+|:-----|:-------|:---------------------------|:----------------------|
+|Jueves 03 | AC01 | Primer día de clases. Modelación OOP |                       |
 
 ### Abril
-| Día  | Contenido                  | Información adicional |
-|:-----|:---------------------------|:----------------------|
-|      |                            |                       |
+| Día  | Evento | Contenido                  | Información adicional |
+|:-----|:-------|:---------------------------|:----------------------|
+|      |        |                            |                       |
 
 ### Mayo
-| Día  | Contenido                  | Información adicional |
-|:-----|:---------------------------|:----------------------|
-|      |                            |                       |
+| Día  | Evento | Contenido                  | Información adicional |
+|:-----|:-------|:---------------------------|:----------------------|
+|Martes 17| Midterm Test | Por anunciar           |                       |
 
 ### Junio
-| Día  | Contenido                  | Información adicional |
-|:-----|:---------------------------|:----------------------|
-|      |                            |                       |
+| Día  | Evento | Contenido                  | Información adicional |
+|:-----|:-------|:---------------------------|:----------------------|
+|      |        |                            |                       |
 
 ### Julio
-| Día  | Contenido                  | Información adicional |
-|:-----|:---------------------------|:----------------------|
-|     
+| Día  | Evento | Contenido                  | Información adicional |
+|:-----|:-------|:---------------------------|:----------------------|
+|Martes 5 |Final Exam| Por anunciar          |                       |
 
-# Programa
+# Extracto del programa del curso
 
 ## Equipo
 
@@ -82,14 +80,30 @@
 
 | Nombre                | Área          | Github        | Email         |
 |:--------------------- |:--------------|:--------------|:--------------|
-|                       |               |               |               |
+| Ariel Seisdedos       | Docencia     | [@robocop6](https://github.com/robocop6) | aeseisdedos@uc.cl |
+| Guillermo Figueroa    | Tareas       | [@gafigueroa](https://github.com/gafigueroa) | gafigueroa@uc.cl |
+| Fernando Florenzano   | Tareas       | [@fdoflorenzano](https://github.com/fdoflorenzano) | faflorenzano@uc.cl |
+| Rodolfo Palma         | Tareas       | [@rpalmaotero](https://github.com/rpalmaotero) | rdpalma@uc.cl |
+
 
 
 ### Ayudantes TPD
 
 | Nombre                | Área          | Github        | Email         |
 |:--------------------- |:--------------|:--------------|:--------------|
-|                       |               |               |               |
+|René Acuña|Actividades|[@rtacuna](https://github.com/rtacuna)|rtacuna@uc.cl|
+|María José Hidalgo|Actividades|[@cotehidalgov](https://github.com/cotehidalgov)|mjhidalgo@uc.cl|
+|Osvaldo Torres|Actividades|[@oatorresuc](https://github.com/oatorresuc)|oatorres@uc.cl|
+|Florencia Valladares|Actividades|[@fvr1](https://github.com/)|fvalladares1@uc.cl|
+|Andrés Fernández|Docencia|[@andresfdezc](https://github.com/andresfdezc)|alfernandez@uc.cl|
+|Benjamín Kramm|Docencia|[@btkramm](https://github.com/btkramm)|btkramm@uc.cl|
+|Freddie Venegas|Docencia|[@fgvenegas](https://github.com/fgvenegas)|fgvenegas@uc.cl|
+|Florencia Barrios|Tareas|[@flobarrios](https://github.com/flobarrios)|fbarrios1@uc.cl|
+|Germán Contreras|Tareas|[@Geeermy](https://github.com/Geeermy)|glcontreras@uc.cl|
+|Tamara Covacevich|Tareas|[@tamycova](https://github.com/tamycova)|tcovacevich@uc.cl|
+|Nicolás Gebauer|Tareas|[@negebauer](https://github.com/negebauer)|negebauer@uc.cl|
+|Felipe Matus|Tareas|[@matusfelipe](https://github.com/matusfelipe)|fgmatus@uc.cl|
+|Felipe Pezoa|Tareas|[@mainscientist](https://github.com/mainscientist)|fipezoa@uc.cl|
 
 
 ## Descripcion del curso
@@ -154,16 +168,6 @@ diseño básico de algoritmos y técnicas de análisis.
 * Networking:
     * ​Sockets, cliente, servidor
 
-## Metodologia
-
-* Módulos semanales:
-    * Cátedra: 2
-    * Ayudantía/Laboratorio 1
-
-El curso se realiza utilizando metodologías de enseñanza teóricas-prácticas centradas en el alumno que permitan a los estudiantes desarrollar las competencias definidas en los objetivos del curso, tanto en cátedras como en ayudantías.
-
-Este curso está diseñado de forma tal que el alumno dedique al estudio personal un promedio de 7 hrs. a la semana.
-
 ## Evaluacion
 
 Las evaluaciones serán efectuadas por medio de actividades prácticas en clases, controles (de materia y/o lecturas adicionales), tareas,  un midterm test y un examen final. Se calculará **la nota del curso NC** como
@@ -186,68 +190,17 @@ Solo se aproximará la nota final **NF**. Todo el resto de las notas serán usad
 No se podrá faltar al midterm o el examen final. **La inasistencia a cualquiera de ellos es reprobatoria**.
 
 
-## Integridad en las evaluaciones
-
-Cualquier irregularidad en alguna evaluación del curso tendrá como sanción inmediata un 1.0 en ella. Esto sin perjuicio de sanciones posteriores que estén de acuerdo a la Política de Integridad Académica del Departamento de Ciencia de la Computación, a las normas de la Escuela de Ingeniería o de la Universidad que sean aplicables para el caso.
-
-Esto incluye pero no se limita a:
-- Copia en test escrito
-- Copia en actividad en clases o tarea
-- Desacatar las reglas de cada evaluación. Por ejemplo, si una actividad es en pareja no es posible que cada integrante la realice en forma individual, mientras que si la actividad es individual no se puede trabajar en conjunto
-
-## Politica de integridad academica del Departamento de Ciencia de la Computación
-
-Los alumnos de la Escuela de Ingeniería de la Pontificia Universidad Católica de Chile deben mantener un comportamiento acorde a la Declaración de Principios de la Universidad.  En particular, se espera que **mantengan altos estándares de honestidad académica**.  Cualquier acto deshonesto o fraude académico está prohibido; los alumnos que incurran en este tipo de acciones se exponen a un Procedimiento Sumario. Es responsabilidad de cada alumno conocer y respetar el documento sobre Integridad Académica publicado por la Dirección de Docencia de la Escuela de Ingeniería (disponible en SIDING).
-Específicamente, para los cursos del Departamento de Ciencia de la Computación, rige obligatoriamente la siguiente política de integridad académica. Todo trabajo presentado por un alumno para los efectos de la evaluación de un curso debe ser hecho individualmente por el alumno, sin apoyo en material de terceros.  Por “trabajo” se entiende en general las interrogaciones escritas, las tareas de programación u otras, los trabajos de laboratorio, los proyectos, el examen, entre otros.
-**En particular, si un alumno copia un trabajo, o si a un alumno se le prueba que compró o intentó comprar un trabajo, obtendrá nota final 1.1 en el curso y se solicitará a la Dirección de Docencia de la Escuela de Ingeniería que no le permita retirar el curso de la carga académica semestral.**
-Por “copia” se entiende incluir en el trabajo presentado como propio, partes hechas por otra persona.  **En caso que corresponda a “copia” a otros alumnos, la sanción anterior se aplicará a todos los involucrados**.  En todos los casos, se informará a la Dirección de Docencia de la Escuela de Ingeniería para que tome sanciones adicionales si lo estima conveniente.
-Obviamente, está permitido usar material disponible públicamente, por ejemplo, libros o contenidos tomados de Internet, siempre y cuando se incluya la referencia correspondiente.
-Lo anterior se entiende como complemento al Reglamento del Alumno de la Pontificia Universidad Católica de Chile*.  Por ello, es posible pedir a la Universidad la aplicación de sanciones adicionales especificadas en dicho reglamento.
-
-
-* Reglamento del Alumno dela Pontificia Universidad Católica de Chile disponible en: http://admisionyregistros.uc.cl/alumnos/informacion-academica/reglamentos-estudiantiles
-
-
-
 # Wiki
 
-Toda la información que subiremos se encontrará en la [Wiki](https://github.com/IIC2233-2015-2/syllabus/wiki) del repositorio.
-
+Toda la información que subiremos se encontrará en la [Wiki](https://github.com/IIC2233-2016-1/syllabus/wiki) del repositorio.
 
 
 # Foro
 
-La página de [Issues](https://github.com/IIC2233-2015-2/syllabus/issues) se utilizará como foro para preguntas. 
+La página de [Issues](https://github.com/IIC2233-2016-1/syllabus/issues) se utilizará como foro para preguntas. **Visita la [guía del foro](https://github.com/IIC2233-2016-1/syllabus/wiki/Gu%C3%ADa-del-Foro) para saber como utilizar esta herramienta.**
 
+# Semestres Anteriores
 
-## Procedimiento
-
-> Tanto al publicar entradas como al comentar, se debe atenerse a las **normas del curso**, además debes utilizar **[Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code)** cuando sea necesario. Por ejemplo, cuando se necesita mostrar código o mensajes de error.
-
-Antes de postear:
-* Haber buscado exhaustivamente una solución al problema y seguir sin encontrar una respuesta. 
-* Entrar al foro del curso: [Issues](https://github.com/IIC2233-2015-2/syllabus/issues).
-* Buscar si alguien tiene la misma pregunta o problema.
-    * Si encuentras un post marcado como resuelto, pero no te satisface la respuesta, puedes comentar la *issue* y **volver a abrirla**.
-* En caso de no encontrar un post que te sirva, lo creamos presionando [New issue](https://github.com/IIC2233-2015-2/syllabus/issues/new).
-* Escribir una entrada **explicando bien el problema o pregunta**.
-* Publicar.
-
-Una vez resuelto el problema, dar las **gracias** y **cerrar la issue**.
-
-
-## [Etiquetas](https://github.com/IIC2233-2015-2/syllabus/labels)
-
-Dentro de Issues, [las entradas se pueden etiquetar dentro de ciertas categorías predefinidas](https://help.github.com/articles/applying-labels-to-issues-and-pull-requests/) para mantener el orden y facilitar búsquedas. Una entrada puede tener múltiples etiquetas. Los ayudantes nos encargaremos de ir etiquetando las preguntas en el foro.
-
-* [Material](https://github.com/IIC2233-2015-2/syllabus/labels/Material): para solicitar material que no haya sido subido al repositorio o comunicar algún error encontrado. 
-* [Actividades](https://github.com/IIC2233-2015-2/syllabus/labels/Actividades): Relacionado con las actividades en clase, ya sea sobre las notas, problemas de enunciado o dudas sobre estas. 
-* [Código](https://github.com/IIC2233-2015-2/syllabus/labels/C%C3%B3digo): Para preguntar sobre fragmentos de código, guía de estilo [PEP8](https://www.python.org/dev/peps/pep-0008/) o sobre citación de código. 
-* Tareas *n*: Preguntas sobre el enunciado de la tarea número *n*.
-* [Interrogación](https://github.com/IIC2233-2015-2/syllabus/labels/Interrogaci%C3%B3n): Preguntas sobre las fechas, contenido, periodos de recorrección de las interrogaciones y examen.
-* [Materia](https://github.com/IIC2233-2015-2/syllabus/labels/Materia): Preguntas sobre conceptos y/o temas vistos en clases o fuera de esta.
-* [Duplicada](https://github.com/IIC2233-2015-2/syllabus/labels/Duplicada): Pregunta repetida, se hará referencia a la pregunta original. 
-* [Git](https://github.com/IIC2233-2015-2/syllabus/labels/Git): Preguntas relacionadas con `git` o *Github*. 
-* [Inválida](https://github.com/IIC2233-2015-2/syllabus/labels/Inv%C3%A1lida): La pregunta no cumple los estándares o viola el procedimiento descrito abajo.
-* [Meta-pregunta](https://github.com/IIC2233-2015-2/syllabus/labels/Meta-pregunta): Preguntas sobre cómo y qué preguntar.
-* [Tengo un error](https://github.com/IIC2233-2015-2/syllabus/labels/Tengo%20un%20error): Para preguntar sobre posibles soluciones a errores o bugs en códigos. 
+Puedes ver los `syllabus` de los semestres anteriores en:
+- [2015-1](https://github.com/IIC2233-2015-1/syllabus)
+- [2015-2](https://github.com/IIC2233-2015-2/syllabus)
