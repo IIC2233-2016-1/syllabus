@@ -30,7 +30,9 @@
 ### Marzo
 | Día  | Evento | Contenido                  | Información adicional |
 |:-----|:-------|:---------------------------|:----------------------|
-|Jueves 03 | AC01 | Primer día de clases. Modelación OOP |                       |
+|Jueves 03 | [AC01](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC01) | Primer día de clases. Modelación OOP |                       |
+|Lunes 07 | Ayudantía | Ayudantía de GIT, o cómo entregar los trabajos en este curso |  |
+|Jueves 10 | [AC02](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC02) | Herencia y polimorfismo. Clases abstractas | Primer día de uso de GIT obligatorio |
 
 ### Abril
 | Día  | Evento | Contenido                  | Información adicional |
