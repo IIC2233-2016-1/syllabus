@@ -33,7 +33,8 @@ Estos son los puestos para esta actividad.
 |<sub>**E10** 05-A/B</sub>|jicortes2 - Juan Ignacio Cortés|T|domingobenoit - Domingo Benoit|T|
 |<sub>**E10** 05-C/D</sub>|prograherma - Diego Bordeu||dasotosilva19 - Daniel Andrés Soto|T|
 |<sub>**E10** 05-E/F</sub>|jfcumsille - Juan Francisco Cumsille|T|ogcortes - Oriel Cortes|T|
-|<sub>**E10** 05-G/H</sub>|dlvasquez - Diego Alexis Vásquez|T|wayoalamos - Martín Álamos||
+|<sub>**E10** 05-G</sub>|dlvasquez - Diego Alexis Vásquez|T|||
+|<sub>**E10** 05-H</sub>|wayoalamos - Martín Álamos|T||
 |<sub>**E10** 05-I/J</sub>|caackermann - Christian Andres Ackermann|T|Kitaps - Patrick Andreas Liedtke|T|
 |<sub>**E10** 05-K/L</sub>|pifarias - Pedro Ignacio Farías|T|iavasquez1 - Iván Alejandro Vásquez|T|
 |<sub>**E10** 06-A/B</sub>|leylayunis - Leyla Nicole Yunis|T|joaquincastillo - Joaquín Alonso Castillo|T|
