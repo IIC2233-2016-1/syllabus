@@ -4,46 +4,46 @@ Estos son los puestos para esta actividad.
 
 |Puesto|Alumno 1|A|Alumno 2|A|
 |:-----|:-----------|:-----------|:-----------|:-----------|
-|<sub>**E10** 01-A</sub>|hmmundaca - Herman Manuel Waldo Mundaca||||
-|<sub>**E10** 01-B</sub>|Zanfor - Matías Ignacio Zanforlín||||
-|<sub>**E10** 01-C</sub>|HenryBlairG - Henry Blair||||
-|<sub>**E10** 01-D</sub>|Phytonia-Master - Luis Alberto Ampuero||||
-|<sub>**E10** 01-E</sub>|CrescenteUC - Crescente Andres Joglar||||
-|<sub>**E10** 01-H</sub>|bregonesi - Benjamín Andrés Regonesi||||
-|<sub>**E10** 01-I/J</sub>|arturodelreal - Arturo José Del Real||camiolguin - Camila Fernanda Olguín||
-|<sub>**E10** 01-K/L</sub>|Manuel-uc - Manuel Eduardo Aylwin||FernandoPieressa - Fernando Andrés Pieressa||
-|<sub>**E10** 02-A/B</sub>|laurateuber - Laura Sofía Teuber||JoseMacherone - José Ignacio Macherone||
-|<sub>**E10** 02-C/D</sub>|Joseromeroi - Jose Antonio Romero||abulnes1 - Arturo Bulnes||
-|<sub>**E10** 02-E/F</sub>|norman123123 - Norman Andres Oliden||noksenberg - Niv Oksenberg||
-|<sub>**E10** 02-G/H</sub>|mglambert - Mathias Gabriel Lambert||alexscholl94 - Alex Scholl||
-|<sub>**E10** 02-I/J</sub>|icontrerasn - Ítalo Rodrigo Contreras||jtagle2 - Joaquín Tagle||
-|<sub>**E10** 02-K/L</sub>|ftgatica - Felipe Antonio Gatica||evd995 - Esteban Gamaliel Villalobos||
-|<sub>**E10** 03-A/B</sub>|fcgfaura - Fernanda Carolina Garcia||sguerra2 - Sebastián Guerra||
-|<sub>**E10** 03-C/D</sub>|Diiru - Diego Iñaki Iruretagoyena||JoseDaroch - José Ignacio Daroch||
-|<sub>**E10** 03-E/F</sub>|micostabal - Martín Ignacio Costábal||spiza - Sebastián Piza||
-|<sub>**E10** 03-G/H</sub>|fipasten - Fernando Ignacio Pastén||andresback - Andrés Back||
-|<sub>**E10** 03-I/J</sub>|andersskog - Anders Olav Skog||andresvaldes93 - Andres Felipe Valdes||
-|<sub>**E10** 03-K/L</sub>|maramir6 - Matias Andres Ramirez||bmarinb - Bruno Alonso Marín||
-|<sub>**E10** 04-A/B</sub>|rmant - Raimundo Manterola||priccis - Pedro Ricci||
-|<sub>**E10** 04-C/D</sub>|cabarra - Camilo Andres Barra||ifcarrera - Isaac Felipe Carrera||
-|<sub>**E10** 04-E/F</sub>|Jricci1 - Joaquín Ricci||FranciscoRencoret1 - Francisco Rencoret||
-|<sub>**E10** 04-G/H</sub>|Eduherrera5 - Eduardo Jesus Herrera||jagaldames - José Andrés Galdames||
-|<sub>**E10** 04-I/J</sub>|bceppi - Bastián Eduardo Ceppi||mandrade2 - Matías Andrade||
-|<sub>**E10** 04-K/L</sub>|josetov - José Tomás Ovalle||MortizDX - Mauricio Andrés Ortiz||
-|<sub>**E10** 05-A/B</sub>|jicortes2 - Juan Ignacio Cortés||domingobenoit - Domingo Benoit||
-|<sub>**E10** 05-C/D</sub>|prograherma - Diego Bordeu||dasotosilva19 - Daniel Andrés Soto||
-|<sub>**E10** 05-E/F</sub>|jfcumsille - Juan Francisco Cumsille||ogcortes - Oriel Cortes||
-|<sub>**E10** 05-G/H</sub>|dlvasquez - Diego Alexis Vásquez||wayoalamos - Martín Álamos||
-|<sub>**E10** 05-I/J</sub>|caackermann - Christian Andres Ackermann||Kitaps - Patrick Andreas Liedtke||
-|<sub>**E10** 05-K/L</sub>|pifarias - Pedro Ignacio Farías||iavasquez1 - Iván Alejandro Vásquez||
-|<sub>**E10** 06-A/B</sub>|leylayunis - Leyla Nicole Yunis||joaquincastillo - Joaquín Alonso Castillo||
-|<sub>**E10** 06-C/D</sub>|matnagra - Matías Joaquín Navarrete||rorpis - Rodrigo Antonio Orpis||
-|<sub>**E10** 06-E/F</sub>|hhase - Hannes Hase||criscv94 - Cristian Adolfo Cortés||
-|<sub>**E10** 06-G/H</sub>|neberrios - Nicolas Esteban Berrios||dtfuller - David Thomas Fuller||
-|<sub>**E10** 06-I/J</sub>|stephichau - Stephanie Chau||cdonoso - Clemente Donoso||
-|<sub>**E10** 06-K/L</sub>|augustoal - Augusto Ariztía||jedelacarrera - Jorge Ernesto De La Carrera||
-|<sub>**E10** 07-A/B</sub>|mafillol - Macarena Antonia Fillol||moralillo - Tomás Morales||
-|<sub>**E10** 07-C/D</sub>|vlcastillo - Valentín Alberto Castillo||bvfernandez - Bernardita Valentina Fernández||
+|<sub>**E10** 01-A</sub>|hmmundaca - Herman Manuel Waldo Mundaca|T|||
+|<sub>**E10** 01-B</sub>|Zanfor - Matías Ignacio Zanforlín|T|||
+|<sub>**E10** 01-C</sub>|HenryBlairG - Henry Blair|T|||
+|<sub>**E10** 01-D</sub>|Phytonia-Master - Luis Alberto Ampuero|T|||
+|<sub>**E10** 01-E</sub>|CrescenteUC - Crescente Andres Joglar|T|||
+|<sub>**E10** 01-H</sub>|bregonesi - Benjamín Andrés Regonesi|T|||
+|<sub>**E10** 01-I/J</sub>|arturodelreal - Arturo José Del Real|T|camiolguin - Camila Fernanda Olguín|T|
+|<sub>**E10** 01-K/L</sub>|Manuel-uc - Manuel Eduardo Aylwin|T|FernandoPieressa - Fernando Andrés Pieressa|T|
+|<sub>**E10** 02-A/B</sub>|laurateuber - Laura Sofía Teuber|T|JoseMacherone - José Ignacio Macherone|T|
+|<sub>**E10** 02-C/D</sub>|Joseromeroi - Jose Antonio Romero|T|abulnes1 - Arturo Bulnes|T|
+|<sub>**E10** 02-E/F</sub>|norman123123 - Norman Andres Oliden|T|noksenberg - Niv Oksenberg|T|
+|<sub>**E10** 02-G/H</sub>|mglambert - Mathias Gabriel Lambert|T|alexscholl94 - Alex Scholl||
+|<sub>**E10** 02-I/J</sub>|icontrerasn - Ítalo Rodrigo Contreras|T|jtagle2 - Joaquín Tagle|T|
+|<sub>**E10** 02-K/L</sub>|ftgatica - Felipe Antonio Gatica|T|evd995 - Esteban Gamaliel Villalobos|T|
+|<sub>**E10** 03-A/B</sub>|fcgfaura - Fernanda Carolina Garcia|T|sguerra2 - Sebastián Guerra||
+|<sub>**E10** 03-C/D</sub>|Diiru - Diego Iñaki Iruretagoyena|T|JoseDaroch - José Ignacio Daroch|T|
+|<sub>**E10** 03-E/F</sub>|micostabal - Martín Ignacio Costábal|T|spiza - Sebastián Piza|T|
+|<sub>**E10** 03-G/H</sub>|fipasten - Fernando Ignacio Pastén|T|andresback - Andrés Back|T|
+|<sub>**E10** 03-I/J</sub>|andersskog - Anders Olav Skog|T|andresvaldes93 - Andres Felipe Valdes||
+|<sub>**E10** 03-K/L</sub>|maramir6 - Matias Andres Ramirez|T|bmarinb - Bruno Alonso Marín|T|
+|<sub>**E10** 04-A/B</sub>|rmant - Raimundo Manterola|T|priccis - Pedro Ricci|T|
+|<sub>**E10** 04-C/D</sub>|cabarra - Camilo Andres Barra|T|ifcarrera - Isaac Felipe Carrera|T|
+|<sub>**E10** 04-E/F</sub>|Jricci1 - Joaquín Ricci|T|FranciscoRencoret1 - Francisco Rencoret|T|
+|<sub>**E10** 04-G/H</sub>|Eduherrera5 - Eduardo Jesus Herrera||jagaldames - José Andrés Galdames|T|
+|<sub>**E10** 04-I/J</sub>|bceppi - Bastián Eduardo Ceppi|T|mandrade2 - Matías Andrade|T|
+|<sub>**E10** 04-K/L</sub>|josetov - José Tomás Ovalle|T|MortizDX - Mauricio Andrés Ortiz|T|
+|<sub>**E10** 05-A/B</sub>|jicortes2 - Juan Ignacio Cortés|T|domingobenoit - Domingo Benoit|T|
+|<sub>**E10** 05-C/D</sub>|prograherma - Diego Bordeu||dasotosilva19 - Daniel Andrés Soto|T|
+|<sub>**E10** 05-E/F</sub>|jfcumsille - Juan Francisco Cumsille||ogcortes - Oriel Cortes|T|
+|<sub>**E10** 05-G/H</sub>|dlvasquez - Diego Alexis Vásquez|T|wayoalamos - Martín Álamos||
+|<sub>**E10** 05-I/J</sub>|caackermann - Christian Andres Ackermann|T|Kitaps - Patrick Andreas Liedtke|T|
+|<sub>**E10** 05-K/L</sub>|pifarias - Pedro Ignacio Farías|T|iavasquez1 - Iván Alejandro Vásquez|T|
+|<sub>**E10** 06-A/B</sub>|leylayunis - Leyla Nicole Yunis|T|joaquincastillo - Joaquín Alonso Castillo|T|
+|<sub>**E10** 06-C/D</sub>|matnagra - Matías Joaquín Navarrete|T|rorpis - Rodrigo Antonio Orpis|T|
+|<sub>**E10** 06-E/F</sub>|hhase - Hannes Hase|T|criscv94 - Cristian Adolfo Cortés|T|
+|<sub>**E10** 06-G/H</sub>|neberrios - Nicolas Esteban Berrios|T|dtfuller - David Thomas Fuller|T|
+|<sub>**E10** 06-I/J</sub>|stephichau - Stephanie Chau|T|cdonoso - Clemente Donoso|T|
+|<sub>**E10** 06-K/L</sub>|augustoal - Augusto Ariztía|T|jedelacarrera - Jorge Ernesto De La Carrera|T|
+|<sub>**E10** 07-A/B</sub>|mafillol - Macarena Antonia Fillol|T|moralillo - Tomás Morales|T|
+|<sub>**E10** 07-C/D</sub>|vlcastillo - Valentín Alberto Castillo|T|bvfernandez - Bernardita Valentina Fernández||
 |<sub>**E15** 01-A/B</sub>|sitoro - Sebastián Ignacio Toro||perojas3 - Pablo Esteban Rojas||
 |<sub>**E15** 01-C</sub>|JuanGalilea - Juan Guillermo Francisco Galilea||||
 |<sub>**E15** 01-D</sub>|mfuenzalida1 - Maximiliano Fuenzalida||||
