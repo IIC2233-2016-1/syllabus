@@ -45,37 +45,37 @@ Estos son los puestos para esta actividad.
 |<sub>**E10** 06-K/L</sub>|augustoal - Augusto Ariztía|T|jedelacarrera - Jorge Ernesto De La Carrera|T|
 |<sub>**E10** 07-A/B</sub>|mafillol - Macarena Antonia Fillol|T|moralillo - Tomás Morales|T|
 |<sub>**E10** 07-C/D</sub>|vlcastillo - Valentín Alberto Castillo|T|bvfernandez - Bernardita Valentina Fernández||
-|<sub>**E15** 01-A/B</sub>|sitoro - Sebastián Ignacio Toro||perojas3 - Pablo Esteban Rojas||
-|<sub>**E15** 01-C</sub>|JuanGalilea - Juan Guillermo Francisco Galilea||||
-|<sub>**E15** 01-D</sub>|mfuenzalida1 - Maximiliano Fuenzalida||||
-|<sub>**E15** 01-E</sub>|salangarica - Saul Langarica||||
-|<sub>**E15** 01-F</sub>|jagalarce - Jeremy Andre Galarce||||
+|<sub>**E15** 01-A/B</sub>|sitoro - Sebastián Ignacio Toro||perojas3 - Pablo Esteban Rojas|T|
+|<sub>**E15** 01-C</sub>|JuanGalilea - Juan Guillermo Francisco Galilea|T|||
+|<sub>**E15** 01-D</sub>|mfuenzalida1 - Maximiliano Fuenzalida|T|||
+|<sub>**E15** 01-E</sub>|salangarica - Saul Langarica|T|||
+|<sub>**E15** 01-F</sub>|jagalarce - Jeremy Andre Galarce|T|||
 |<sub>**E15** 01-G</sub>|gbordoni - Gianfranco Bordoni||||
-|<sub>**E15** 01-H</sub>|sggr94 - Sebastián Gustavo García||||
-|<sub>**E15** 01-I</sub>|santiagocruzb - José Santiago Cruz||||
-|<sub>**E15** 01-J</sub>|vectorcrumb - Lucas Alfonso Alvarez||||
-|<sub>**E15** 01-K</sub>|alainrochette - Alain Rochette||||
+|<sub>**E15** 01-H</sub>|sggr94 - Sebastián Gustavo García|T|||
+|<sub>**E15** 01-I</sub>|santiagocruzb - José Santiago Cruz|T|||
+|<sub>**E15** 01-J</sub>|vectorcrumb - Lucas Alfonso Alvarez|T|||
+|<sub>**E15** 01-K</sub>|alainrochette - Alain Rochette|T|||
 |<sub>**E15** 01-L</sub>|AlfonsoIgnacioV - Alfonso Ignacio Valdes||||
-|<sub>**E15** 02-A</sub>|rrfoster - Roberto Rafael Foster||||
-|<sub>**E15** 02-B</sub>|jneyzaguirre - José Antonio Eyzaguirre||||
-|<sub>**E15** 02-C</sub>|bicarcamo - Benjamín Ignacio Cárcamo||||
-|<sub>**E15** 02-D</sub>|bjassael - Benjamín Jacob Assael||||
-|<sub>**E15** 02-E/F</sub>|Hernan4444 - Hernan Felipe Valdivieso||sdiez1 - Sergio Diez||
-|<sub>**E15** 02-G/H</sub>|myron35cm - Richard Mairon Solis||Zepk - Pedro Andres Acuña||
-|<sub>**E15** 02-I/J</sub>|matiasreyes121213 - Matías Nicolás Reyes||martinvidal - Martín Ignacio Vidal||
-|<sub>**E15** 02-K/L</sub>|pmiquelv - Pedro José Miquel||mhaacke - Michael Haacke||
-|<sub>**E15** 03-A/B</sub>|isarovic - Ignacio Sarovic||tnmarin - Tomás Andrés Marín||
-|<sub>**E15** 03-C/D</sub>|gantunesr - Gustavo Antunes||diegosapunar - Diego Andrés Sapunar||
-|<sub>**E15** 03-E/F</sub>|Snorlax8 - Cindy Tarud||elzambon - Enzo Leopoldo Zambón||
-|<sub>**E15** 03-G/H</sub>|PipeQ - Andrés Felipe Quintana||cataherrera - Catalina Francisca Del Ca Herrera||
-|<sub>**E15** 03-I/J</sub>|pggodoy - Pablo Ignacio Godoy||wololoatata - Gonzalo Jesus Caro||
-|<sub>**E15** 03-K/L</sub>|agmardones - Andrés Gabriel Mardones||RodrigoBocazG - Rodrigo Ignacio Bocaz||
-|<sub>**E15** 04-A/B</sub>|gebalassa - Gabriel Eduardo Balassa||Vjmoreno - Vicente Joaquín Moreno||
-|<sub>**E15** 04-C/D</sub>|Nebula2028 - Patricio Pablo Salgado||gdburky - Guillermo Daniel Burky||
-|<sub>**E15** 04-E/F</sub>|vicentemartintarud - Vicente Reinaldo Martin||nithomas - Nicolas Ignacio Thomas||
-|<sub>**E15** 04-G/H</sub>|Mieynaudi - Matías Ignacio Eynaudi||cpavez3 - Cristóbal Pavez||
-|<sub>**E15** 04-I/J</sub>|cnmoya - Cristóbal Andrés Moya||kcsss - Matias Ignacio Caces||
-|<sub>**E15** 04-K/L</sub>|sialvarez - Sebastián Nicolás Álvarez||Pochoclo - Nicolás Ignacio Sepúlveda||
+|<sub>**E15** 02-A</sub>|rrfoster - Roberto Rafael Foster|T|||
+|<sub>**E15** 02-B</sub>|jneyzaguirre - José Antonio Eyzaguirre|T|||
+|<sub>**E15** 02-C</sub>|bicarcamo - Benjamín Ignacio Cárcamo|T|||
+|<sub>**E15** 02-D</sub>|bjassael - Benjamín Jacob Assael|T|||
+|<sub>**E15** 02-E/F</sub>|Hernan4444 - Hernan Felipe Valdivieso|T|sdiez1 - Sergio Diez|T|
+|<sub>**E15** 02-G/H</sub>|myron35cm - Richard Mairon Solis||Zepk - Pedro Andres Acuña|T|
+|<sub>**E15** 02-I/J</sub>|matiasreyes121213 - Matías Nicolás Reyes||martinvidal - Martín Ignacio Vidal|T|
+|<sub>**E15** 02-K/L</sub>|pmiquelv - Pedro José Miquel|T|mhaacke - Michael Haacke|T||
+|<sub>**E15** 03-A/B</sub>|isarovic - Ignacio Sarovic|T|tnmarin - Tomás Andrés Marín|T|
+|<sub>**E15** 03-C/D</sub>|gantunesr - Gustavo Antunes|T|diegosapunar - Diego Andrés Sapunar|T|
+|<sub>**E15** 03-E/F</sub>|Snorlax8 - Cindy Tarud|T|elzambon - Enzo Leopoldo Zambón|T|
+|<sub>**E15** 03-G/H</sub>|PipeQ - Andrés Felipe Quintana|T|cataherrera - Catalina Francisca Del Ca Herrera|T|
+|<sub>**E15** 03-I/J</sub>|pggodoy - Pablo Ignacio Godoy|T|wololoatata - Gonzalo Jesus Caro|T|
+|<sub>**E15** 03-K/L</sub>|agmardones - Andrés Gabriel Mardones|T|RodrigoBocazG - Rodrigo Ignacio Bocaz|T|
+|<sub>**E15** 04-A/B</sub>|gebalassa - Gabriel Eduardo Balassa|T|Vjmoreno - Vicente Joaquín Moreno|T|
+|<sub>**E15** 04-C/D</sub>|Nebula2028 - Patricio Pablo Salgado|T|gdburky - Guillermo Daniel Burky|T|
+|<sub>**E15** 04-E/F</sub>|vicentemartintarud - Vicente Reinaldo Martin|T|nithomas - Nicolas Ignacio Thomas|T|
+|<sub>**E15** 04-G/H</sub>|Mieynaudi - Matías Ignacio Eynaudi|T|cpavez3 - Cristóbal Pavez|T|
+|<sub>**E15** 04-I/J</sub>|cnmoya - Cristóbal Andrés Moya|T|kcsss - Matias Ignacio Caces|T|
+|<sub>**E15** 04-K/L</sub>|sialvarez - Sebastián Nicolás Álvarez|T|Pochoclo - Nicolás Ignacio Sepúlveda|T|
 |<sub>**E15** 05-A/B</sub>|cggutierrez - Christopher Gabriel Gutiérrez||tsuarezsaieh - Tomas Santiago Suarez||
 |<sub>**E15** 05-C/D</sub>|Javier-444 - Javier Eduardo Rabba||fnquinteros - Felipe Andrés Quinteros||
 |<sub>**E15** 05-E/F</sub>|iguridi - Ignacio Guridi||vbarros2 - Vicente Barros||
