@@ -2,7 +2,7 @@
 
 Estos son los puestos para esta actividad.
 
-|Puesto|Estudiante 1|Asistencia 1|Estudiante 2|Asistencia 2|
+|Puesto|Estudiante 1|A|Estudiante 2|A|
 |:-----|:-----------|:-----------|:-----------|:-----------|
 |**E10** 01-A|criscv94 - CORTÉS VERGARA CRISTIAN ADOLFO||||
 |**E10** 01-B|stephichau - CHAU YIP STEPHANIE||||
