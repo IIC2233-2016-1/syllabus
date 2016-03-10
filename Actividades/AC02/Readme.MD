@@ -50,12 +50,12 @@ Estos son los puestos para esta actividad.
 |<sub>**E15** 01-D</sub>|mfuenzalida1 - Maximiliano Fuenzalida|T|||
 |<sub>**E15** 01-E</sub>|salangarica - Saul Langarica|T|||
 |<sub>**E15** 01-F</sub>|jagalarce - Jeremy Andre Galarce|T|||
-|<sub>**E15** 01-G</sub>|gbordoni - Gianfranco Bordoni||||
+|<sub>**E15** 01-G</sub>|gbordoni - Gianfranco Bordoni|T|||
 |<sub>**E15** 01-H</sub>|sggr94 - Sebastián Gustavo García|T|||
 |<sub>**E15** 01-I</sub>|santiagocruzb - José Santiago Cruz|T|||
 |<sub>**E15** 01-J</sub>|vectorcrumb - Lucas Alfonso Alvarez|T|||
 |<sub>**E15** 01-K</sub>|alainrochette - Alain Rochette|T|||
-|<sub>**E15** 01-L</sub>|AlfonsoIgnacioV - Alfonso Ignacio Valdes||||
+|<sub>**E15** 01-L</sub>|AlfonsoIgnacioV - Alfonso Ignacio Valdes|T|||
 |<sub>**E15** 02-A</sub>|rrfoster - Roberto Rafael Foster|T|||
 |<sub>**E15** 02-B</sub>|jneyzaguirre - José Antonio Eyzaguirre|T|||
 |<sub>**E15** 02-C</sub>|bicarcamo - Benjamín Ignacio Cárcamo|T|||
@@ -76,14 +76,14 @@ Estos son los puestos para esta actividad.
 |<sub>**E15** 04-G/H</sub>|Mieynaudi - Matías Ignacio Eynaudi|T|cpavez3 - Cristóbal Pavez|T|
 |<sub>**E15** 04-I/J</sub>|cnmoya - Cristóbal Andrés Moya|T|kcsss - Matias Ignacio Caces|T|
 |<sub>**E15** 04-K/L</sub>|sialvarez - Sebastián Nicolás Álvarez|T|Pochoclo - Nicolás Ignacio Sepúlveda|T|
-|<sub>**E15** 05-A/B</sub>|cggutierrez - Christopher Gabriel Gutiérrez||tsuarezsaieh - Tomas Santiago Suarez||
-|<sub>**E15** 05-C/D</sub>|Javier-444 - Javier Eduardo Rabba||fnquinteros - Felipe Andrés Quinteros||
-|<sub>**E15** 05-E/F</sub>|iguridi - Ignacio Guridi||vbarros2 - Vicente Barros||
-|<sub>**E15** 05-G/H</sub>|chapito96 - Santiago Andrés Torres||bleon1 - Benjamín León||
-|<sub>**E15** 05-I/J</sub>|DiegoSilvaS - Diego Ignacio Silva||cristobalmr - Cristóbal Ignacio Morales||
-|<sub>**E15** 05-K/L</sub>|ManuelSIlvaCav - Manuel Enrique Silva||isipalma - Isidora María Ximena Palma||
-|<sub>**E15** 06-A/B</sub>|fhgajardo - Felipe Hernán Gajardo||MatixCubix - Matías Marcelo Cubillos||
-|<sub>**E15** 06-C/D</sub>|Tblatrille - Tomás Benjamín Latrille||VNicholls - Vicente Felipe Nicholls||
-|<sub>**E15** 06-E/F</sub>|fivargas - Felipe Ignacio Vargas||msbobadilla - Manuel Sebastián Bobadilla||
-|<sub>**E15** 06-G/H</sub>|sormazabal - Sofía Ormazabal||jonnylee719 - Jonathan Lee||
-|<sub>**E15** 06-I/J</sub>|jpdattas - Jean Pierre Dattas||TristanPouliquen - Tristan Pouliquen||
+|<sub>**E15** 05-A/B</sub>|cggutierrez - Christopher Gabriel Gutiérrez|T|tsuarezsaieh - Tomas Santiago Suarez|T|
+|<sub>**E15** 05-C/D</sub>|Javier-444 - Javier Eduardo Rabba|T|fnquinteros - Felipe Andrés Quinteros|T|
+|<sub>**E15** 05-E/F</sub>|iguridi - Ignacio Guridi|T|vbarros2 - Vicente Barros|T|
+|<sub>**E15** 05-G/H</sub>|chapito96 - Santiago Andrés Torres|T|bleon1 - Benjamín León|T|
+|<sub>**E15** 05-I/J</sub>|DiegoSilvaS - Diego Ignacio Silva|T|cristobalmr - Cristóbal Ignacio Morales|T|
+|<sub>**E15** 05-K/L</sub>|ManuelSIlvaCav - Manuel Enrique Silva|T|isipalma - Isidora María Ximena Palma|T|
+|<sub>**E15** 06-A/B</sub>|fhgajardo - Felipe Hernán Gajardo|T|MatixCubix - Matías Marcelo Cubillos|T|
+|<sub>**E15** 06-C/D</sub>|Tblatrille - Tomás Benjamín Latrille|T|VNicholls - Vicente Felipe Nicholls|T|
+|<sub>**E15** 06-E/F</sub>|fivargas - Felipe Ignacio Vargas|T|msbobadilla - Manuel Sebastián Bobadilla|T|
+|<sub>**E15** 06-G/H</sub>|sormazabal - Sofía Ormazabal|T|jonnylee719 - Jonathan Lee|T|
+|<sub>**E15** 06-I/J</sub>|jpdattas - Jean Pierre Dattas|T|TristanPouliquen - Tristan Pouliquen|T|
