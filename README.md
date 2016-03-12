@@ -33,6 +33,7 @@
 |Jueves 03 | [AC01](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC01) | Primer día de clases. Modelación OOP |                       |
 |Lunes 07 | Ayudantía | Ayudantía de GIT, o cómo entregar los trabajos en este curso |  |
 |Jueves 10 | [AC02](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC02) | Herencia y polimorfismo. Clases abstractas | Primer día de uso de GIT obligatorio |
+|Jueves 17 | [AC03](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC03) | Estructuras de datos |  |
 
 ### Abril
 | Día  | Evento | Contenido                  | Información adicional |
@@ -96,7 +97,7 @@
 |René Acuña|Actividades|[@rtacuna](https://github.com/rtacuna)|rtacuna@uc.cl|
 |María José Hidalgo|Actividades|[@cotehidalgov](https://github.com/cotehidalgov)|mjhidalgo@uc.cl|
 |Osvaldo Torres|Actividades|[@oatorresuc](https://github.com/oatorresuc)|oatorres@uc.cl|
-|Florencia Valladares|Actividades|[@fvr1](https://github.com/)|fvalladares1@uc.cl|
+|Florencia Valladares|Actividades|[@fvr1](https://github.com/fvr1)|fvalladares1@uc.cl|
 |Andrés Fernández|Docencia|[@andresfdezc](https://github.com/andresfdezc)|alfernandez@uc.cl|
 |Benjamín Kramm|Docencia|[@btkramm](https://github.com/btkramm)|btkramm@uc.cl|
 |Freddie Venegas|Docencia|[@fgvenegas](https://github.com/fgvenegas)|fgvenegas@uc.cl|
