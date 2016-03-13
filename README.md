@@ -31,9 +31,11 @@
 | Día  | Evento | Contenido                  | Información adicional |
 |:-----|:-------|:---------------------------|:----------------------|
 |Jueves 03 | [AC01](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC01) | Primer día de clases. Modelación OOP |                       |
-|Lunes 07 | Ayudantía | Ayudantía de GIT, o cómo entregar los trabajos en este curso |  |
+|Lunes 07 | [Ayudantía 01](https://github.com/IIC2233-2016-1/syllabus/blob/master/Ayudantias/Ayudantia1.pdf) | Ayudantía de GIT, o cómo entregar los trabajos en este curso |  |
 |Jueves 10 | [AC02](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC02) | Herencia y polimorfismo. Clases abstractas | Primer día de uso de GIT obligatorio |
-|Jueves 17 | [AC03](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC03) | Estructuras de datos |  |
+|Lunes 14 | [Ayudantía 02](https://github.com/IIC2233-2016-1/syllabus/blob/master/Ayudantias/Ayudantia2.pdf) | | |
+|Jueves 17 | [AC03](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC03) | Estructuras de datos. Properties | No entra la parte de árboles |
+|Jueves 31 | [AC04](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC04) | Árboles |  |
 
 ### Abril
 | Día  | Evento | Contenido                  | Información adicional |
