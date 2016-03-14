@@ -1,0 +1,122 @@
+[
+  {
+    "usuario": "vthompson"
+  },
+  {
+    "usuario": "mvenegas"
+  },
+  {
+    "usuario": "hsanhueza"
+  },
+  {
+    "usuario": "ssanhueza"
+  },
+  {
+    "usuario": "gsalinas"
+  },
+  {
+    "usuario": "vrivera"
+  },
+  {
+    "usuario": "karaya"
+  },
+  {
+    "usuario": "gflores"
+  },
+  {
+    "usuario": "ltorres"
+  },
+  {
+    "usuario": "mreyes"
+  },
+  {
+    "usuario": "rvenegas"
+  },
+  {
+    "usuario": "kortega"
+  },
+  {
+    "usuario": "mcaceres"
+  },
+  {
+    "usuario": "sgodoy"
+  },
+  {
+    "usuario": "scampbell"
+  },
+  {
+    "usuario": "nrivera"
+  },
+  {
+    "usuario": "bespinoza"
+  },
+  {
+    "usuario": "agallardo"
+  },
+  {
+    "usuario": "mtoro"
+  },
+  {
+    "usuario": "vmartin"
+  },
+  {
+    "usuario": "jjosewilson"
+  },
+  {
+    "usuario": "pgonzalez"
+  },
+  {
+    "usuario": "halvarado"
+  },
+  {
+    "usuario": "jcarvajal"
+  },
+  {
+    "usuario": "jgodoy"
+  },
+  {
+    "usuario": "svergara"
+  },
+  {
+    "usuario": "acastro"
+  },
+  {
+    "usuario": "owong"
+  },
+  {
+    "usuario": "descobar"
+  },
+  {
+    "usuario": "areyes"
+  },
+  {
+    "usuario": "mdonoso"
+  },
+  {
+    "usuario": "dalejandrori"
+  },
+  {
+    "usuario": "dalejandrobu"
+  },
+  {
+    "usuario": "mrivera"
+  },
+  {
+    "usuario": "jandrespizar"
+  },
+  {
+    "usuario": "lwilliams"
+  },
+  {
+    "usuario": "zcarrasco"
+  },
+  {
+    "usuario": "aguzman"
+  },
+  {
+    "usuario": "sfernandez"
+  },
+  {
+    "usuario": "lsalazar"
+  }
+]

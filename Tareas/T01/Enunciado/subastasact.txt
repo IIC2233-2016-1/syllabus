@@ -1,0 +1,12982 @@
+[
+  {
+    "fecha_inicio": "2016-01-25 06:46:08",
+    "productos": [
+      57498917704
+    ],
+    "vendedor": "mreyes",
+    "id": 12438475685,
+    "historial": [
+      [
+        "lvargas",
+        58065
+      ],
+      [
+        "xgarcia",
+        64917
+      ],
+      [
+        "avergara",
+        70283
+      ],
+      [
+        "rortiz",
+        81516
+      ],
+      [
+        "mvega",
+        85126
+      ],
+      [
+        "dalejandroma",
+        85261
+      ],
+      [
+        "mpatel",
+        91758
+      ],
+      [
+        "vhenriquez",
+        106066
+      ],
+      [
+        "imaldonado",
+        116141
+      ],
+      [
+        "karaya",
+        126458
+      ],
+      [
+        "amorales",
+        127924
+      ],
+      [
+        "vwong",
+        139059
+      ],
+      [
+        "worellana",
+        140371
+      ],
+      [
+        "mrivera",
+        155956
+      ],
+      [
+        "lgodoy",
+        178996
+      ],
+      [
+        "scastro",
+        190933
+      ],
+      [
+        "chenriquez",
+        204076
+      ],
+      [
+        "vvera",
+        214048
+      ]
+    ],
+    "fecha_termino": "2016-09-27 18:20:29",
+    "precio": 204077
+  },
+  {
+    "fecha_inicio": "2016-01-13 13:49:59",
+    "productos": [
+      10795385729
+    ],
+    "vendedor": "mvega",
+    "id": 44210447050,
+    "historial": [
+      [
+        "lvega",
+        65711
+      ],
+      [
+        "mjoseruiz",
+        76873
+      ],
+      [
+        "nrivera",
+        87011
+      ],
+      [
+        "mgallardo",
+        109679
+      ],
+      [
+        "nvasquez",
+        110901
+      ],
+      [
+        "mpalma",
+        121226
+      ],
+      [
+        "tgarcia",
+        128511
+      ],
+      [
+        "apaularojas",
+        128604
+      ],
+      [
+        "mdiaz",
+        143669
+      ],
+      [
+        "tvaldes",
+        144635
+      ],
+      [
+        "rgarrido",
+        159583
+      ],
+      [
+        "apaulabustos",
+        166162
+      ],
+      [
+        "irojas",
+        185701
+      ],
+      [
+        "hmolina",
+        201107
+      ],
+      [
+        "sguerrero",
+        230969
+      ],
+      [
+        "dvenegas",
+        233994
+      ]
+    ],
+    "fecha_termino": "2016-10-25 15:22:23",
+    "precio": 230970
+  },
+  {
+    "fecha_inicio": "2016-01-24 03:36:36",
+    "productos": [
+      89197115297
+    ],
+    "vendedor": "lvasquez",
+    "id": 62535735454,
+    "historial": [
+      [
+        "smaldonado",
+        56390
+      ],
+      [
+        "npalma",
+        73931
+      ],
+      [
+        "vparedes",
+        126871
+      ],
+      [
+        "rortiz",
+        149682
+      ],
+      [
+        "csanchez",
+        193030
+      ],
+      [
+        "sromero",
+        193784
+      ],
+      [
+        "rjimenez",
+        193910
+      ],
+      [
+        "falvarez",
+        198205
+      ],
+      [
+        "ltorres",
+        198279
+      ],
+      [
+        "creyes",
+        220373
+      ]
+    ],
+    "fecha_termino": "2016-10-20 12:54:06",
+    "precio": 198280
+  },
+  {
+    "fecha_inicio": "2016-02-24 09:16:48",
+    "productos": [
+      15978142749
+    ],
+    "vendedor": "vcampbell",
+    "id": 70378743982,
+    "historial": [
+      [
+        "ccaceres",
+        104552
+      ],
+      [
+        "mvega",
+        119247
+      ],
+      [
+        "ialvarez",
+        168125
+      ],
+      [
+        "aparedes",
+        183744
+      ],
+      [
+        "jsalazar",
+        199869
+      ],
+      [
+        "lmartinez",
+        200635
+      ],
+      [
+        "jjosehernand",
+        201281
+      ],
+      [
+        "scampbell",
+        202036
+      ]
+    ],
+    "fecha_termino": "2016-12-29 15:00:17",
+    "precio": 201282
+  },
+  {
+    "fecha_inicio": "2016-01-18 14:59:09",
+    "productos": [
+      27181377182
+    ],
+    "vendedor": "ealvarado",
+    "id": 46316337794,
+    "historial": [
+      [
+        "rortiz",
+        58462
+      ],
+      [
+        "msalinas",
+        58787
+      ],
+      [
+        "sruiz",
+        71148
+      ],
+      [
+        "lmolina",
+        79272
+      ],
+      [
+        "gsandoval",
+        96880
+      ],
+      [
+        "emaldonado",
+        98971
+      ],
+      [
+        "amedina",
+        103817
+      ],
+      [
+        "isaavedra",
+        115936
+      ],
+      [
+        "descobar",
+        116585
+      ],
+      [
+        "etapia",
+        134114
+      ],
+      [
+        "anavarro",
+        145820
+      ],
+      [
+        "pvaldes",
+        146473
+      ],
+      [
+        "mpatel",
+        153352
+      ],
+      [
+        "jdavidaraya",
+        161372
+      ],
+      [
+        "rcarrasco",
+        167611
+      ],
+      [
+        "vsepulveda",
+        177024
+      ],
+      [
+        "asaavedra",
+        189130
+      ],
+      [
+        "lsmith",
+        192008
+      ],
+      [
+        "mjosegomez",
+        196202
+      ],
+      [
+        "lgallardo",
+        203672
+      ],
+      [
+        "bwilson",
+        208424
+      ],
+      [
+        "afelipevera",
+        216707
+      ],
+      [
+        "drivera",
+        218187
+      ],
+      [
+        "jjoseparedes",
+        221917
+      ],
+      [
+        "jromero",
+        231093
+      ]
+    ],
+    "fecha_termino": "2016-06-22 09:07:42",
+    "precio": 221918
+  },
+  {
+    "fecha_inicio": "2016-02-03 04:03:48",
+    "productos": [
+      69372794029
+    ],
+    "vendedor": "snavarro",
+    "id": 16388098200,
+    "historial": [
+      [
+        "falvarez",
+        67466
+      ],
+      [
+        "vvera",
+        84386
+      ],
+      [
+        "gsanchez",
+        86903
+      ],
+      [
+        "lvargas",
+        122796
+      ],
+      [
+        "dvargas",
+        133271
+      ],
+      [
+        "acastro",
+        134735
+      ],
+      [
+        "vvera",
+        140765
+      ],
+      [
+        "aparedes",
+        147764
+      ],
+      [
+        "jandressaez",
+        198462
+      ],
+      [
+        "mpoblete",
+        203901
+      ],
+      [
+        "wrivera",
+        209631
+      ],
+      [
+        "dmaldonado",
+        219121
+      ],
+      [
+        "agallardo",
+        226246
+      ],
+      [
+        "mmedina",
+        231222
+      ],
+      [
+        "ebustos",
+        232435
+      ],
+      [
+        "jdavidfernan",
+        236476
+      ]
+    ],
+    "fecha_termino": "2016-08-05 07:17:38",
+    "precio": 232436
+  },
+  {
+    "fecha_inicio": "2016-02-29 05:05:51",
+    "productos": [
+      46448904636
+    ],
+    "vendedor": "xcortes",
+    "id": 21876592097,
+    "historial": [
+      [
+        "jguzman",
+        57808
+      ],
+      [
+        "aaravena",
+        87392
+      ],
+      [
+        "mcarvajal",
+        89290
+      ],
+      [
+        "odiaz",
+        148113
+      ],
+      [
+        "lvega",
+        150579
+      ],
+      [
+        "scortes",
+        150657
+      ],
+      [
+        "ccampbell",
+        160346
+      ],
+      [
+        "caraya",
+        169711
+      ],
+      [
+        "psaavedra",
+        174421
+      ],
+      [
+        "gvalenzuela",
+        210216
+      ],
+      [
+        "tsandoval",
+        226779
+      ],
+      [
+        "bgodoy",
+        231003
+      ]
+    ],
+    "fecha_termino": "2016-08-06 19:11:43",
+    "precio": 226780
+  },
+  {
+    "fecha_inicio": "2016-03-11 06:59:17",
+    "productos": [
+      91216869655
+    ],
+    "vendedor": "irojas",
+    "id": 28033880356,
+    "historial": [
+      [
+        "mespinoza",
+        71143
+      ],
+      [
+        "dorellana",
+        75458
+      ],
+      [
+        "lescobar",
+        92108
+      ],
+      [
+        "fsmith",
+        98265
+      ],
+      [
+        "pmaldonado",
+        102992
+      ],
+      [
+        "dalejandroco",
+        130771
+      ],
+      [
+        "hparra",
+        140604
+      ],
+      [
+        "earaya",
+        146321
+      ],
+      [
+        "sfigueroa",
+        146350
+      ],
+      [
+        "chenriquez",
+        147566
+      ],
+      [
+        "rgarcia",
+        187428
+      ]
+    ],
+    "fecha_termino": "2016-04-18 12:46:04",
+    "precio": 147567
+  },
+  {
+    "fecha_inicio": "2016-03-06 23:52:28",
+    "productos": [
+      16249281817
+    ],
+    "vendedor": "mpalma",
+    "id": 10115987517,
+    "historial": [
+      [
+        "mpatel",
+        57901
+      ],
+      [
+        "apaularojas",
+        72351
+      ],
+      [
+        "bsalinas",
+        102647
+      ],
+      [
+        "aaravena",
+        103520
+      ],
+      [
+        "mwong",
+        121465
+      ],
+      [
+        "mthompson",
+        137697
+      ],
+      [
+        "mromero",
+        140550
+      ],
+      [
+        "lgonzalez",
+        145517
+      ],
+      [
+        "vcampos",
+        168628
+      ],
+      [
+        "agomez",
+        170657
+      ],
+      [
+        "svasquez",
+        180190
+      ],
+      [
+        "prodriguez",
+        196807
+      ],
+      [
+        "vjara",
+        208238
+      ],
+      [
+        "asepulveda",
+        222350
+      ],
+      [
+        "jandrespizar",
+        225579
+      ]
+    ],
+    "fecha_termino": "2016-09-01 17:14:55",
+    "precio": 222351
+  },
+  {
+    "fecha_inicio": "2016-02-07 08:22:41",
+    "productos": [
+      51993360457
+    ],
+    "vendedor": "atoro",
+    "id": 23582212480,
+    "historial": [
+      [
+        "ajimenez",
+        59663
+      ],
+      [
+        "agodoy",
+        74942
+      ],
+      [
+        "svasquez",
+        81740
+      ],
+      [
+        "valarcon",
+        120534
+      ],
+      [
+        "dalejandroco",
+        125883
+      ],
+      [
+        "fsoto",
+        151941
+      ],
+      [
+        "scampbell",
+        157418
+      ],
+      [
+        "gsalinas",
+        183640
+      ],
+      [
+        "cparedes",
+        185539
+      ],
+      [
+        "agallardo",
+        232011
+      ]
+    ],
+    "fecha_termino": "2016-12-29 05:41:00",
+    "precio": 185540
+  },
+  {
+    "fecha_inicio": "2016-01-05 09:46:39",
+    "productos": [
+      93522204957
+    ],
+    "vendedor": "apaulatapia",
+    "id": 28736087696,
+    "historial": [
+      [
+        "mpoblete",
+        82951
+      ],
+      [
+        "amolina",
+        89936
+      ],
+      [
+        "dalejandroco",
+        133280
+      ],
+      [
+        "gflores",
+        136345
+      ],
+      [
+        "vmorales",
+        174496
+      ],
+      [
+        "atoro",
+        212127
+      ],
+      [
+        "jespinoza",
+        217588
+      ],
+      [
+        "dalejandroco",
+        237541
+      ]
+    ],
+    "fecha_termino": "2016-12-04 20:23:57",
+    "precio": 217589
+  },
+  {
+    "fecha_inicio": "2016-02-22 22:54:02",
+    "productos": [
+      86929360558
+    ],
+    "vendedor": "jdavidfernan",
+    "id": 64114238393,
+    "historial": [
+      [
+        "rgallardo",
+        61582
+      ],
+      [
+        "mhenriquez",
+        79932
+      ],
+      [
+        "mcarrasco",
+        90488
+      ],
+      [
+        "jdavidpoblet",
+        96226
+      ],
+      [
+        "mpalma",
+        97736
+      ],
+      [
+        "sramirez",
+        117272
+      ],
+      [
+        "acampbell",
+        133717
+      ],
+      [
+        "svaldes",
+        155468
+      ],
+      [
+        "asanhueza",
+        158139
+      ],
+      [
+        "mtorres",
+        164072
+      ],
+      [
+        "ncastro",
+        169331
+      ],
+      [
+        "lcampos",
+        185259
+      ],
+      [
+        "bgodoy",
+        189377
+      ],
+      [
+        "bhernandez",
+        211343
+      ],
+      [
+        "jjosehernand",
+        217805
+      ],
+      [
+        "odiaz",
+        221062
+      ],
+      [
+        "agallardo",
+        221242
+      ],
+      [
+        "breyes",
+        224310
+      ],
+      [
+        "bvega",
+        228750
+      ],
+      [
+        "falvarado",
+        231767
+      ],
+      [
+        "sramirez",
+        232925
+      ],
+      [
+        "psalinas",
+        233922
+      ]
+    ],
+    "fecha_termino": "2016-11-19 21:49:58",
+    "precio": 232926
+  },
+  {
+    "fecha_inicio": "2016-02-11 18:17:48",
+    "productos": [
+      49856508447
+    ],
+    "vendedor": "sgodoy",
+    "id": 51048869335,
+    "historial": [
+      [
+        "hhernandez",
+        118408
+      ],
+      [
+        "ariquelme",
+        150535
+      ],
+      [
+        "mparedes",
+        158297
+      ],
+      [
+        "rmiranda",
+        167998
+      ]
+    ],
+    "fecha_termino": "2016-04-23 10:15:01",
+    "precio": 158298
+  },
+  {
+    "fecha_inicio": "2016-02-29 23:22:25",
+    "productos": [
+      91046731877
+    ],
+    "vendedor": "ssmith",
+    "id": 61236601222,
+    "historial": [
+      [
+        "jsalazar",
+        56788
+      ],
+      [
+        "asepulveda",
+        56928
+      ],
+      [
+        "mjones",
+        58400
+      ],
+      [
+        "gvalenzuela",
+        69680
+      ],
+      [
+        "agarcia",
+        72501
+      ],
+      [
+        "bcarvajal",
+        76202
+      ],
+      [
+        "lgomez",
+        96934
+      ],
+      [
+        "abustos",
+        99256
+      ],
+      [
+        "jdavidaraya",
+        113384
+      ],
+      [
+        "vortega",
+        127268
+      ],
+      [
+        "cbravo",
+        128576
+      ],
+      [
+        "nbrown",
+        128863
+      ],
+      [
+        "drivera",
+        143268
+      ],
+      [
+        "mpoblete",
+        164980
+      ],
+      [
+        "vsepulveda",
+        182744
+      ],
+      [
+        "amolina",
+        183480
+      ],
+      [
+        "zcarrasco",
+        186398
+      ],
+      [
+        "ebustos",
+        186466
+      ],
+      [
+        "crivera",
+        204833
+      ],
+      [
+        "mvenegas",
+        228507
+      ],
+      [
+        "vlee",
+        234238
+      ],
+      [
+        "mwong",
+        234744
+      ],
+      [
+        "egallardo",
+        239913
+      ]
+    ],
+    "fecha_termino": "2016-12-26 11:32:17",
+    "precio": 234745
+  },
+  {
+    "fecha_inicio": "2016-03-07 04:12:57",
+    "productos": [
+      85316213975
+    ],
+    "vendedor": "morellana",
+    "id": 39565631570,
+    "historial": [
+      [
+        "zvargas",
+        90851
+      ],
+      [
+        "rvaldes",
+        100899
+      ],
+      [
+        "agarrido",
+        110663
+      ],
+      [
+        "sdonoso",
+        123708
+      ],
+      [
+        "lhernandez",
+        124802
+      ],
+      [
+        "dgarrido",
+        151387
+      ],
+      [
+        "worellana",
+        162959
+      ],
+      [
+        "mjara",
+        180614
+      ],
+      [
+        "sromero",
+        186118
+      ],
+      [
+        "mespinoza",
+        204958
+      ],
+      [
+        "drivera",
+        224277
+      ],
+      [
+        "jandresvidal",
+        232065
+      ]
+    ],
+    "fecha_termino": "2016-05-05 13:37:05",
+    "precio": 224278
+  },
+  {
+    "fecha_inicio": "2016-01-28 09:27:07",
+    "productos": [
+      45139550819
+    ],
+    "vendedor": "lvidal",
+    "id": 66586053308,
+    "historial": [
+      [
+        "rjimenez",
+        56283
+      ],
+      [
+        "bgodoy",
+        58407
+      ],
+      [
+        "mwong",
+        66705
+      ],
+      [
+        "dsandoval",
+        76488
+      ],
+      [
+        "rfuentes",
+        76977
+      ],
+      [
+        "gflores",
+        80161
+      ],
+      [
+        "xrojas",
+        110157
+      ],
+      [
+        "fgutierrez",
+        116204
+      ],
+      [
+        "pvaldes",
+        123880
+      ],
+      [
+        "privera",
+        125377
+      ],
+      [
+        "bhernandez",
+        137219
+      ],
+      [
+        "tsandoval",
+        138045
+      ],
+      [
+        "morellana",
+        144930
+      ],
+      [
+        "rlopez",
+        148571
+      ],
+      [
+        "zguzman",
+        167338
+      ],
+      [
+        "xmartinez",
+        175121
+      ],
+      [
+        "ahernandez",
+        211436
+      ]
+    ],
+    "fecha_termino": "2016-10-25 20:36:50",
+    "precio": 175122
+  },
+  {
+    "fecha_inicio": "2016-01-17 18:11:38",
+    "productos": [
+      89464412563
+    ],
+    "vendedor": "dalejandroco",
+    "id": 92961114222,
+    "historial": [
+      [
+        "jbustamante",
+        56972
+      ],
+      [
+        "sfarias",
+        69640
+      ],
+      [
+        "tsandoval",
+        83250
+      ],
+      [
+        "bwilson",
+        88461
+      ],
+      [
+        "asandoval",
+        105059
+      ],
+      [
+        "rfuentes",
+        136570
+      ],
+      [
+        "lsalazar",
+        139837
+      ],
+      [
+        "pgonzalez",
+        142506
+      ],
+      [
+        "avega",
+        144710
+      ],
+      [
+        "valvarez",
+        145858
+      ],
+      [
+        "mromero",
+        150857
+      ],
+      [
+        "svasquez",
+        156777
+      ],
+      [
+        "mgallardo",
+        157386
+      ],
+      [
+        "lfernandez",
+        160435
+      ],
+      [
+        "mjoseruiz",
+        164787
+      ],
+      [
+        "vthompson",
+        170306
+      ],
+      [
+        "lflores",
+        179338
+      ],
+      [
+        "svidal",
+        211768
+      ],
+      [
+        "lgallardo",
+        215939
+      ],
+      [
+        "bsalinas",
+        221404
+      ],
+      [
+        "bsaavedra",
+        228105
+      ]
+    ],
+    "fecha_termino": "2016-07-10 19:47:34",
+    "precio": 221405
+  },
+  {
+    "fecha_inicio": "2016-01-16 08:17:36",
+    "productos": [
+      26423818068
+    ],
+    "vendedor": "iolivares",
+    "id": 30729941828,
+    "historial": [
+      [
+        "lcampos",
+        62547
+      ],
+      [
+        "igarrido",
+        63584
+      ],
+      [
+        "mcaceres",
+        65192
+      ],
+      [
+        "acampos",
+        70108
+      ],
+      [
+        "briquelme",
+        75519
+      ],
+      [
+        "agodoy",
+        81129
+      ],
+      [
+        "odiaz",
+        94798
+      ],
+      [
+        "mjones",
+        98889
+      ],
+      [
+        "asandoval",
+        105795
+      ],
+      [
+        "fparedes",
+        106386
+      ],
+      [
+        "gtaylor",
+        112366
+      ],
+      [
+        "aguzman",
+        134523
+      ],
+      [
+        "mpatel",
+        155299
+      ],
+      [
+        "ahernandez",
+        155853
+      ],
+      [
+        "scontreras",
+        159967
+      ],
+      [
+        "igarrido",
+        163377
+      ],
+      [
+        "mcastro",
+        179680
+      ],
+      [
+        "spino",
+        183762
+      ],
+      [
+        "cmiranda",
+        195781
+      ],
+      [
+        "asilva",
+        200096
+      ],
+      [
+        "adiaz",
+        205827
+      ],
+      [
+        "respinoza",
+        217083
+      ],
+      [
+        "vmartin",
+        220676
+      ],
+      [
+        "mmiranda",
+        239826
+      ]
+    ],
+    "fecha_termino": "2016-10-23 19:42:36",
+    "precio": 220677
+  },
+  {
+    "fecha_inicio": "2016-01-03 22:04:30",
+    "productos": [
+      42670552083
+    ],
+    "vendedor": "saguilera",
+    "id": 21595423406,
+    "historial": [
+      [
+        "bgodoy",
+        89965
+      ],
+      [
+        "mflores",
+        92532
+      ],
+      [
+        "pmaldonado",
+        97014
+      ],
+      [
+        "imaldonado",
+        118152
+      ],
+      [
+        "dalejandrohe",
+        128509
+      ],
+      [
+        "maguilera",
+        130747
+      ],
+      [
+        "fromero",
+        132588
+      ],
+      [
+        "ebustos",
+        138792
+      ],
+      [
+        "dvenegas",
+        140847
+      ],
+      [
+        "wmartinez",
+        147121
+      ],
+      [
+        "hhernandez",
+        154616
+      ],
+      [
+        "ariquelme",
+        156262
+      ],
+      [
+        "ssanchez",
+        159581
+      ],
+      [
+        "pwilliams",
+        159948
+      ],
+      [
+        "vvera",
+        165681
+      ],
+      [
+        "gflores",
+        168352
+      ],
+      [
+        "pgonzalez",
+        173954
+      ],
+      [
+        "iolivares",
+        180021
+      ],
+      [
+        "afuentes",
+        186430
+      ],
+      [
+        "emaldonado",
+        197981
+      ],
+      [
+        "rgallardo",
+        199058
+      ],
+      [
+        "ssmith",
+        199676
+      ],
+      [
+        "jvargas",
+        224905
+      ],
+      [
+        "dfernandez",
+        230538
+      ]
+    ],
+    "fecha_termino": "2016-05-19 12:47:05",
+    "precio": 224906
+  },
+  {
+    "fecha_inicio": "2016-02-11 20:20:37",
+    "productos": [
+      77033192088
+    ],
+    "vendedor": "halarcon",
+    "id": 60971348141,
+    "historial": [
+      [
+        "mbravo",
+        136444
+      ],
+      [
+        "lsmith",
+        162894
+      ],
+      [
+        "abrown",
+        168679
+      ],
+      [
+        "etapia",
+        174729
+      ],
+      [
+        "svasquez",
+        183619
+      ],
+      [
+        "cnavarro",
+        219522
+      ]
+    ],
+    "fecha_termino": "2016-11-07 02:47:41",
+    "precio": 183620
+  },
+  {
+    "fecha_inicio": "2016-02-21 02:52:22",
+    "productos": [
+      31838395966
+    ],
+    "vendedor": "mpatel",
+    "id": 90443472901,
+    "historial": [
+      [
+        "prodriguez",
+        61181
+      ],
+      [
+        "aescobar",
+        76146
+      ],
+      [
+        "spino",
+        76512
+      ],
+      [
+        "hsanhueza",
+        89110
+      ],
+      [
+        "csaez",
+        115585
+      ],
+      [
+        "apaulatapia",
+        141594
+      ],
+      [
+        "cnavarro",
+        163251
+      ],
+      [
+        "dsandoval",
+        163997
+      ],
+      [
+        "mjoserodrigu",
+        211800
+      ]
+    ],
+    "fecha_termino": "2016-11-07 00:40:21",
+    "precio": 163998
+  },
+  {
+    "fecha_inicio": "2016-01-16 16:25:12",
+    "productos": [
+      15971200795
+    ],
+    "vendedor": "mmiranda",
+    "id": 52708071453,
+    "historial": [
+      [
+        "mriquelme",
+        185190
+      ],
+      [
+        "dvargas",
+        207601
+      ]
+    ],
+    "fecha_termino": "2016-06-23 10:33:09",
+    "precio": 185191
+  },
+  {
+    "fecha_inicio": "2016-02-05 21:31:01",
+    "productos": [
+      46613637605
+    ],
+    "vendedor": "sfigueroa",
+    "id": 94473045373,
+    "historial": [
+      [
+        "isandoval",
+        86254
+      ],
+      [
+        "rmiranda",
+        89906
+      ],
+      [
+        "rjones",
+        93883
+      ],
+      [
+        "aolivares",
+        94218
+      ],
+      [
+        "sruiz",
+        96854
+      ],
+      [
+        "rmiranda",
+        99887
+      ],
+      [
+        "mgallardo",
+        100981
+      ],
+      [
+        "aherrera",
+        106946
+      ],
+      [
+        "snavarro",
+        113243
+      ],
+      [
+        "avergara",
+        124568
+      ],
+      [
+        "pvasquez",
+        125876
+      ],
+      [
+        "aortiz",
+        129331
+      ],
+      [
+        "msanmartin",
+        135806
+      ],
+      [
+        "gsanchez",
+        137884
+      ],
+      [
+        "anavarro",
+        146355
+      ],
+      [
+        "tpizarro",
+        185257
+      ],
+      [
+        "hbustos",
+        193627
+      ],
+      [
+        "sruiz",
+        193792
+      ],
+      [
+        "vwong",
+        196288
+      ],
+      [
+        "srivera",
+        202393
+      ],
+      [
+        "jolivares",
+        227340
+      ],
+      [
+        "sparedes",
+        228051
+      ],
+      [
+        "salarcon",
+        236542
+      ],
+      [
+        "mcaceres",
+        239268
+      ]
+    ],
+    "fecha_termino": "2016-09-30 22:32:31",
+    "precio": 236543
+  },
+  {
+    "fecha_inicio": "2016-02-22 15:41:25",
+    "productos": [
+      61207501605
+    ],
+    "vendedor": "sguerrero",
+    "id": 84952922334,
+    "historial": [
+      [
+        "jnavarro",
+        62555
+      ],
+      [
+        "jramirez",
+        69567
+      ],
+      [
+        "ssanchez",
+        71703
+      ],
+      [
+        "msalinas",
+        72392
+      ],
+      [
+        "isaavedra",
+        76973
+      ],
+      [
+        "fleiva",
+        81112
+      ],
+      [
+        "jromero",
+        107079
+      ],
+      [
+        "mcarrasco",
+        107272
+      ],
+      [
+        "mbustamante",
+        121693
+      ],
+      [
+        "dsalazar",
+        128683
+      ],
+      [
+        "mpoblete",
+        131229
+      ],
+      [
+        "jjosecortes",
+        134181
+      ],
+      [
+        "dsalinas",
+        163338
+      ],
+      [
+        "ealvarado",
+        167646
+      ],
+      [
+        "jvaldes",
+        169607
+      ],
+      [
+        "mbrown",
+        169630
+      ],
+      [
+        "vmorales",
+        196004
+      ],
+      [
+        "tpizarro",
+        201622
+      ],
+      [
+        "aguzman",
+        202296
+      ],
+      [
+        "malvarez",
+        210308
+      ],
+      [
+        "jpalma",
+        232087
+      ]
+    ],
+    "fecha_termino": "2016-12-13 22:56:30",
+    "precio": 210309
+  },
+  {
+    "fecha_inicio": "2016-02-20 10:50:39",
+    "productos": [
+      24062729778
+    ],
+    "vendedor": "svargas",
+    "id": 75804550003,
+    "historial": [
+      [
+        "spino",
+        95033
+      ],
+      [
+        "agodoy",
+        99672
+      ],
+      [
+        "rpatel",
+        107581
+      ],
+      [
+        "jsalazar",
+        148488
+      ],
+      [
+        "acampbell",
+        149099
+      ],
+      [
+        "msanhueza",
+        158493
+      ]
+    ],
+    "fecha_termino": "2016-03-26 14:09:13",
+    "precio": 149100
+  },
+  {
+    "fecha_inicio": "2016-01-28 10:59:06",
+    "productos": [
+      42746178618
+    ],
+    "vendedor": "bhernandez",
+    "id": 35364942264,
+    "historial": [
+      [
+        "dgarrido",
+        66609
+      ],
+      [
+        "hhernandez",
+        71113
+      ],
+      [
+        "mjosegarcia",
+        92130
+      ],
+      [
+        "jandresvidal",
+        100952
+      ],
+      [
+        "acampbell",
+        118904
+      ],
+      [
+        "nvasquez",
+        129736
+      ],
+      [
+        "ssanchez",
+        131032
+      ],
+      [
+        "mbustamante",
+        133088
+      ],
+      [
+        "sdiaz",
+        139938
+      ],
+      [
+        "jbrown",
+        159916
+      ],
+      [
+        "earaya",
+        185672
+      ],
+      [
+        "jandressaez",
+        194565
+      ],
+      [
+        "ssmith",
+        217914
+      ],
+      [
+        "lpoblete",
+        224725
+      ],
+      [
+        "bsalinas",
+        232251
+      ],
+      [
+        "gcastro",
+        238142
+      ]
+    ],
+    "fecha_termino": "2016-12-15 21:57:38",
+    "precio": 232252
+  },
+  {
+    "fecha_inicio": "2016-01-07 03:14:21",
+    "productos": [
+      12380648873
+    ],
+    "vendedor": "agallardo",
+    "id": 68396380448,
+    "historial": [
+      [
+        "rjones",
+        72133
+      ],
+      [
+        "aherrera",
+        95520
+      ],
+      [
+        "jolivares",
+        106895
+      ],
+      [
+        "mdiaz",
+        111110
+      ],
+      [
+        "vsepulveda",
+        179099
+      ],
+      [
+        "tescobar",
+        188302
+      ],
+      [
+        "aalvarado",
+        231550
+      ],
+      [
+        "ncastro",
+        236569
+      ]
+    ],
+    "fecha_termino": "2016-03-16 10:14:43",
+    "precio": 231551
+  },
+  {
+    "fecha_inicio": "2016-01-16 06:50:18",
+    "productos": [
+      73618302574
+    ],
+    "vendedor": "cbravo",
+    "id": 26563611256,
+    "historial": [
+      [
+        "afelipevera",
+        67099
+      ],
+      [
+        "dtapia",
+        79787
+      ],
+      [
+        "rvidal",
+        108000
+      ],
+      [
+        "ssmith",
+        113084
+      ],
+      [
+        "vgallardo",
+        114552
+      ],
+      [
+        "kalarcon",
+        143200
+      ],
+      [
+        "amedina",
+        143617
+      ],
+      [
+        "lvasquez",
+        159020
+      ],
+      [
+        "pvasquez",
+        159072
+      ],
+      [
+        "molivares",
+        159210
+      ],
+      [
+        "kalarcon",
+        159788
+      ],
+      [
+        "elee",
+        181383
+      ],
+      [
+        "amolina",
+        189217
+      ],
+      [
+        "rmiranda",
+        205367
+      ],
+      [
+        "lreyes",
+        220947
+      ]
+    ],
+    "fecha_termino": "2016-11-08 07:13:36",
+    "precio": 205368
+  },
+  {
+    "fecha_inicio": "2016-01-17 06:34:10",
+    "productos": [
+      96155027522
+    ],
+    "vendedor": "naravena",
+    "id": 47423354153,
+    "historial": [
+      [
+        "lreyes",
+        101250
+      ],
+      [
+        "apaulabustos",
+        136185
+      ],
+      [
+        "jjoseguerrer",
+        161995
+      ],
+      [
+        "dhenriquez",
+        237353
+      ]
+    ],
+    "fecha_termino": "2016-12-24 00:59:47",
+    "precio": 161996
+  },
+  {
+    "fecha_inicio": "2016-02-20 10:21:04",
+    "productos": [
+      85316213975
+    ],
+    "vendedor": "morellana",
+    "id": 39047298145,
+    "historial": [
+      [
+        "afigueroa",
+        61425
+      ],
+      [
+        "mjoseruiz",
+        74267
+      ],
+      [
+        "apalma",
+        86731
+      ],
+      [
+        "mflores",
+        89994
+      ],
+      [
+        "respinoza",
+        91988
+      ],
+      [
+        "ialvarez",
+        92247
+      ],
+      [
+        "jvargas",
+        106729
+      ],
+      [
+        "jdavidpoblet",
+        109968
+      ],
+      [
+        "lolivares",
+        126827
+      ],
+      [
+        "msaavedra",
+        129666
+      ],
+      [
+        "rcarrasco",
+        135013
+      ],
+      [
+        "mwilliams",
+        143337
+      ],
+      [
+        "npalma",
+        144462
+      ],
+      [
+        "mescobar",
+        161529
+      ],
+      [
+        "malvarez",
+        188197
+      ],
+      [
+        "tescobar",
+        215574
+      ],
+      [
+        "mreyes",
+        239389
+      ]
+    ],
+    "fecha_termino": "2016-11-02 21:43:06",
+    "precio": 215575
+  },
+  {
+    "fecha_inicio": "2016-01-05 00:25:58",
+    "productos": [
+      74518443310
+    ],
+    "vendedor": "lcampos",
+    "id": 21772170248,
+    "historial": [
+      [
+        "mmedina",
+        82706
+      ],
+      [
+        "tescobar",
+        84181
+      ],
+      [
+        "mpalma",
+        97792
+      ],
+      [
+        "rpino",
+        99068
+      ],
+      [
+        "ngallardo",
+        99435
+      ],
+      [
+        "lrojas",
+        116183
+      ],
+      [
+        "vgutierrez",
+        162976
+      ],
+      [
+        "mmedina",
+        190150
+      ],
+      [
+        "earaya",
+        202975
+      ],
+      [
+        "svasquez",
+        206237
+      ],
+      [
+        "mjara",
+        237957
+      ]
+    ],
+    "fecha_termino": "2016-08-24 09:51:21",
+    "precio": 206238
+  },
+  {
+    "fecha_inicio": "2016-01-06 19:32:14",
+    "productos": [
+      87484131181
+    ],
+    "vendedor": "prodriguez",
+    "id": 18386388143,
+    "historial": [
+      [
+        "irojas",
+        100111
+      ],
+      [
+        "jalvarez",
+        107512
+      ],
+      [
+        "jramirez",
+        121647
+      ],
+      [
+        "mgonzalez",
+        142328
+      ],
+      [
+        "sromero",
+        170933
+      ],
+      [
+        "mcaceres",
+        191493
+      ],
+      [
+        "dalejandroma",
+        197679
+      ],
+      [
+        "cparedes",
+        200988
+      ],
+      [
+        "tvaldes",
+        206266
+      ]
+    ],
+    "fecha_termino": "2016-04-04 08:41:30",
+    "precio": 200989
+  },
+  {
+    "fecha_inicio": "2016-02-27 16:11:02",
+    "productos": [
+      37022461874
+    ],
+    "vendedor": "crivera",
+    "id": 79570281322,
+    "historial": [
+      [
+        "drivera",
+        68737
+      ],
+      [
+        "pruiz",
+        74349
+      ],
+      [
+        "asanhueza",
+        89668
+      ],
+      [
+        "msanhueza",
+        95415
+      ],
+      [
+        "msanhueza",
+        100251
+      ],
+      [
+        "karaya",
+        106303
+      ],
+      [
+        "lwilliams",
+        111638
+      ],
+      [
+        "prodriguez",
+        113954
+      ],
+      [
+        "dvera",
+        114538
+      ],
+      [
+        "spino",
+        116100
+      ],
+      [
+        "lrojas",
+        121839
+      ],
+      [
+        "rmiranda",
+        208437
+      ],
+      [
+        "nbrown",
+        228278
+      ],
+      [
+        "rsaez",
+        235593
+      ]
+    ],
+    "fecha_termino": "2016-03-14 23:04:45",
+    "precio": 228279
+  },
+  {
+    "fecha_inicio": "2016-02-22 05:35:26",
+    "productos": [
+      77569431858
+    ],
+    "vendedor": "caraya",
+    "id": 88922474461,
+    "historial": [
+      [
+        "xsmith",
+        56168
+      ],
+      [
+        "apalma",
+        75514
+      ],
+      [
+        "mfarias",
+        82040
+      ],
+      [
+        "rsanhueza",
+        95046
+      ],
+      [
+        "mmartinez",
+        108606
+      ],
+      [
+        "drivera",
+        122321
+      ],
+      [
+        "molivares",
+        131767
+      ],
+      [
+        "lsalazar",
+        132293
+      ],
+      [
+        "dbustos",
+        141153
+      ],
+      [
+        "mherrera",
+        157408
+      ],
+      [
+        "scarvajal",
+        171917
+      ],
+      [
+        "agodoy",
+        183853
+      ],
+      [
+        "brodriguez",
+        196149
+      ],
+      [
+        "sgodoy",
+        213196
+      ],
+      [
+        "agarcia",
+        214388
+      ],
+      [
+        "lsalinas",
+        226290
+      ]
+    ],
+    "fecha_termino": "2016-10-27 11:34:38",
+    "precio": 214389
+  },
+  {
+    "fecha_inicio": "2016-03-04 11:40:36",
+    "productos": [
+      84708934839
+    ],
+    "vendedor": "pgonzalez",
+    "id": 70961183830,
+    "historial": [
+      [
+        "jcaceres",
+        66232
+      ],
+      [
+        "rjones",
+        80661
+      ],
+      [
+        "mdiaz",
+        188836
+      ],
+      [
+        "mdiaz",
+        190691
+      ],
+      [
+        "smedina",
+        222646
+      ]
+    ],
+    "fecha_termino": "2016-06-29 12:44:18",
+    "precio": 190692
+  },
+  {
+    "fecha_inicio": "2016-02-18 22:14:35",
+    "productos": [
+      88898990165
+    ],
+    "vendedor": "bthompson",
+    "id": 79352488641,
+    "historial": [
+      [
+        "jbustamante",
+        81952
+      ],
+      [
+        "jvalenzuela",
+        83995
+      ],
+      [
+        "lmolina",
+        159609
+      ],
+      [
+        "scontreras",
+        171169
+      ],
+      [
+        "dalejandroma",
+        180723
+      ],
+      [
+        "cnavarro",
+        185097
+      ],
+      [
+        "dtapia",
+        202726
+      ],
+      [
+        "vmedina",
+        211534
+      ],
+      [
+        "cbravo",
+        220379
+      ],
+      [
+        "rgarcia",
+        236442
+      ],
+      [
+        "maguilera",
+        239986
+      ]
+    ],
+    "fecha_termino": "2016-06-18 15:02:25",
+    "precio": 236443
+  },
+  {
+    "fecha_inicio": "2016-02-28 11:49:02",
+    "productos": [
+      31635854969
+    ],
+    "vendedor": "mjosegomez",
+    "id": 60816781239,
+    "historial": [
+      [
+        "dbravo",
+        97648
+      ],
+      [
+        "jvaldes",
+        114586
+      ],
+      [
+        "bthompson",
+        204051
+      ]
+    ],
+    "fecha_termino": "2016-04-27 16:54:05",
+    "precio": 114587
+  },
+  {
+    "fecha_inicio": "2016-01-26 12:43:07",
+    "productos": [
+      28214156127
+    ],
+    "vendedor": "lpoblete",
+    "id": 43373915240,
+    "historial": [
+      [
+        "bsanhueza",
+        118986
+      ],
+      [
+        "lvega",
+        119940
+      ],
+      [
+        "ahenriquez",
+        125018
+      ],
+      [
+        "agarrido",
+        138530
+      ],
+      [
+        "jdavidaraya",
+        145581
+      ],
+      [
+        "jguzman",
+        169160
+      ],
+      [
+        "mjoserodrigu",
+        169925
+      ],
+      [
+        "cgonzalez",
+        196528
+      ],
+      [
+        "mjara",
+        200153
+      ],
+      [
+        "svasquez",
+        200812
+      ],
+      [
+        "dsalazar",
+        217498
+      ],
+      [
+        "avega",
+        223120
+      ],
+      [
+        "apoblete",
+        226154
+      ]
+    ],
+    "fecha_termino": "2016-10-30 02:09:02",
+    "precio": 223121
+  },
+  {
+    "fecha_inicio": "2016-01-24 17:16:35",
+    "productos": [
+      36171145621
+    ],
+    "vendedor": "ahenriquez",
+    "id": 96276384916,
+    "historial": [
+      [
+        "afelipetoro",
+        67265
+      ],
+      [
+        "iruiz",
+        76450
+      ],
+      [
+        "apaulatapia",
+        90187
+      ],
+      [
+        "ataylor",
+        92182
+      ],
+      [
+        "dhenriquez",
+        95878
+      ],
+      [
+        "mvega",
+        113478
+      ],
+      [
+        "ralarcon",
+        118824
+      ],
+      [
+        "efuentes",
+        137558
+      ],
+      [
+        "maguilera",
+        147597
+      ],
+      [
+        "jbustos",
+        154200
+      ],
+      [
+        "vcastro",
+        184386
+      ],
+      [
+        "smartin",
+        189616
+      ],
+      [
+        "jbrown",
+        190799
+      ],
+      [
+        "vcampbell",
+        202836
+      ],
+      [
+        "cnavarro",
+        203232
+      ],
+      [
+        "khenriquez",
+        212858
+      ],
+      [
+        "lgomez",
+        225837
+      ],
+      [
+        "vmorales",
+        234439
+      ]
+    ],
+    "fecha_termino": "2016-09-08 19:21:39",
+    "precio": 225838
+  },
+  {
+    "fecha_inicio": "2016-01-23 17:06:13",
+    "productos": [
+      32815685525
+    ],
+    "vendedor": "jjoseguerrer",
+    "id": 63337465159,
+    "historial": [
+      [
+        "jjosewilson",
+        60021
+      ],
+      [
+        "gsanchez",
+        70459
+      ],
+      [
+        "nbrown",
+        70577
+      ],
+      [
+        "lreyes",
+        88967
+      ],
+      [
+        "xsmith",
+        104751
+      ],
+      [
+        "ngallardo",
+        109421
+      ],
+      [
+        "lvasquez",
+        110676
+      ],
+      [
+        "msanmartin",
+        117246
+      ],
+      [
+        "vcastro",
+        127444
+      ],
+      [
+        "ialvarez",
+        136870
+      ],
+      [
+        "lmartinez",
+        141240
+      ],
+      [
+        "arodriguez",
+        151517
+      ],
+      [
+        "aguerrero",
+        171199
+      ],
+      [
+        "tvaldes",
+        171697
+      ],
+      [
+        "efuentes",
+        184020
+      ],
+      [
+        "icardenas",
+        188839
+      ],
+      [
+        "vgutierrez",
+        189277
+      ],
+      [
+        "brodriguez",
+        195091
+      ],
+      [
+        "scontreras",
+        198878
+      ],
+      [
+        "svargas",
+        200353
+      ],
+      [
+        "lolivares",
+        208509
+      ],
+      [
+        "aaravena",
+        217755
+      ]
+    ],
+    "fecha_termino": "2016-09-26 01:03:53",
+    "precio": 208510
+  },
+  {
+    "fecha_inicio": "2016-02-13 19:46:25",
+    "productos": [
+      51870326899
+    ],
+    "vendedor": "areyes",
+    "id": 39933153224,
+    "historial": [
+      [
+        "mfuentes",
+        56005
+      ],
+      [
+        "sfarias",
+        56531
+      ],
+      [
+        "mherrera",
+        79746
+      ],
+      [
+        "scampbell",
+        82175
+      ],
+      [
+        "afelipevidal",
+        88470
+      ],
+      [
+        "gsandoval",
+        94960
+      ],
+      [
+        "agomez",
+        109619
+      ],
+      [
+        "lgonzalez",
+        111526
+      ],
+      [
+        "rgallardo",
+        111651
+      ],
+      [
+        "agomez",
+        115661
+      ],
+      [
+        "jgodoy",
+        137396
+      ],
+      [
+        "mhenriquez",
+        168405
+      ],
+      [
+        "mjones",
+        169634
+      ],
+      [
+        "dmaldonado",
+        171025
+      ],
+      [
+        "gmaldonado",
+        194997
+      ],
+      [
+        "mnavarrete",
+        198696
+      ],
+      [
+        "sfernandez",
+        199815
+      ],
+      [
+        "jjoseguerrer",
+        219952
+      ],
+      [
+        "jvalenzuela",
+        223437
+      ],
+      [
+        "abrown",
+        232739
+      ]
+    ],
+    "fecha_termino": "2016-04-29 23:31:05",
+    "precio": 223438
+  },
+  {
+    "fecha_inicio": "2016-02-24 20:43:36",
+    "productos": [
+      61501663497
+    ],
+    "vendedor": "vortega",
+    "id": 77959245362,
+    "historial": [
+      [
+        "tescobar",
+        59559
+      ],
+      [
+        "rmiranda",
+        60543
+      ],
+      [
+        "apalma",
+        74956
+      ],
+      [
+        "rfuentes",
+        76914
+      ],
+      [
+        "rvidal",
+        97081
+      ],
+      [
+        "zcarrasco",
+        98588
+      ],
+      [
+        "jgodoy",
+        110215
+      ],
+      [
+        "jguzman",
+        119471
+      ],
+      [
+        "lsalinas",
+        152981
+      ],
+      [
+        "vgutierrez",
+        167865
+      ],
+      [
+        "jjosecortes",
+        172637
+      ],
+      [
+        "jandrescacer",
+        182354
+      ],
+      [
+        "gsalinas",
+        182972
+      ],
+      [
+        "svasquez",
+        199307
+      ],
+      [
+        "cparedes",
+        201615
+      ],
+      [
+        "gvalenzuela",
+        203436
+      ],
+      [
+        "gvalenzuela",
+        206762
+      ],
+      [
+        "staylor",
+        210729
+      ],
+      [
+        "dgallardo",
+        221700
+      ],
+      [
+        "apaulabustos",
+        226689
+      ],
+      [
+        "jnavarro",
+        234148
+      ]
+    ],
+    "fecha_termino": "2016-09-02 11:54:28",
+    "precio": 226690
+  },
+  {
+    "fecha_inicio": "2016-01-27 00:20:46",
+    "productos": [
+      74855037605
+    ],
+    "vendedor": "rparedes",
+    "id": 49025885319,
+    "historial": [
+      [
+        "dgallardo",
+        72541
+      ],
+      [
+        "brodriguez",
+        75882
+      ],
+      [
+        "mgonzalez",
+        82507
+      ],
+      [
+        "rlopez",
+        91153
+      ],
+      [
+        "ssanhueza",
+        97325
+      ],
+      [
+        "sgodoy",
+        98620
+      ],
+      [
+        "fjimenez",
+        105347
+      ],
+      [
+        "breyes",
+        108060
+      ],
+      [
+        "msanhueza",
+        123993
+      ],
+      [
+        "mpatel",
+        133414
+      ],
+      [
+        "rvidal",
+        136368
+      ],
+      [
+        "apaulatapia",
+        136618
+      ],
+      [
+        "jalvarez",
+        158589
+      ],
+      [
+        "jandressaez",
+        188133
+      ],
+      [
+        "jriquelme",
+        193456
+      ],
+      [
+        "acastro",
+        195672
+      ],
+      [
+        "drivera",
+        196676
+      ],
+      [
+        "morellana",
+        199956
+      ],
+      [
+        "mgallardo",
+        211325
+      ],
+      [
+        "tsandoval",
+        214133
+      ],
+      [
+        "mwilliams",
+        216098
+      ],
+      [
+        "mthompson",
+        220249
+      ],
+      [
+        "lvasquez",
+        226886
+      ],
+      [
+        "bvega",
+        232234
+      ]
+    ],
+    "fecha_termino": "2016-11-22 12:07:46",
+    "precio": 226887
+  },
+  {
+    "fecha_inicio": "2016-01-04 11:37:30",
+    "productos": [
+      70493107369
+    ],
+    "vendedor": "sfigueroa",
+    "id": 91479232684,
+    "historial": [
+      [
+        "hsanhueza",
+        65315
+      ],
+      [
+        "jsanhueza",
+        66138
+      ],
+      [
+        "vlee",
+        80568
+      ],
+      [
+        "acampbell",
+        127523
+      ],
+      [
+        "cgonzalez",
+        128976
+      ],
+      [
+        "lflores",
+        130191
+      ],
+      [
+        "mjara",
+        148575
+      ],
+      [
+        "balvarado",
+        174725
+      ],
+      [
+        "odiaz",
+        192605
+      ],
+      [
+        "brodriguez",
+        239456
+      ]
+    ],
+    "fecha_termino": "2016-08-10 08:57:32",
+    "precio": 192606
+  },
+  {
+    "fecha_inicio": "2016-01-06 23:16:09",
+    "productos": [
+      77033192088
+    ],
+    "vendedor": "halarcon",
+    "id": 41573505218,
+    "historial": [
+      [
+        "lvargas",
+        60717
+      ],
+      [
+        "caraya",
+        93606
+      ],
+      [
+        "lsmith",
+        107102
+      ],
+      [
+        "csanchez",
+        123005
+      ],
+      [
+        "emartinez",
+        131346
+      ],
+      [
+        "rjones",
+        157487
+      ],
+      [
+        "rromero",
+        158420
+      ],
+      [
+        "vcampos",
+        171462
+      ],
+      [
+        "mmiranda",
+        177012
+      ],
+      [
+        "mpoblete",
+        215293
+      ]
+    ],
+    "fecha_termino": "2016-03-15 12:35:52",
+    "precio": 177013
+  },
+  {
+    "fecha_inicio": "2016-02-01 13:44:27",
+    "productos": [
+      89497753140
+    ],
+    "vendedor": "mriquelme",
+    "id": 52968842518,
+    "historial": [
+      [
+        "mguzman",
+        130767
+      ],
+      [
+        "dsalazar",
+        159083
+      ],
+      [
+        "brodriguez",
+        159250
+      ],
+      [
+        "xrojas",
+        236741
+      ]
+    ],
+    "fecha_termino": "2016-12-31 10:37:03",
+    "precio": 159251
+  },
+  {
+    "fecha_inicio": "2016-02-02 16:57:45",
+    "productos": [
+      51984546093
+    ],
+    "vendedor": "pgomez",
+    "id": 72140628068,
+    "historial": [
+      [
+        "jdavidcarras",
+        66209
+      ],
+      [
+        "mvalenzuela",
+        67361
+      ],
+      [
+        "bcarvajal",
+        81860
+      ],
+      [
+        "aortiz",
+        88442
+      ],
+      [
+        "jcardenas",
+        95138
+      ],
+      [
+        "dbustos",
+        104090
+      ],
+      [
+        "dmaldonado",
+        112130
+      ],
+      [
+        "isaavedra",
+        128423
+      ],
+      [
+        "gvera",
+        136162
+      ],
+      [
+        "mvalenzuela",
+        155318
+      ],
+      [
+        "lolivares",
+        157205
+      ],
+      [
+        "jalvarez",
+        161695
+      ],
+      [
+        "jandressaez",
+        168025
+      ],
+      [
+        "briquelme",
+        179477
+      ],
+      [
+        "vmartin",
+        194412
+      ],
+      [
+        "acampbell",
+        229944
+      ],
+      [
+        "caguilera",
+        239376
+      ]
+    ],
+    "fecha_termino": "2016-06-16 11:48:39",
+    "precio": 229945
+  },
+  {
+    "fecha_inicio": "2016-01-29 10:38:26",
+    "productos": [
+      76053120655
+    ],
+    "vendedor": "jpalma",
+    "id": 63667784413,
+    "historial": [
+      [
+        "vgallardo",
+        63659
+      ],
+      [
+        "amolina",
+        77595
+      ],
+      [
+        "bcarvajal",
+        104271
+      ],
+      [
+        "mjara",
+        108107
+      ],
+      [
+        "sdiaz",
+        172435
+      ],
+      [
+        "mgallardo",
+        214649
+      ],
+      [
+        "mcardenas",
+        218151
+      ]
+    ],
+    "fecha_termino": "2016-12-16 02:07:28",
+    "precio": 214650
+  },
+  {
+    "fecha_inicio": "2016-01-31 11:41:13",
+    "productos": [
+      27228253946
+    ],
+    "vendedor": "aguerrero",
+    "id": 93799681764,
+    "historial": [
+      [
+        "caguilera",
+        76579
+      ],
+      [
+        "lpoblete",
+        79141
+      ],
+      [
+        "irojas",
+        85169
+      ],
+      [
+        "npalma",
+        90488
+      ],
+      [
+        "jgodoy",
+        101190
+      ],
+      [
+        "dvenegas",
+        113089
+      ],
+      [
+        "amolina",
+        161393
+      ],
+      [
+        "jgallardo",
+        183701
+      ],
+      [
+        "aolivares",
+        187448
+      ],
+      [
+        "ccontreras",
+        207771
+      ],
+      [
+        "abustos",
+        213693
+      ],
+      [
+        "acampbell",
+        219845
+      ]
+    ],
+    "fecha_termino": "2016-05-23 12:02:35",
+    "precio": 213694
+  },
+  {
+    "fecha_inicio": "2016-02-20 02:20:59",
+    "productos": [
+      55465122181
+    ],
+    "vendedor": "ahernandez",
+    "id": 99618911007,
+    "historial": [
+      [
+        "svaldes",
+        75962
+      ],
+      [
+        "dalejandrobu",
+        110035
+      ],
+      [
+        "xgonzalez",
+        110323
+      ],
+      [
+        "lparra",
+        113550
+      ],
+      [
+        "ssanhueza",
+        123061
+      ],
+      [
+        "mespinoza",
+        125047
+      ],
+      [
+        "vguerrero",
+        135878
+      ],
+      [
+        "tvaldes",
+        145923
+      ],
+      [
+        "fgutierrez",
+        148444
+      ],
+      [
+        "mtorres",
+        155853
+      ],
+      [
+        "lgomez",
+        236443
+      ]
+    ],
+    "fecha_termino": "2016-07-22 12:28:36",
+    "precio": 155854
+  },
+  {
+    "fecha_inicio": "2016-02-17 18:49:10",
+    "productos": [
+      29176307304
+    ],
+    "vendedor": "jjoserojas",
+    "id": 99254634743,
+    "historial": [
+      [
+        "maguilera",
+        62841
+      ],
+      [
+        "asilva",
+        78445
+      ],
+      [
+        "mgomez",
+        112114
+      ],
+      [
+        "mjara",
+        123742
+      ],
+      [
+        "lpoblete",
+        125128
+      ],
+      [
+        "zcarrasco",
+        144313
+      ],
+      [
+        "rromero",
+        156860
+      ],
+      [
+        "afelipetoro",
+        202712
+      ],
+      [
+        "molivares",
+        223683
+      ],
+      [
+        "rgarcia",
+        234950
+      ],
+      [
+        "jbustamante",
+        236037
+      ]
+    ],
+    "fecha_termino": "2016-12-03 06:35:23",
+    "precio": 234951
+  },
+  {
+    "fecha_inicio": "2016-01-11 05:52:46",
+    "productos": [
+      53736114859
+    ],
+    "vendedor": "wrivera",
+    "id": 33657383446,
+    "historial": [
+      [
+        "nmoreno",
+        77740
+      ],
+      [
+        "halvarado",
+        86490
+      ],
+      [
+        "dcampbell",
+        103874
+      ],
+      [
+        "gflores",
+        115072
+      ],
+      [
+        "mmoreno",
+        120745
+      ],
+      [
+        "edonoso",
+        122344
+      ],
+      [
+        "afarias",
+        127633
+      ],
+      [
+        "jvargas",
+        140922
+      ],
+      [
+        "gcastro",
+        165314
+      ],
+      [
+        "srojas",
+        171346
+      ],
+      [
+        "mrivera",
+        173899
+      ],
+      [
+        "mbrown",
+        177507
+      ],
+      [
+        "mdiaz",
+        206548
+      ],
+      [
+        "xmartinez",
+        215344
+      ],
+      [
+        "agallardo",
+        235595
+      ]
+    ],
+    "fecha_termino": "2016-10-14 16:37:26",
+    "precio": 215345
+  },
+  {
+    "fecha_inicio": "2016-02-19 19:39:18",
+    "productos": [
+      25279112005
+    ],
+    "vendedor": "ltorres",
+    "id": 84525723379,
+    "historial": [
+      [
+        "bsanhueza",
+        58722
+      ],
+      [
+        "mortiz",
+        59438
+      ],
+      [
+        "npalma",
+        63069
+      ],
+      [
+        "vguerrero",
+        64197
+      ],
+      [
+        "sromero",
+        79103
+      ],
+      [
+        "halarcon",
+        135411
+      ],
+      [
+        "snavarro",
+        140571
+      ],
+      [
+        "afarias",
+        222749
+      ],
+      [
+        "lwilliams",
+        225432
+      ],
+      [
+        "ipizarro",
+        233605
+      ],
+      [
+        "jjosewilson",
+        234167
+      ]
+    ],
+    "fecha_termino": "2016-03-24 23:20:56",
+    "precio": 233606
+  },
+  {
+    "fecha_inicio": "2016-02-05 12:02:49",
+    "productos": [
+      61572246382
+    ],
+    "vendedor": "salvarez",
+    "id": 34551302675,
+    "historial": [
+      [
+        "mcardenas",
+        66270
+      ],
+      [
+        "nlopez",
+        100434
+      ],
+      [
+        "dtapia",
+        112939
+      ],
+      [
+        "vlee",
+        118914
+      ],
+      [
+        "sromero",
+        124027
+      ],
+      [
+        "sfigueroa",
+        133950
+      ],
+      [
+        "tpizarro",
+        137266
+      ],
+      [
+        "sromero",
+        148491
+      ],
+      [
+        "egallardo",
+        154202
+      ],
+      [
+        "ncastro",
+        155718
+      ],
+      [
+        "mfarias",
+        166588
+      ],
+      [
+        "karaya",
+        168740
+      ],
+      [
+        "nvasquez",
+        172599
+      ],
+      [
+        "zguzman",
+        172716
+      ],
+      [
+        "jjosehernand",
+        177595
+      ],
+      [
+        "jbustos",
+        184649
+      ],
+      [
+        "jsalazar",
+        187496
+      ],
+      [
+        "ssmith",
+        215502
+      ],
+      [
+        "emartinez",
+        217879
+      ],
+      [
+        "pmaldonado",
+        222219
+      ],
+      [
+        "avergara",
+        222245
+      ],
+      [
+        "fsmith",
+        229222
+      ],
+      [
+        "maguilera",
+        233456
+      ]
+    ],
+    "fecha_termino": "2016-06-02 01:39:00",
+    "precio": 229223
+  },
+  {
+    "fecha_inicio": "2016-01-24 02:04:36",
+    "productos": [
+      83216453870
+    ],
+    "vendedor": "cfernandez",
+    "id": 38346383747,
+    "historial": [
+      [
+        "ccaceres",
+        57446
+      ],
+      [
+        "msaavedra",
+        67453
+      ],
+      [
+        "mpatel",
+        70699
+      ],
+      [
+        "lsalinas",
+        75847
+      ],
+      [
+        "fromero",
+        84967
+      ],
+      [
+        "mespinoza",
+        91332
+      ],
+      [
+        "msanmartin",
+        95360
+      ],
+      [
+        "mvega",
+        115295
+      ],
+      [
+        "rcarrasco",
+        133359
+      ],
+      [
+        "lcampos",
+        139296
+      ],
+      [
+        "dsandoval",
+        144775
+      ],
+      [
+        "lvidal",
+        152585
+      ],
+      [
+        "vmartin",
+        157867
+      ],
+      [
+        "aaravena",
+        158463
+      ],
+      [
+        "kortega",
+        186017
+      ],
+      [
+        "lvargas",
+        193733
+      ],
+      [
+        "jsmith",
+        205643
+      ],
+      [
+        "gparra",
+        206913
+      ]
+    ],
+    "fecha_termino": "2016-03-18 20:21:57",
+    "precio": 205644
+  },
+  {
+    "fecha_inicio": "2016-03-02 06:01:38",
+    "productos": [
+      77770566625
+    ],
+    "vendedor": "jalvarez",
+    "id": 72711960174,
+    "historial": [
+      [
+        "bhernandez",
+        72323
+      ],
+      [
+        "mpalma",
+        187768
+      ],
+      [
+        "cramirez",
+        189755
+      ],
+      [
+        "rjones",
+        227418
+      ]
+    ],
+    "fecha_termino": "2016-06-14 02:29:26",
+    "precio": 189756
+  },
+  {
+    "fecha_inicio": "2016-01-19 16:50:54",
+    "productos": [
+      74302557371
+    ],
+    "vendedor": "ccaceres",
+    "id": 27172980378,
+    "historial": [
+      [
+        "lmorales",
+        58617
+      ],
+      [
+        "mjosegarcia",
+        77597
+      ],
+      [
+        "pruiz",
+        83065
+      ],
+      [
+        "atoro",
+        95762
+      ],
+      [
+        "tsandoval",
+        146203
+      ],
+      [
+        "msandoval",
+        210206
+      ]
+    ],
+    "fecha_termino": "2016-03-18 02:10:19",
+    "precio": 146204
+  },
+  {
+    "fecha_inicio": "2016-02-15 17:58:32",
+    "productos": [
+      75041180843
+    ],
+    "vendedor": "owong",
+    "id": 40613670132,
+    "historial": [
+      [
+        "ssaavedra",
+        70968
+      ],
+      [
+        "aparedes",
+        71740
+      ],
+      [
+        "dfernandez",
+        74580
+      ],
+      [
+        "svidal",
+        78076
+      ],
+      [
+        "acampbell",
+        95372
+      ],
+      [
+        "dgarrido",
+        103306
+      ],
+      [
+        "mpizarro",
+        105316
+      ],
+      [
+        "mpatel",
+        105531
+      ],
+      [
+        "aparedes",
+        112883
+      ],
+      [
+        "amorales",
+        115912
+      ],
+      [
+        "dsandoval",
+        136927
+      ],
+      [
+        "mrodriguez",
+        146966
+      ],
+      [
+        "agodoy",
+        148122
+      ],
+      [
+        "lwilliams",
+        169113
+      ],
+      [
+        "creyes",
+        178480
+      ],
+      [
+        "mjoseruiz",
+        178727
+      ],
+      [
+        "halvarado",
+        184096
+      ],
+      [
+        "jalvarez",
+        190098
+      ],
+      [
+        "bcarvajal",
+        197135
+      ],
+      [
+        "csaez",
+        200155
+      ],
+      [
+        "fromero",
+        200613
+      ],
+      [
+        "ltorres",
+        203393
+      ],
+      [
+        "rpino",
+        205097
+      ],
+      [
+        "gcastro",
+        212923
+      ],
+      [
+        "asepulveda",
+        233467
+      ]
+    ],
+    "fecha_termino": "2016-12-10 16:07:50",
+    "precio": 212924
+  },
+  {
+    "fecha_inicio": "2016-01-12 11:05:22",
+    "productos": [
+      68068596817
+    ],
+    "vendedor": "dalejandroal",
+    "id": 97386354479,
+    "historial": [
+      [
+        "mgallardo",
+        72667
+      ],
+      [
+        "msanmartin",
+        78369
+      ],
+      [
+        "agomez",
+        109113
+      ],
+      [
+        "mherrera",
+        116774
+      ],
+      [
+        "solivares",
+        159132
+      ],
+      [
+        "rortiz",
+        199127
+      ],
+      [
+        "wrivera",
+        205345
+      ]
+    ],
+    "fecha_termino": "2016-03-26 12:44:41",
+    "precio": 199128
+  },
+  {
+    "fecha_inicio": "2016-02-19 00:05:27",
+    "productos": [
+      86311752232
+    ],
+    "vendedor": "jvalenzuela",
+    "id": 91258238492,
+    "historial": [
+      [
+        "chenriquez",
+        61140
+      ],
+      [
+        "aguzman",
+        62554
+      ],
+      [
+        "rgallardo",
+        65123
+      ],
+      [
+        "valarcon",
+        94632
+      ],
+      [
+        "rpatel",
+        96732
+      ],
+      [
+        "tpizarro",
+        180356
+      ]
+    ],
+    "fecha_termino": "2016-11-14 18:26:44",
+    "precio": 96733
+  },
+  {
+    "fecha_inicio": "2016-02-25 17:28:27",
+    "productos": [
+      68068596817
+    ],
+    "vendedor": "dalejandroal",
+    "id": 21619910002,
+    "historial": [
+      [
+        "lgomez",
+        61218
+      ],
+      [
+        "rgarrido",
+        85222
+      ],
+      [
+        "sramirez",
+        88636
+      ],
+      [
+        "vsepulveda",
+        100065
+      ],
+      [
+        "pruiz",
+        101890
+      ],
+      [
+        "lgomez",
+        105296
+      ],
+      [
+        "afelipevidal",
+        109747
+      ],
+      [
+        "rgallardo",
+        137260
+      ],
+      [
+        "dmaldonado",
+        163078
+      ],
+      [
+        "areyes",
+        166990
+      ],
+      [
+        "rortiz",
+        176774
+      ],
+      [
+        "mjara",
+        202319
+      ],
+      [
+        "asalazar",
+        205146
+      ],
+      [
+        "hsanhueza",
+        210950
+      ],
+      [
+        "xmartinez",
+        218273
+      ],
+      [
+        "mnavarrete",
+        220888
+      ],
+      [
+        "xvega",
+        232526
+      ]
+    ],
+    "fecha_termino": "2016-10-11 22:47:24",
+    "precio": 220889
+  },
+  {
+    "fecha_inicio": "2016-03-11 14:39:32",
+    "productos": [
+      47648512868
+    ],
+    "vendedor": "creyes",
+    "id": 91527237720,
+    "historial": [
+      [
+        "acampbell",
+        57767
+      ],
+      [
+        "vortega",
+        94238
+      ],
+      [
+        "dalejandroal",
+        100258
+      ],
+      [
+        "csanchez",
+        116085
+      ],
+      [
+        "ccontreras",
+        132161
+      ],
+      [
+        "lvargas",
+        142051
+      ],
+      [
+        "mvalenzuela",
+        159465
+      ],
+      [
+        "svasquez",
+        183234
+      ],
+      [
+        "ahernandez",
+        187455
+      ],
+      [
+        "ariquelme",
+        199498
+      ],
+      [
+        "rfuentes",
+        200667
+      ],
+      [
+        "asaavedra",
+        217259
+      ],
+      [
+        "sdonoso",
+        237759
+      ]
+    ],
+    "fecha_termino": "2016-10-08 21:32:43",
+    "precio": 217260
+  },
+  {
+    "fecha_inicio": "2016-01-06 16:01:42",
+    "productos": [
+      61369822510
+    ],
+    "vendedor": "lmartinez",
+    "id": 55244322355,
+    "historial": [
+      [
+        "jjosewilson",
+        104460
+      ],
+      [
+        "rjimenez",
+        105594
+      ],
+      [
+        "dalejandrori",
+        126280
+      ],
+      [
+        "aaravena",
+        130737
+      ],
+      [
+        "mmiranda",
+        136098
+      ],
+      [
+        "staylor",
+        144794
+      ],
+      [
+        "xcortes",
+        161207
+      ],
+      [
+        "avega",
+        162696
+      ],
+      [
+        "svidal",
+        167194
+      ],
+      [
+        "mmedina",
+        172943
+      ],
+      [
+        "gmaldonado",
+        176663
+      ],
+      [
+        "pgonzalez",
+        178463
+      ],
+      [
+        "lnavarrete",
+        180798
+      ],
+      [
+        "rortega",
+        196220
+      ],
+      [
+        "descobar",
+        200936
+      ],
+      [
+        "scontreras",
+        201095
+      ],
+      [
+        "hbustos",
+        211500
+      ],
+      [
+        "mreyes",
+        213207
+      ],
+      [
+        "afuentes",
+        227773
+      ],
+      [
+        "apaulabustos",
+        228567
+      ],
+      [
+        "zcarrasco",
+        231280
+      ]
+    ],
+    "fecha_termino": "2016-09-08 09:15:36",
+    "precio": 228568
+  },
+  {
+    "fecha_inicio": "2016-03-08 17:42:01",
+    "productos": [
+      25394889657
+    ],
+    "vendedor": "rpatel",
+    "id": 66188227810,
+    "historial": [
+      [
+        "sparra",
+        58673
+      ],
+      [
+        "mvalenzuela",
+        59377
+      ],
+      [
+        "rcarrasco",
+        71810
+      ],
+      [
+        "asalazar",
+        80924
+      ],
+      [
+        "ahernandez",
+        87800
+      ],
+      [
+        "cvaldes",
+        88396
+      ],
+      [
+        "jriquelme",
+        104503
+      ],
+      [
+        "afelipearaya",
+        119248
+      ],
+      [
+        "asandoval",
+        122310
+      ],
+      [
+        "abrown",
+        139452
+      ],
+      [
+        "halvarado",
+        160997
+      ],
+      [
+        "rvidal",
+        192295
+      ],
+      [
+        "rsanhueza",
+        194180
+      ],
+      [
+        "lsalinas",
+        196343
+      ],
+      [
+        "ralarcon",
+        200770
+      ],
+      [
+        "mgonzalez",
+        209081
+      ],
+      [
+        "mdiaz",
+        213000
+      ],
+      [
+        "apaulatapia",
+        219692
+      ]
+    ],
+    "fecha_termino": "2016-08-29 05:11:07",
+    "precio": 213001
+  },
+  {
+    "fecha_inicio": "2016-02-20 23:56:10",
+    "productos": [
+      86929360558
+    ],
+    "vendedor": "jdavidfernan",
+    "id": 37487552140,
+    "historial": [
+      [
+        "gvenegas",
+        66125
+      ],
+      [
+        "xcortes",
+        70457
+      ],
+      [
+        "owong",
+        87284
+      ],
+      [
+        "fparedes",
+        92195
+      ],
+      [
+        "dsalazar",
+        128483
+      ],
+      [
+        "bgodoy",
+        139975
+      ],
+      [
+        "fmedina",
+        148516
+      ]
+    ],
+    "fecha_termino": "2016-07-12 07:35:08",
+    "precio": 139976
+  },
+  {
+    "fecha_inicio": "2016-03-02 01:44:57",
+    "productos": [
+      43673522763
+    ],
+    "vendedor": "acampbell",
+    "id": 66938243246,
+    "historial": [
+      [
+        "scampbell",
+        110918
+      ],
+      [
+        "talvarado",
+        121368
+      ],
+      [
+        "iruiz",
+        127543
+      ],
+      [
+        "lescobar",
+        127827
+      ],
+      [
+        "jjoseparedes",
+        180729
+      ]
+    ],
+    "fecha_termino": "2016-04-20 05:36:52",
+    "precio": 127828
+  },
+  {
+    "fecha_inicio": "2016-02-22 06:16:46",
+    "productos": [
+      74154984646
+    ],
+    "vendedor": "vsepulveda",
+    "id": 67976519497,
+    "historial": [
+      [
+        "pvaldes",
+        62068
+      ],
+      [
+        "vmedina",
+        62715
+      ],
+      [
+        "agallardo",
+        71257
+      ],
+      [
+        "vmedina",
+        73991
+      ],
+      [
+        "msanhueza",
+        82049
+      ],
+      [
+        "rmiranda",
+        116057
+      ],
+      [
+        "maguilera",
+        141995
+      ],
+      [
+        "anavarro",
+        151125
+      ],
+      [
+        "nbrown",
+        151170
+      ],
+      [
+        "rsaez",
+        166261
+      ],
+      [
+        "srodriguez",
+        171254
+      ],
+      [
+        "ahernandez",
+        181560
+      ],
+      [
+        "ealvarado",
+        191481
+      ],
+      [
+        "btapia",
+        203873
+      ],
+      [
+        "vmorales",
+        209190
+      ],
+      [
+        "mcastro",
+        214573
+      ],
+      [
+        "mnavarrete",
+        228452
+      ],
+      [
+        "efuentes",
+        235969
+      ]
+    ],
+    "fecha_termino": "2016-12-09 20:39:36",
+    "precio": 228453
+  },
+  {
+    "fecha_inicio": "2016-01-21 21:10:54",
+    "productos": [
+      63020110868
+    ],
+    "vendedor": "jbustos",
+    "id": 91254596725,
+    "historial": [
+      [
+        "ssmith",
+        76412
+      ],
+      [
+        "vlee",
+        77198
+      ],
+      [
+        "cmiranda",
+        78084
+      ],
+      [
+        "vparedes",
+        80429
+      ],
+      [
+        "gcastro",
+        82188
+      ],
+      [
+        "gsandoval",
+        83053
+      ],
+      [
+        "ccampbell",
+        94167
+      ],
+      [
+        "fsmith",
+        112856
+      ],
+      [
+        "jsalazar",
+        118291
+      ],
+      [
+        "acampbell",
+        122687
+      ],
+      [
+        "lhernandez",
+        129665
+      ],
+      [
+        "dbustos",
+        136059
+      ],
+      [
+        "jdavidfernan",
+        151179
+      ],
+      [
+        "svidal",
+        152202
+      ],
+      [
+        "mpatel",
+        156247
+      ],
+      [
+        "apaulatapia",
+        167262
+      ],
+      [
+        "sruiz",
+        174970
+      ],
+      [
+        "rvaldes",
+        201010
+      ],
+      [
+        "acastro",
+        201705
+      ],
+      [
+        "smartin",
+        202368
+      ],
+      [
+        "mromero",
+        231859
+      ],
+      [
+        "mpizarro",
+        237305
+      ],
+      [
+        "mpoblete",
+        237394
+      ]
+    ],
+    "fecha_termino": "2016-06-07 18:33:41",
+    "precio": 237306
+  },
+  {
+    "fecha_inicio": "2016-02-08 19:42:40",
+    "productos": [
+      17670682938
+    ],
+    "vendedor": "mdonoso",
+    "id": 82998459960,
+    "historial": [
+      [
+        "bbustos",
+        60765
+      ],
+      [
+        "apaularojas",
+        67909
+      ],
+      [
+        "malvarez",
+        68633
+      ],
+      [
+        "smaldonado",
+        70825
+      ],
+      [
+        "rjones",
+        78784
+      ],
+      [
+        "cvaldes",
+        83385
+      ],
+      [
+        "lgodoy",
+        111722
+      ],
+      [
+        "mescobar",
+        116742
+      ],
+      [
+        "cnavarro",
+        149801
+      ],
+      [
+        "dfernandez",
+        156066
+      ],
+      [
+        "ariquelme",
+        168675
+      ],
+      [
+        "sparra",
+        174970
+      ],
+      [
+        "scontreras",
+        180288
+      ],
+      [
+        "smartin",
+        186017
+      ],
+      [
+        "aalvarado",
+        190493
+      ],
+      [
+        "msanhueza",
+        190948
+      ],
+      [
+        "sromero",
+        192844
+      ],
+      [
+        "sgodoy",
+        203764
+      ],
+      [
+        "mbravo",
+        224915
+      ],
+      [
+        "blopez",
+        226510
+      ],
+      [
+        "lescobar",
+        232045
+      ],
+      [
+        "lmolina",
+        238925
+      ]
+    ],
+    "fecha_termino": "2016-08-23 04:24:20",
+    "precio": 232046
+  },
+  {
+    "fecha_inicio": "2016-02-22 11:27:43",
+    "productos": [
+      50926274411
+    ],
+    "vendedor": "jbustamante",
+    "id": 26206381234,
+    "historial": [
+      [
+        "mpalma",
+        77257
+      ],
+      [
+        "asalazar",
+        123065
+      ],
+      [
+        "irojas",
+        152493
+      ],
+      [
+        "apaularojas",
+        155196
+      ],
+      [
+        "eriquelme",
+        159423
+      ],
+      [
+        "jvaldes",
+        202300
+      ]
+    ],
+    "fecha_termino": "2016-05-30 15:49:56",
+    "precio": 159424
+  },
+  {
+    "fecha_inicio": "2016-02-22 21:50:25",
+    "productos": [
+      89464412563
+    ],
+    "vendedor": "dalejandroco",
+    "id": 78024297558,
+    "historial": [
+      [
+        "mgomez",
+        58395
+      ],
+      [
+        "gparra",
+        181715
+      ],
+      [
+        "msanmartin",
+        189030
+      ]
+    ],
+    "fecha_termino": "2016-09-01 15:57:42",
+    "precio": 181716
+  },
+  {
+    "fecha_inicio": "2016-03-04 22:20:53",
+    "productos": [
+      68035935550
+    ],
+    "vendedor": "lmorales",
+    "id": 64986484436,
+    "historial": [
+      [
+        "anavarro",
+        58507
+      ],
+      [
+        "isandoval",
+        67062
+      ],
+      [
+        "mmiranda",
+        69188
+      ],
+      [
+        "svargas",
+        86622
+      ],
+      [
+        "rsanhueza",
+        89595
+      ],
+      [
+        "sromero",
+        102971
+      ],
+      [
+        "sguerrero",
+        118083
+      ],
+      [
+        "ebustos",
+        138506
+      ],
+      [
+        "crivera",
+        151048
+      ],
+      [
+        "sromero",
+        156779
+      ],
+      [
+        "jgallardo",
+        156783
+      ],
+      [
+        "pwilliams",
+        157253
+      ],
+      [
+        "molivares",
+        159385
+      ],
+      [
+        "mjara",
+        180390
+      ],
+      [
+        "rortiz",
+        192266
+      ],
+      [
+        "ataylor",
+        198361
+      ],
+      [
+        "jcarvajal",
+        214961
+      ]
+    ],
+    "fecha_termino": "2016-04-03 19:02:48",
+    "precio": 198362
+  },
+  {
+    "fecha_inicio": "2016-01-24 12:45:18",
+    "productos": [
+      36331584109
+    ],
+    "vendedor": "mpoblete",
+    "id": 97458141766,
+    "historial": [
+      [
+        "srojas",
+        71046
+      ],
+      [
+        "khenriquez",
+        155465
+      ],
+      [
+        "mbravo",
+        165465
+      ],
+      [
+        "nalvarez",
+        167658
+      ],
+      [
+        "afelipevera",
+        169679
+      ],
+      [
+        "jcarvajal",
+        177497
+      ],
+      [
+        "afuentes",
+        183786
+      ]
+    ],
+    "fecha_termino": "2016-12-14 09:03:34",
+    "precio": 177498
+  },
+  {
+    "fecha_inicio": "2016-03-10 04:07:18",
+    "productos": [
+      22177430599
+    ],
+    "vendedor": "scontreras",
+    "id": 73690591798,
+    "historial": [
+      [
+        "jcarvajal",
+        58916
+      ],
+      [
+        "mnavarrete",
+        86176
+      ],
+      [
+        "mjosegarcia",
+        86480
+      ],
+      [
+        "xgarcia",
+        116891
+      ],
+      [
+        "gtaylor",
+        117131
+      ],
+      [
+        "msanhueza",
+        146341
+      ],
+      [
+        "ccaceres",
+        147914
+      ],
+      [
+        "mvega",
+        177366
+      ],
+      [
+        "vgallardo",
+        182504
+      ],
+      [
+        "breyes",
+        185100
+      ],
+      [
+        "mcastro",
+        203998
+      ],
+      [
+        "mparedes",
+        209685
+      ],
+      [
+        "jvalenzuela",
+        216738
+      ],
+      [
+        "jjoseparedes",
+        231948
+      ]
+    ],
+    "fecha_termino": "2016-08-27 17:59:11",
+    "precio": 216739
+  },
+  {
+    "fecha_inicio": "2016-03-09 04:10:27",
+    "productos": [
+      27665758256
+    ],
+    "vendedor": "avergara",
+    "id": 18901826039,
+    "historial": [
+      [
+        "xgarcia",
+        88265
+      ],
+      [
+        "mtorres",
+        97556
+      ],
+      [
+        "jolivares",
+        123519
+      ],
+      [
+        "rpatel",
+        163812
+      ],
+      [
+        "rcarrasco",
+        186457
+      ]
+    ],
+    "fecha_termino": "2016-11-18 22:31:05",
+    "precio": 163813
+  },
+  {
+    "fecha_inicio": "2016-01-24 18:05:03",
+    "productos": [
+      21514904353
+    ],
+    "vendedor": "mpoblete",
+    "id": 34271785455,
+    "historial": [
+      [
+        "jvalenzuela",
+        73450
+      ],
+      [
+        "baguilera",
+        102908
+      ],
+      [
+        "bthompson",
+        106820
+      ],
+      [
+        "jcarvajal",
+        111842
+      ],
+      [
+        "isandoval",
+        114216
+      ],
+      [
+        "lmolina",
+        122557
+      ],
+      [
+        "earaya",
+        152075
+      ],
+      [
+        "sguerrero",
+        171167
+      ],
+      [
+        "btapia",
+        193185
+      ],
+      [
+        "mbrown",
+        201697
+      ],
+      [
+        "mjosegarcia",
+        201734
+      ],
+      [
+        "amedina",
+        212784
+      ],
+      [
+        "ariquelme",
+        213190
+      ],
+      [
+        "vbustos",
+        213603
+      ],
+      [
+        "mmiranda",
+        217570
+      ]
+    ],
+    "fecha_termino": "2016-05-16 10:19:03",
+    "precio": 213604
+  },
+  {
+    "fecha_inicio": "2016-02-03 20:21:27",
+    "productos": [
+      56935569384
+    ],
+    "vendedor": "vthompson",
+    "id": 38930703727,
+    "historial": [
+      [
+        "nvasquez",
+        58253
+      ],
+      [
+        "zguzman",
+        61762
+      ],
+      [
+        "cfernandez",
+        67289
+      ],
+      [
+        "mcardenas",
+        71568
+      ],
+      [
+        "srojas",
+        79945
+      ],
+      [
+        "mbravo",
+        112704
+      ],
+      [
+        "jcarvajal",
+        117439
+      ],
+      [
+        "fleiva",
+        123327
+      ],
+      [
+        "rvidal",
+        124568
+      ],
+      [
+        "jgallardo",
+        140623
+      ],
+      [
+        "afelipevidal",
+        141033
+      ],
+      [
+        "rortiz",
+        145117
+      ],
+      [
+        "xrojas",
+        147759
+      ],
+      [
+        "scastro",
+        147966
+      ],
+      [
+        "rcarrasco",
+        151275
+      ],
+      [
+        "edonoso",
+        163181
+      ],
+      [
+        "mgomez",
+        163202
+      ],
+      [
+        "balvarado",
+        175611
+      ],
+      [
+        "isandoval",
+        176217
+      ],
+      [
+        "sfarias",
+        202913
+      ],
+      [
+        "jcardenas",
+        217594
+      ],
+      [
+        "mmoreno",
+        228877
+      ],
+      [
+        "khenriquez",
+        234774
+      ]
+    ],
+    "fecha_termino": "2016-03-25 12:42:05",
+    "precio": 228878
+  },
+  {
+    "fecha_inicio": "2016-03-11 11:09:16",
+    "productos": [
+      57554825687
+    ],
+    "vendedor": "xmartinez",
+    "id": 30599471839,
+    "historial": [
+      [
+        "jcarvajal",
+        112086
+      ],
+      [
+        "lfernandez",
+        117261
+      ],
+      [
+        "edonoso",
+        150884
+      ],
+      [
+        "scarvajal",
+        164831
+      ],
+      [
+        "lvasquez",
+        168489
+      ],
+      [
+        "bsalinas",
+        172010
+      ],
+      [
+        "sromero",
+        181982
+      ],
+      [
+        "mmiranda",
+        188081
+      ],
+      [
+        "ahernandez",
+        188475
+      ],
+      [
+        "btapia",
+        191241
+      ],
+      [
+        "svergara",
+        197769
+      ],
+      [
+        "jdavidfernan",
+        198546
+      ],
+      [
+        "crivera",
+        201094
+      ],
+      [
+        "bthompson",
+        206160
+      ],
+      [
+        "srojas",
+        209934
+      ],
+      [
+        "emaldonado",
+        212419
+      ],
+      [
+        "dalejandroma",
+        223317
+      ],
+      [
+        "sdiaz",
+        227575
+      ],
+      [
+        "nrivera",
+        228374
+      ]
+    ],
+    "fecha_termino": "2016-07-01 02:41:14",
+    "precio": 227576
+  },
+  {
+    "fecha_inicio": "2016-02-27 20:13:28",
+    "productos": [
+      46486035864
+    ],
+    "vendedor": "jlee",
+    "id": 31587904861,
+    "historial": [
+      [
+        "bsalinas",
+        58599
+      ],
+      [
+        "bvega",
+        68665
+      ],
+      [
+        "acampbell",
+        78077
+      ],
+      [
+        "mpalma",
+        85745
+      ],
+      [
+        "nbrown",
+        91138
+      ],
+      [
+        "avera",
+        91352
+      ],
+      [
+        "aalvarado",
+        108339
+      ],
+      [
+        "gflores",
+        119857
+      ],
+      [
+        "gvera",
+        125915
+      ],
+      [
+        "lgallardo",
+        127156
+      ],
+      [
+        "jcardenas",
+        138016
+      ],
+      [
+        "aolivares",
+        140102
+      ],
+      [
+        "owong",
+        142469
+      ],
+      [
+        "ltorres",
+        147411
+      ],
+      [
+        "amedina",
+        151167
+      ],
+      [
+        "jortiz",
+        163769
+      ],
+      [
+        "rgarcia",
+        168321
+      ],
+      [
+        "sramirez",
+        180162
+      ],
+      [
+        "dcampbell",
+        200107
+      ],
+      [
+        "tsandoval",
+        200799
+      ],
+      [
+        "smedina",
+        218657
+      ],
+      [
+        "dalejandroal",
+        226472
+      ],
+      [
+        "agarcia",
+        230686
+      ]
+    ],
+    "fecha_termino": "2016-11-03 15:02:08",
+    "precio": 226473
+  },
+  {
+    "fecha_inicio": "2016-01-20 01:34:38",
+    "productos": [
+      26786309620
+    ],
+    "vendedor": "gvalenzuela",
+    "id": 27472751929,
+    "historial": [
+      [
+        "lwilliams",
+        57975
+      ],
+      [
+        "sparra",
+        57983
+      ],
+      [
+        "npalma",
+        58443
+      ],
+      [
+        "jvaldes",
+        60045
+      ],
+      [
+        "nrivera",
+        61012
+      ],
+      [
+        "asandoval",
+        80773
+      ],
+      [
+        "jjosecortes",
+        81030
+      ],
+      [
+        "srojas",
+        97830
+      ],
+      [
+        "wrivera",
+        100354
+      ],
+      [
+        "malvarez",
+        101676
+      ],
+      [
+        "lcaceres",
+        105333
+      ],
+      [
+        "lvasquez",
+        116493
+      ],
+      [
+        "dgallardo",
+        126500
+      ],
+      [
+        "fleiva",
+        127419
+      ],
+      [
+        "vwong",
+        132335
+      ],
+      [
+        "vmorales",
+        138664
+      ],
+      [
+        "ralarcon",
+        151232
+      ],
+      [
+        "hhernandez",
+        163015
+      ],
+      [
+        "ahernandez",
+        176005
+      ],
+      [
+        "mvalenzuela",
+        198165
+      ],
+      [
+        "lcaceres",
+        214105
+      ],
+      [
+        "vthompson",
+        217998
+      ],
+      [
+        "nalvarez",
+        229953
+      ]
+    ],
+    "fecha_termino": "2016-12-31 06:43:56",
+    "precio": 217999
+  },
+  {
+    "fecha_inicio": "2016-02-24 11:48:35",
+    "productos": [
+      95723951873
+    ],
+    "vendedor": "mguzman",
+    "id": 38927843591,
+    "historial": [
+      [
+        "dvenegas",
+        64262
+      ],
+      [
+        "mromero",
+        115827
+      ],
+      [
+        "arodriguez",
+        134650
+      ],
+      [
+        "agarrido",
+        210721
+      ]
+    ],
+    "fecha_termino": "2016-08-07 15:46:13",
+    "precio": 134651
+  },
+  {
+    "fecha_inicio": "2016-02-23 15:41:24",
+    "productos": [
+      93076365791
+    ],
+    "vendedor": "jgallardo",
+    "id": 44768782579,
+    "historial": [
+      [
+        "acampbell",
+        58815
+      ],
+      [
+        "vvera",
+        59351
+      ],
+      [
+        "amedina",
+        59507
+      ],
+      [
+        "sreyes",
+        120098
+      ],
+      [
+        "staylor",
+        135844
+      ],
+      [
+        "sguerrero",
+        145724
+      ],
+      [
+        "ewong",
+        171356
+      ],
+      [
+        "cramirez",
+        177774
+      ],
+      [
+        "cvaldes",
+        189341
+      ],
+      [
+        "lmartinez",
+        192344
+      ],
+      [
+        "gsalinas",
+        200295
+      ],
+      [
+        "mmartinez",
+        214245
+      ],
+      [
+        "jsalazar",
+        216955
+      ],
+      [
+        "maguilera",
+        227189
+      ],
+      [
+        "jhenriquez",
+        233277
+      ],
+      [
+        "smartin",
+        233473
+      ]
+    ],
+    "fecha_termino": "2016-12-23 23:25:52",
+    "precio": 233278
+  },
+  {
+    "fecha_inicio": "2016-02-26 06:10:33",
+    "productos": [
+      65440445772
+    ],
+    "vendedor": "bbustos",
+    "id": 75192128476,
+    "historial": [
+      [
+        "sparra",
+        57386
+      ],
+      [
+        "kalarcon",
+        65013
+      ],
+      [
+        "mromero",
+        65400
+      ],
+      [
+        "mfuentes",
+        76068
+      ],
+      [
+        "sparra",
+        94328
+      ],
+      [
+        "nbrown",
+        106763
+      ],
+      [
+        "jjosewilson",
+        126736
+      ],
+      [
+        "lmorales",
+        132655
+      ],
+      [
+        "scastro",
+        143821
+      ],
+      [
+        "vguerrero",
+        145003
+      ],
+      [
+        "fmedina",
+        146091
+      ],
+      [
+        "mtoro",
+        152264
+      ],
+      [
+        "lreyes",
+        162093
+      ],
+      [
+        "apoblete",
+        162495
+      ],
+      [
+        "cmiranda",
+        166137
+      ],
+      [
+        "afuentes",
+        181221
+      ],
+      [
+        "scarvajal",
+        184309
+      ],
+      [
+        "jhenriquez",
+        187953
+      ],
+      [
+        "gvenegas",
+        194665
+      ],
+      [
+        "rortega",
+        195954
+      ],
+      [
+        "blopez",
+        198915
+      ],
+      [
+        "xgarcia",
+        199052
+      ],
+      [
+        "lreyes",
+        217249
+      ],
+      [
+        "jdavidpoblet",
+        223792
+      ]
+    ],
+    "fecha_termino": "2016-08-15 09:20:39",
+    "precio": 217250
+  },
+  {
+    "fecha_inicio": "2016-02-25 00:06:43",
+    "productos": [
+      45407636066
+    ],
+    "vendedor": "lwilliams",
+    "id": 28460840620,
+    "historial": [
+      [
+        "bgodoy",
+        79779
+      ],
+      [
+        "jhenriquez",
+        97605
+      ],
+      [
+        "mpoblete",
+        108839
+      ],
+      [
+        "jpalma",
+        208283
+      ]
+    ],
+    "fecha_termino": "2016-10-12 13:19:34",
+    "precio": 108840
+  },
+  {
+    "fecha_inicio": "2016-01-09 09:09:38",
+    "productos": [
+      24062729778
+    ],
+    "vendedor": "svargas",
+    "id": 26171999806,
+    "historial": [
+      [
+        "sdiaz",
+        57705
+      ],
+      [
+        "svasquez",
+        60801
+      ],
+      [
+        "dalejandrobu",
+        71144
+      ],
+      [
+        "agomez",
+        120108
+      ],
+      [
+        "asanchez",
+        124047
+      ],
+      [
+        "jalvarez",
+        146863
+      ],
+      [
+        "apaulabustos",
+        148305
+      ],
+      [
+        "mthompson",
+        181380
+      ],
+      [
+        "naravena",
+        185257
+      ]
+    ],
+    "fecha_termino": "2016-11-11 05:17:53",
+    "precio": 181381
+  },
+  {
+    "fecha_inicio": "2016-02-05 19:09:17",
+    "productos": [
+      91130552198
+    ],
+    "vendedor": "fleiva",
+    "id": 35125287044,
+    "historial": [
+      [
+        "mjoserodrigu",
+        78121
+      ],
+      [
+        "rgarcia",
+        79980
+      ],
+      [
+        "prodriguez",
+        117690
+      ],
+      [
+        "scarvajal",
+        132723
+      ],
+      [
+        "npalma",
+        158062
+      ],
+      [
+        "jandresvidal",
+        185270
+      ],
+      [
+        "apaulabustos",
+        199402
+      ],
+      [
+        "jpalma",
+        206020
+      ],
+      [
+        "xgonzalez",
+        206269
+      ],
+      [
+        "apaulatapia",
+        207322
+      ],
+      [
+        "jlee",
+        234559
+      ]
+    ],
+    "fecha_termino": "2016-08-31 16:55:02",
+    "precio": 207323
+  },
+  {
+    "fecha_inicio": "2016-02-09 19:05:57",
+    "productos": [
+      62869948460
+    ],
+    "vendedor": "tpizarro",
+    "id": 64952076184,
+    "historial": [
+      [
+        "ahernandez",
+        71160
+      ],
+      [
+        "malvarez",
+        91665
+      ],
+      [
+        "sgodoy",
+        93985
+      ],
+      [
+        "sfernandez",
+        109130
+      ],
+      [
+        "vjara",
+        139076
+      ],
+      [
+        "rromero",
+        181429
+      ],
+      [
+        "aguerrero",
+        214406
+      ]
+    ],
+    "fecha_termino": "2016-12-19 10:30:39",
+    "precio": 181430
+  },
+  {
+    "fecha_inicio": "2016-01-01 19:01:19",
+    "productos": [
+      85606005850
+    ],
+    "vendedor": "svergara",
+    "id": 23658589848,
+    "historial": [
+      [
+        "ccampbell",
+        64621
+      ],
+      [
+        "brodriguez",
+        67802
+      ],
+      [
+        "jriquelme",
+        95033
+      ],
+      [
+        "briquelme",
+        109896
+      ],
+      [
+        "ipizarro",
+        110921
+      ],
+      [
+        "fjimenez",
+        117392
+      ],
+      [
+        "amedina",
+        122528
+      ],
+      [
+        "fmedina",
+        136577
+      ],
+      [
+        "emaldonado",
+        139087
+      ],
+      [
+        "molivares",
+        147346
+      ],
+      [
+        "lparra",
+        147761
+      ],
+      [
+        "jjosehernand",
+        150462
+      ],
+      [
+        "fvergara",
+        180238
+      ],
+      [
+        "bsanhueza",
+        180277
+      ],
+      [
+        "dalejandrori",
+        181742
+      ],
+      [
+        "hmolina",
+        182350
+      ],
+      [
+        "efuentes",
+        188218
+      ],
+      [
+        "mherrera",
+        192958
+      ],
+      [
+        "lsmith",
+        199068
+      ],
+      [
+        "lwilliams",
+        215119
+      ],
+      [
+        "mjara",
+        219531
+      ],
+      [
+        "vcastro",
+        221512
+      ],
+      [
+        "asepulveda",
+        224156
+      ]
+    ],
+    "fecha_termino": "2016-11-15 01:14:07",
+    "precio": 221513
+  },
+  {
+    "fecha_inicio": "2016-02-26 00:36:00",
+    "productos": [
+      90085182905
+    ],
+    "vendedor": "gsanchez",
+    "id": 95870750875,
+    "historial": [
+      [
+        "dhenriquez",
+        58882
+      ],
+      [
+        "sdonoso",
+        74473
+      ],
+      [
+        "baguilera",
+        101421
+      ],
+      [
+        "mmoreno",
+        109883
+      ],
+      [
+        "gflores",
+        119315
+      ],
+      [
+        "hsanhueza",
+        160609
+      ],
+      [
+        "fparedes",
+        176111
+      ],
+      [
+        "acampbell",
+        178145
+      ],
+      [
+        "mgallardo",
+        206732
+      ],
+      [
+        "dbustos",
+        221758
+      ],
+      [
+        "afelipevera",
+        234216
+      ]
+    ],
+    "fecha_termino": "2016-04-12 10:39:24",
+    "precio": 221759
+  },
+  {
+    "fecha_inicio": "2016-01-18 11:04:39",
+    "productos": [
+      19793361821
+    ],
+    "vendedor": "mvalenzuela",
+    "id": 87761941286,
+    "historial": [
+      [
+        "rparedes",
+        66451
+      ],
+      [
+        "ltorres",
+        75806
+      ],
+      [
+        "sruiz",
+        96213
+      ],
+      [
+        "sdonoso",
+        97402
+      ],
+      [
+        "rromero",
+        100917
+      ],
+      [
+        "ccontreras",
+        125116
+      ],
+      [
+        "bvega",
+        126768
+      ],
+      [
+        "pruiz",
+        131170
+      ],
+      [
+        "svidal",
+        166076
+      ],
+      [
+        "rjimenez",
+        189691
+      ],
+      [
+        "jjosewilson",
+        195251
+      ],
+      [
+        "apoblete",
+        232215
+      ],
+      [
+        "mwilliams",
+        239378
+      ]
+    ],
+    "fecha_termino": "2016-09-25 16:20:07",
+    "precio": 232216
+  },
+  {
+    "fecha_inicio": "2016-01-03 03:06:58",
+    "productos": [
+      92605756116
+    ],
+    "vendedor": "mmiranda",
+    "id": 79686577228,
+    "historial": [
+      [
+        "tsandoval",
+        56218
+      ],
+      [
+        "asepulveda",
+        84773
+      ],
+      [
+        "tsmith",
+        119252
+      ],
+      [
+        "halarcon",
+        124050
+      ],
+      [
+        "lwilliams",
+        130711
+      ],
+      [
+        "asalazar",
+        132325
+      ],
+      [
+        "vsepulveda",
+        133563
+      ],
+      [
+        "creyes",
+        135262
+      ],
+      [
+        "hbustos",
+        136704
+      ],
+      [
+        "caguilera",
+        138821
+      ],
+      [
+        "ncontreras",
+        150170
+      ],
+      [
+        "btapia",
+        151619
+      ],
+      [
+        "afelipevidal",
+        168008
+      ],
+      [
+        "zcarrasco",
+        181035
+      ],
+      [
+        "sruiz",
+        184159
+      ],
+      [
+        "valvarez",
+        189642
+      ],
+      [
+        "afarias",
+        190375
+      ],
+      [
+        "jortiz",
+        193793
+      ],
+      [
+        "jbrown",
+        198885
+      ],
+      [
+        "lcampos",
+        206076
+      ],
+      [
+        "srivera",
+        210027
+      ],
+      [
+        "ssmith",
+        227791
+      ],
+      [
+        "ahernandez",
+        232863
+      ],
+      [
+        "falvarado",
+        238287
+      ]
+    ],
+    "fecha_termino": "2016-04-25 13:20:03",
+    "precio": 232864
+  },
+  {
+    "fecha_inicio": "2016-02-09 13:50:05",
+    "productos": [
+      49681055280
+    ],
+    "vendedor": "aescobar",
+    "id": 19395246707,
+    "historial": [
+      [
+        "sdonoso",
+        95634
+      ],
+      [
+        "malvarez",
+        104147
+      ],
+      [
+        "dbustos",
+        109794
+      ],
+      [
+        "jandrescacer",
+        127523
+      ],
+      [
+        "msanmartin",
+        153341
+      ],
+      [
+        "briquelme",
+        156244
+      ],
+      [
+        "acampos",
+        161607
+      ],
+      [
+        "mdiaz",
+        173487
+      ],
+      [
+        "halarcon",
+        178363
+      ],
+      [
+        "jdavidfernan",
+        190835
+      ],
+      [
+        "areyes",
+        196175
+      ],
+      [
+        "rhenriquez",
+        233294
+      ]
+    ],
+    "fecha_termino": "2016-06-16 09:52:24",
+    "precio": 196176
+  },
+  {
+    "fecha_inicio": "2016-01-13 21:20:24",
+    "productos": [
+      47570644382
+    ],
+    "vendedor": "mjones",
+    "id": 63981853567,
+    "historial": [
+      [
+        "jbustos",
+        60790
+      ],
+      [
+        "rsanhueza",
+        61921
+      ],
+      [
+        "bsanhueza",
+        68395
+      ],
+      [
+        "lvargas",
+        70747
+      ],
+      [
+        "mruiz",
+        72809
+      ],
+      [
+        "lpoblete",
+        86853
+      ],
+      [
+        "ssmith",
+        97740
+      ],
+      [
+        "ealvarado",
+        114158
+      ],
+      [
+        "zvargas",
+        131102
+      ],
+      [
+        "rsanhueza",
+        147703
+      ],
+      [
+        "lvidal",
+        160232
+      ],
+      [
+        "ngallardo",
+        174860
+      ],
+      [
+        "malvarez",
+        188372
+      ],
+      [
+        "nbrown",
+        188867
+      ],
+      [
+        "kalarcon",
+        192507
+      ],
+      [
+        "jbustos",
+        195480
+      ],
+      [
+        "ssmith",
+        219228
+      ],
+      [
+        "fromero",
+        222410
+      ],
+      [
+        "aalvarado",
+        230974
+      ],
+      [
+        "lgallardo",
+        234659
+      ]
+    ],
+    "fecha_termino": "2016-07-07 12:45:06",
+    "precio": 230975
+  },
+  {
+    "fecha_inicio": "2016-03-10 14:37:28",
+    "productos": [
+      92847691135
+    ],
+    "vendedor": "sreyes",
+    "id": 39071108167,
+    "historial": [
+      [
+        "afelipearaya",
+        76880
+      ],
+      [
+        "scarvajal",
+        78868
+      ],
+      [
+        "mcardenas",
+        79141
+      ],
+      [
+        "triquelme",
+        88070
+      ],
+      [
+        "btapia",
+        101314
+      ],
+      [
+        "apaularojas",
+        101776
+      ],
+      [
+        "lcampos",
+        105921
+      ],
+      [
+        "rsanhueza",
+        109804
+      ],
+      [
+        "isaavedra",
+        116999
+      ],
+      [
+        "lvidal",
+        117388
+      ],
+      [
+        "lgodoy",
+        137829
+      ],
+      [
+        "mjoseruiz",
+        140669
+      ],
+      [
+        "asaavedra",
+        153158
+      ],
+      [
+        "areyes",
+        163691
+      ],
+      [
+        "mjosegarcia",
+        164984
+      ],
+      [
+        "ebustos",
+        169500
+      ],
+      [
+        "agodoy",
+        174870
+      ],
+      [
+        "vwong",
+        176101
+      ],
+      [
+        "jvaldes",
+        178170
+      ],
+      [
+        "jjoseguerrer",
+        185036
+      ],
+      [
+        "mescobar",
+        196345
+      ],
+      [
+        "afigueroa",
+        222734
+      ],
+      [
+        "pwilliams",
+        222968
+      ]
+    ],
+    "fecha_termino": "2016-12-14 07:22:05",
+    "precio": 222735
+  },
+  {
+    "fecha_inicio": "2016-01-29 17:19:12",
+    "productos": [
+      36630509803
+    ],
+    "vendedor": "isandoval",
+    "id": 75707779156,
+    "historial": [
+      [
+        "vcampbell",
+        79203
+      ],
+      [
+        "bsaavedra",
+        81163
+      ],
+      [
+        "vmorales",
+        84839
+      ],
+      [
+        "asepulveda",
+        92447
+      ],
+      [
+        "iolivares",
+        114900
+      ],
+      [
+        "ngallardo",
+        120628
+      ],
+      [
+        "valvarez",
+        142272
+      ],
+      [
+        "fromero",
+        165433
+      ],
+      [
+        "cjara",
+        197857
+      ]
+    ],
+    "fecha_termino": "2016-11-14 07:41:23",
+    "precio": 165434
+  },
+  {
+    "fecha_inicio": "2016-02-14 17:19:04",
+    "productos": [
+      62468011008
+    ],
+    "vendedor": "ialvarez",
+    "id": 53457869547,
+    "historial": [
+      [
+        "worellana",
+        65622
+      ],
+      [
+        "svaldes",
+        155107
+      ],
+      [
+        "jlee",
+        181384
+      ],
+      [
+        "mvalenzuela",
+        207961
+      ],
+      [
+        "jgodoy",
+        232691
+      ]
+    ],
+    "fecha_termino": "2016-04-08 05:56:02",
+    "precio": 207962
+  },
+  {
+    "fecha_inicio": "2016-03-07 02:36:12",
+    "productos": [
+      74302557371
+    ],
+    "vendedor": "ccaceres",
+    "id": 83757685730,
+    "historial": [
+      [
+        "srivera",
+        68378
+      ],
+      [
+        "mgonzalez",
+        68789
+      ],
+      [
+        "bsalinas",
+        73769
+      ],
+      [
+        "ncontreras",
+        85029
+      ],
+      [
+        "gcastro",
+        103661
+      ],
+      [
+        "ahernandez",
+        120036
+      ],
+      [
+        "acastro",
+        126644
+      ],
+      [
+        "hbustos",
+        143271
+      ],
+      [
+        "ccontreras",
+        146479
+      ],
+      [
+        "egallardo",
+        151368
+      ],
+      [
+        "sreyes",
+        160685
+      ],
+      [
+        "rmorales",
+        164409
+      ],
+      [
+        "elee",
+        167582
+      ],
+      [
+        "avera",
+        177883
+      ],
+      [
+        "btapia",
+        177906
+      ],
+      [
+        "dvenegas",
+        183032
+      ],
+      [
+        "gtaylor",
+        194953
+      ],
+      [
+        "dorellana",
+        201577
+      ],
+      [
+        "mmartinez",
+        201723
+      ],
+      [
+        "gvenegas",
+        203287
+      ],
+      [
+        "mpatel",
+        203309
+      ],
+      [
+        "atoro",
+        218807
+      ]
+    ],
+    "fecha_termino": "2016-09-29 09:22:20",
+    "precio": 203310
+  },
+  {
+    "fecha_inicio": "2016-02-13 00:28:35",
+    "productos": [
+      54919326071
+    ],
+    "vendedor": "sfigueroa",
+    "id": 12433223835,
+    "historial": [
+      [
+        "lrojas",
+        62428
+      ],
+      [
+        "bbustos",
+        75263
+      ],
+      [
+        "msandoval",
+        78518
+      ],
+      [
+        "bwilson",
+        78801
+      ],
+      [
+        "apaulabustos",
+        109508
+      ],
+      [
+        "avera",
+        112549
+      ],
+      [
+        "atoro",
+        116923
+      ],
+      [
+        "mjara",
+        119276
+      ],
+      [
+        "iolivares",
+        144237
+      ],
+      [
+        "lolivares",
+        156709
+      ],
+      [
+        "lnavarrete",
+        157519
+      ],
+      [
+        "lvidal",
+        163101
+      ],
+      [
+        "rgallardo",
+        184572
+      ],
+      [
+        "prodriguez",
+        188054
+      ],
+      [
+        "sdiaz",
+        189779
+      ],
+      [
+        "cramirez",
+        194211
+      ],
+      [
+        "rvenegas",
+        202067
+      ],
+      [
+        "jcardenas",
+        206414
+      ],
+      [
+        "aherrera",
+        209245
+      ],
+      [
+        "scortes",
+        220743
+      ],
+      [
+        "ssmith",
+        220932
+      ],
+      [
+        "jespinoza",
+        231548
+      ],
+      [
+        "mmiranda",
+        237581
+      ],
+      [
+        "mbustamante",
+        238414
+      ]
+    ],
+    "fecha_termino": "2016-04-11 13:48:12",
+    "precio": 237582
+  },
+  {
+    "fecha_inicio": "2016-01-17 20:07:36",
+    "productos": [
+      77770566625
+    ],
+    "vendedor": "jalvarez",
+    "id": 83021227053,
+    "historial": [
+      [
+        "ahernandez",
+        148102
+      ],
+      [
+        "vmedina",
+        177771
+      ],
+      [
+        "jbustos",
+        186659
+      ],
+      [
+        "gsalinas",
+        188213
+      ],
+      [
+        "lrojas",
+        217251
+      ]
+    ],
+    "fecha_termino": "2016-12-20 20:05:07",
+    "precio": 188214
+  },
+  {
+    "fecha_inicio": "2016-03-04 18:09:59",
+    "productos": [
+      33242720971
+    ],
+    "vendedor": "mrivera",
+    "id": 79688562636,
+    "historial": [
+      [
+        "asilva",
+        76353
+      ],
+      [
+        "rgutierrez",
+        106199
+      ],
+      [
+        "afelipevidal",
+        111580
+      ],
+      [
+        "cjara",
+        131954
+      ],
+      [
+        "worellana",
+        132480
+      ],
+      [
+        "vmorales",
+        141495
+      ],
+      [
+        "solivares",
+        162876
+      ],
+      [
+        "xcortes",
+        180767
+      ],
+      [
+        "jcarvajal",
+        199556
+      ],
+      [
+        "vmedina",
+        209081
+      ],
+      [
+        "jjosecortes",
+        213974
+      ],
+      [
+        "lnavarrete",
+        229991
+      ],
+      [
+        "solivares",
+        237152
+      ]
+    ],
+    "fecha_termino": "2016-09-21 23:00:02",
+    "precio": 229992
+  },
+  {
+    "fecha_inicio": "2016-01-19 00:54:25",
+    "productos": [
+      36331584109
+    ],
+    "vendedor": "mpoblete",
+    "id": 96929178190,
+    "historial": [
+      [
+        "gvenegas",
+        68381
+      ],
+      [
+        "hbustos",
+        80971
+      ],
+      [
+        "jespinoza",
+        86902
+      ],
+      [
+        "jbrown",
+        101250
+      ],
+      [
+        "lsalinas",
+        105923
+      ],
+      [
+        "rgarrido",
+        136933
+      ],
+      [
+        "xgonzalez",
+        148508
+      ],
+      [
+        "mpatel",
+        148883
+      ],
+      [
+        "msanhueza",
+        150217
+      ],
+      [
+        "ltorres",
+        151603
+      ],
+      [
+        "sfarias",
+        152283
+      ],
+      [
+        "efuentes",
+        160674
+      ],
+      [
+        "lgonzalez",
+        167016
+      ],
+      [
+        "dsandoval",
+        188904
+      ],
+      [
+        "jjosehernand",
+        209218
+      ],
+      [
+        "afigueroa",
+        212902
+      ],
+      [
+        "ahernandez",
+        220088
+      ],
+      [
+        "creyes",
+        226585
+      ],
+      [
+        "jnavarro",
+        226890
+      ],
+      [
+        "dalejandroal",
+        229939
+      ],
+      [
+        "asandoval",
+        232281
+      ],
+      [
+        "mjosegarcia",
+        236835
+      ],
+      [
+        "icardenas",
+        238512
+      ]
+    ],
+    "fecha_termino": "2016-04-11 12:48:07",
+    "precio": 236836
+  },
+  {
+    "fecha_inicio": "2016-01-24 17:50:00",
+    "productos": [
+      81471183099
+    ],
+    "vendedor": "mortiz",
+    "id": 31145808518,
+    "historial": [
+      [
+        "lmorales",
+        78366
+      ],
+      [
+        "ewong",
+        78872
+      ],
+      [
+        "amedina",
+        91012
+      ],
+      [
+        "sgodoy",
+        98619
+      ],
+      [
+        "ssanhueza",
+        105819
+      ],
+      [
+        "cvaldes",
+        120590
+      ],
+      [
+        "gflores",
+        138432
+      ],
+      [
+        "atoro",
+        148812
+      ],
+      [
+        "vmorales",
+        156690
+      ],
+      [
+        "jromero",
+        167607
+      ],
+      [
+        "jgallardo",
+        182089
+      ],
+      [
+        "jcastro",
+        205342
+      ],
+      [
+        "arodriguez",
+        215004
+      ],
+      [
+        "gsandoval",
+        222165
+      ],
+      [
+        "mparedes",
+        222655
+      ],
+      [
+        "elee",
+        224444
+      ],
+      [
+        "ssmith",
+        237851
+      ]
+    ],
+    "fecha_termino": "2016-05-05 10:48:11",
+    "precio": 224445
+  },
+  {
+    "fecha_inicio": "2016-03-06 14:15:46",
+    "productos": [
+      30154789846
+    ],
+    "vendedor": "edonoso",
+    "id": 41900341795,
+    "historial": [
+      [
+        "acampbell",
+        106597
+      ],
+      [
+        "lwilliams",
+        118385
+      ],
+      [
+        "jcardenas",
+        132308
+      ],
+      [
+        "mmartinez",
+        133562
+      ],
+      [
+        "lparra",
+        133728
+      ],
+      [
+        "lgomez",
+        135392
+      ],
+      [
+        "jromero",
+        142181
+      ],
+      [
+        "jjosewilson",
+        146735
+      ],
+      [
+        "jjosecortes",
+        147845
+      ],
+      [
+        "sparedes",
+        173402
+      ],
+      [
+        "acampos",
+        180711
+      ],
+      [
+        "svargas",
+        189359
+      ],
+      [
+        "fmedina",
+        196698
+      ],
+      [
+        "mjosegarcia",
+        197739
+      ],
+      [
+        "acastro",
+        200076
+      ],
+      [
+        "smartin",
+        203978
+      ],
+      [
+        "lgallardo",
+        212523
+      ],
+      [
+        "lmolina",
+        214453
+      ],
+      [
+        "scarvajal",
+        216501
+      ],
+      [
+        "hbustos",
+        218697
+      ],
+      [
+        "jguzman",
+        222769
+      ],
+      [
+        "afelipearaya",
+        227389
+      ]
+    ],
+    "fecha_termino": "2016-10-28 12:44:50",
+    "precio": 222770
+  },
+  {
+    "fecha_inicio": "2016-03-13 11:54:50",
+    "productos": [
+      12380648873
+    ],
+    "vendedor": "agallardo",
+    "id": 45959763538,
+    "historial": [
+      [
+        "cmiranda",
+        81779
+      ],
+      [
+        "jbustos",
+        104135
+      ],
+      [
+        "vjara",
+        135334
+      ],
+      [
+        "jortiz",
+        139487
+      ],
+      [
+        "dalejandropa",
+        153692
+      ],
+      [
+        "vlee",
+        178090
+      ],
+      [
+        "lnavarrete",
+        189379
+      ],
+      [
+        "ngonzalez",
+        214589
+      ],
+      [
+        "jsmith",
+        229022
+      ]
+    ],
+    "fecha_termino": "2016-05-05 21:46:29",
+    "precio": 214590
+  },
+  {
+    "fecha_inicio": "2016-01-11 02:09:40",
+    "productos": [
+      87125217471
+    ],
+    "vendedor": "ltorres",
+    "id": 57962537598,
+    "historial": [
+      [
+        "fparedes",
+        57473
+      ],
+      [
+        "wrivera",
+        64290
+      ],
+      [
+        "edonoso",
+        83079
+      ],
+      [
+        "mguerrero",
+        93389
+      ],
+      [
+        "zvargas",
+        96812
+      ],
+      [
+        "mparedes",
+        99517
+      ],
+      [
+        "kalarcon",
+        107461
+      ],
+      [
+        "icardenas",
+        109591
+      ],
+      [
+        "nlopez",
+        110773
+      ],
+      [
+        "sdiaz",
+        114162
+      ],
+      [
+        "lflores",
+        131828
+      ],
+      [
+        "mvalenzuela",
+        147194
+      ],
+      [
+        "vcampbell",
+        184689
+      ],
+      [
+        "mgonzalez",
+        190484
+      ],
+      [
+        "caraya",
+        228514
+      ]
+    ],
+    "fecha_termino": "2016-12-26 12:04:44",
+    "precio": 190485
+  },
+  {
+    "fecha_inicio": "2016-03-08 00:19:46",
+    "productos": [
+      36306593985
+    ],
+    "vendedor": "elee",
+    "id": 72885214222,
+    "historial": [
+      [
+        "mpalma",
+        80087
+      ],
+      [
+        "svasquez",
+        99099
+      ],
+      [
+        "ssmith",
+        122211
+      ],
+      [
+        "rortiz",
+        131380
+      ],
+      [
+        "rgarcia",
+        131812
+      ],
+      [
+        "svasquez",
+        133558
+      ],
+      [
+        "ahernandez",
+        143184
+      ],
+      [
+        "imaldonado",
+        149518
+      ],
+      [
+        "vcastro",
+        170337
+      ],
+      [
+        "vortega",
+        230461
+      ]
+    ],
+    "fecha_termino": "2016-03-31 14:31:59",
+    "precio": 170338
+  },
+  {
+    "fecha_inicio": "2016-01-12 16:35:11",
+    "productos": [
+      87789123899
+    ],
+    "vendedor": "mjosegarcia",
+    "id": 70893206979,
+    "historial": [
+      [
+        "vlee",
+        60204
+      ],
+      [
+        "dalejandroal",
+        64420
+      ],
+      [
+        "gparra",
+        70726
+      ],
+      [
+        "btapia",
+        80429
+      ],
+      [
+        "rsanhueza",
+        88161
+      ],
+      [
+        "wmartinez",
+        104448
+      ],
+      [
+        "rsaez",
+        111734
+      ],
+      [
+        "gsanchez",
+        112499
+      ],
+      [
+        "dalejandropa",
+        127794
+      ],
+      [
+        "jbustamante",
+        164399
+      ],
+      [
+        "lnavarrete",
+        180172
+      ],
+      [
+        "fvergara",
+        223279
+      ],
+      [
+        "icardenas",
+        225773
+      ],
+      [
+        "cnavarro",
+        228687
+      ]
+    ],
+    "fecha_termino": "2016-04-30 17:35:31",
+    "precio": 225774
+  },
+  {
+    "fecha_inicio": "2016-03-10 10:48:43",
+    "productos": [
+      45820574435
+    ],
+    "vendedor": "sfernandez",
+    "id": 26482429953,
+    "historial": [
+      [
+        "sruiz",
+        65038
+      ],
+      [
+        "cnavarro",
+        83569
+      ],
+      [
+        "mparedes",
+        87128
+      ],
+      [
+        "scontreras",
+        88886
+      ],
+      [
+        "sruiz",
+        93183
+      ],
+      [
+        "agomez",
+        97904
+      ],
+      [
+        "hsanhueza",
+        108879
+      ],
+      [
+        "naravena",
+        121139
+      ],
+      [
+        "fparedes",
+        123615
+      ],
+      [
+        "mpatel",
+        132167
+      ],
+      [
+        "ahenriquez",
+        145380
+      ],
+      [
+        "rpatel",
+        151163
+      ],
+      [
+        "vthompson",
+        159300
+      ],
+      [
+        "sguzman",
+        170453
+      ],
+      [
+        "scontreras",
+        181949
+      ],
+      [
+        "jortiz",
+        186945
+      ],
+      [
+        "mcarrasco",
+        199737
+      ],
+      [
+        "cvaldes",
+        201753
+      ],
+      [
+        "avega",
+        228369
+      ]
+    ],
+    "fecha_termino": "2016-11-13 12:24:47",
+    "precio": 201754
+  },
+  {
+    "fecha_inicio": "2016-01-12 16:37:48",
+    "productos": [
+      15151815762
+    ],
+    "vendedor": "jcarvajal",
+    "id": 51304073735,
+    "historial": [
+      [
+        "aaravena",
+        94689
+      ],
+      [
+        "jgallardo",
+        118335
+      ],
+      [
+        "dcampbell",
+        122920
+      ],
+      [
+        "staylor",
+        135003
+      ],
+      [
+        "rortiz",
+        139344
+      ],
+      [
+        "aparedes",
+        186943
+      ],
+      [
+        "mgallardo",
+        230376
+      ]
+    ],
+    "fecha_termino": "2016-03-22 17:02:56",
+    "precio": 186944
+  },
+  {
+    "fecha_inicio": "2016-01-04 17:38:20",
+    "productos": [
+      93490161247
+    ],
+    "vendedor": "smaldonado",
+    "id": 40495892376,
+    "historial": [
+      [
+        "xsmith",
+        59961
+      ],
+      [
+        "sreyes",
+        98030
+      ],
+      [
+        "valarcon",
+        101141
+      ],
+      [
+        "sreyes",
+        102879
+      ],
+      [
+        "mbrown",
+        108963
+      ],
+      [
+        "agodoy",
+        119933
+      ],
+      [
+        "jlee",
+        138659
+      ],
+      [
+        "dvera",
+        139108
+      ],
+      [
+        "gparra",
+        144944
+      ],
+      [
+        "mjosegarcia",
+        192802
+      ],
+      [
+        "lolivares",
+        196102
+      ],
+      [
+        "acampbell",
+        208445
+      ],
+      [
+        "ewong",
+        210631
+      ],
+      [
+        "caguilera",
+        235846
+      ]
+    ],
+    "fecha_termino": "2016-05-21 10:53:46",
+    "precio": 210632
+  },
+  {
+    "fecha_inicio": "2016-01-17 15:09:47",
+    "productos": [
+      91481408143
+    ],
+    "vendedor": "apalma",
+    "id": 17682212732,
+    "historial": [
+      [
+        "afelipevidal",
+        62615
+      ],
+      [
+        "msanmartin",
+        67047
+      ],
+      [
+        "pruiz",
+        76646
+      ],
+      [
+        "vgallardo",
+        76792
+      ],
+      [
+        "mmiranda",
+        81806
+      ],
+      [
+        "morellana",
+        94690
+      ],
+      [
+        "hgutierrez",
+        94838
+      ],
+      [
+        "mfuentes",
+        117399
+      ],
+      [
+        "apaulatapia",
+        168206
+      ],
+      [
+        "cramirez",
+        202303
+      ],
+      [
+        "mwilliams",
+        206153
+      ],
+      [
+        "abrown",
+        206348
+      ],
+      [
+        "efuentes",
+        208107
+      ],
+      [
+        "sparra",
+        215642
+      ]
+    ],
+    "fecha_termino": "2016-04-11 13:25:47",
+    "precio": 208108
+  },
+  {
+    "fecha_inicio": "2016-02-01 16:19:54",
+    "productos": [
+      61186006051
+    ],
+    "vendedor": "crivera",
+    "id": 63420262909,
+    "historial": [
+      [
+        "agodoy",
+        58148
+      ],
+      [
+        "jjosecortes",
+        62700
+      ],
+      [
+        "lfernandez",
+        70893
+      ],
+      [
+        "ngonzalez",
+        80880
+      ],
+      [
+        "dsalinas",
+        90017
+      ],
+      [
+        "cvaldes",
+        94492
+      ],
+      [
+        "smartin",
+        95904
+      ],
+      [
+        "lfernandez",
+        96808
+      ],
+      [
+        "sfigueroa",
+        111738
+      ],
+      [
+        "apaularojas",
+        118155
+      ],
+      [
+        "vortega",
+        142781
+      ],
+      [
+        "srodriguez",
+        145789
+      ],
+      [
+        "ipizarro",
+        150910
+      ],
+      [
+        "valvarez",
+        158914
+      ],
+      [
+        "vjara",
+        165259
+      ],
+      [
+        "gmaldonado",
+        180817
+      ],
+      [
+        "apaulatapia",
+        194784
+      ],
+      [
+        "fleiva",
+        198722
+      ],
+      [
+        "dmaldonado",
+        206367
+      ],
+      [
+        "pruiz",
+        208128
+      ],
+      [
+        "iruiz",
+        227777
+      ]
+    ],
+    "fecha_termino": "2016-07-03 02:04:26",
+    "precio": 208129
+  },
+  {
+    "fecha_inicio": "2016-03-08 14:38:22",
+    "productos": [
+      87394227373
+    ],
+    "vendedor": "dmaldonado",
+    "id": 21488368168,
+    "historial": [
+      [
+        "sparra",
+        91750
+      ],
+      [
+        "dsalazar",
+        166522
+      ]
+    ],
+    "fecha_termino": "2016-07-02 11:25:47",
+    "precio": 91751
+  },
+  {
+    "fecha_inicio": "2016-02-15 02:25:33",
+    "productos": [
+      49778206323
+    ],
+    "vendedor": "lcaceres",
+    "id": 84651444146,
+    "historial": [
+      [
+        "rjimenez",
+        57675
+      ],
+      [
+        "apaulaaguile",
+        58037
+      ],
+      [
+        "vthompson",
+        62435
+      ],
+      [
+        "morellana",
+        68269
+      ],
+      [
+        "nrivera",
+        81183
+      ],
+      [
+        "ahernandez",
+        93752
+      ],
+      [
+        "fmedina",
+        102465
+      ],
+      [
+        "bespinoza",
+        107476
+      ],
+      [
+        "rjimenez",
+        108576
+      ],
+      [
+        "mrivera",
+        112711
+      ],
+      [
+        "lrojas",
+        120075
+      ],
+      [
+        "xsmith",
+        123919
+      ],
+      [
+        "mbustamante",
+        125172
+      ],
+      [
+        "dhenriquez",
+        143300
+      ],
+      [
+        "mfuentes",
+        145421
+      ],
+      [
+        "sfernandez",
+        148160
+      ],
+      [
+        "aolivares",
+        156051
+      ],
+      [
+        "scarvajal",
+        157542
+      ],
+      [
+        "sparra",
+        201176
+      ],
+      [
+        "isandoval",
+        205467
+      ],
+      [
+        "jjoseguerrer",
+        206249
+      ],
+      [
+        "mpatel",
+        211834
+      ]
+    ],
+    "fecha_termino": "2016-03-15 14:55:25",
+    "precio": 206250
+  },
+  {
+    "fecha_inicio": "2016-02-29 02:06:04",
+    "productos": [
+      92550155476
+    ],
+    "vendedor": "arodriguez",
+    "id": 71287298841,
+    "historial": [
+      [
+        "abrown",
+        105241
+      ],
+      [
+        "gvera",
+        138977
+      ]
+    ],
+    "fecha_termino": "2016-08-15 06:15:25",
+    "precio": 105242
+  },
+  {
+    "fecha_inicio": "2016-02-08 03:22:22",
+    "productos": [
+      55228282035
+    ],
+    "vendedor": "asandoval",
+    "id": 85434482275,
+    "historial": [
+      [
+        "scarvajal",
+        60164
+      ],
+      [
+        "ssanhueza",
+        75041
+      ],
+      [
+        "chenriquez",
+        76866
+      ],
+      [
+        "acastro",
+        91438
+      ],
+      [
+        "gtaylor",
+        109883
+      ],
+      [
+        "mpizarro",
+        111693
+      ],
+      [
+        "nlopez",
+        121759
+      ],
+      [
+        "vortega",
+        132976
+      ],
+      [
+        "lvega",
+        140459
+      ],
+      [
+        "sdonoso",
+        148979
+      ],
+      [
+        "abrown",
+        150665
+      ],
+      [
+        "avergara",
+        150930
+      ],
+      [
+        "rvaldes",
+        156991
+      ],
+      [
+        "jdavidpoblet",
+        169039
+      ],
+      [
+        "avargas",
+        172166
+      ],
+      [
+        "sdiaz",
+        175319
+      ],
+      [
+        "wmartinez",
+        186934
+      ],
+      [
+        "vsepulveda",
+        207494
+      ],
+      [
+        "saguilera",
+        210346
+      ],
+      [
+        "agodoy",
+        213791
+      ],
+      [
+        "amedina",
+        220114
+      ],
+      [
+        "privera",
+        237204
+      ]
+    ],
+    "fecha_termino": "2016-09-03 01:01:26",
+    "precio": 220115
+  },
+  {
+    "fecha_inicio": "2016-01-10 02:58:06",
+    "productos": [
+      59491276163
+    ],
+    "vendedor": "jcaceres",
+    "id": 50174638236,
+    "historial": [
+      [
+        "fparedes",
+        188811
+      ],
+      [
+        "sdonoso",
+        214035
+      ],
+      [
+        "wrivera",
+        214869
+      ]
+    ],
+    "fecha_termino": "2016-12-18 16:16:24",
+    "precio": 214036
+  },
+  {
+    "fecha_inicio": "2016-01-29 19:19:29",
+    "productos": [
+      78600438096
+    ],
+    "vendedor": "solivares",
+    "id": 99933763039,
+    "historial": [
+      [
+        "nbrown",
+        98807
+      ],
+      [
+        "mpoblete",
+        116172
+      ],
+      [
+        "gsandoval",
+        176289
+      ]
+    ],
+    "fecha_termino": "2016-12-07 10:13:48",
+    "precio": 116173
+  },
+  {
+    "fecha_inicio": "2016-01-07 13:40:54",
+    "productos": [
+      29230946768
+    ],
+    "vendedor": "ediaz",
+    "id": 77915488635,
+    "historial": [
+      [
+        "earaya",
+        69345
+      ],
+      [
+        "mdiaz",
+        93243
+      ]
+    ],
+    "fecha_termino": "2016-03-21 20:31:27",
+    "precio": 69346
+  },
+  {
+    "fecha_inicio": "2016-01-09 02:17:44",
+    "productos": [
+      28618007327
+    ],
+    "vendedor": "asanchez",
+    "id": 65273160332,
+    "historial": [
+      [
+        "msanmartin",
+        68424
+      ],
+      [
+        "ebustos",
+        70778
+      ],
+      [
+        "aaravena",
+        95136
+      ],
+      [
+        "msanmartin",
+        148617
+      ],
+      [
+        "jbustos",
+        161196
+      ],
+      [
+        "agodoy",
+        176892
+      ],
+      [
+        "svidal",
+        184984
+      ]
+    ],
+    "fecha_termino": "2016-07-19 05:15:17",
+    "precio": 176893
+  },
+  {
+    "fecha_inicio": "2016-02-03 02:57:49",
+    "productos": [
+      57165372337
+    ],
+    "vendedor": "asanhueza",
+    "id": 71502264914,
+    "historial": [
+      [
+        "smaldonado",
+        185071
+      ],
+      [
+        "dalejandropa",
+        198281
+      ]
+    ],
+    "fecha_termino": "2016-07-26 04:35:28",
+    "precio": 185072
+  },
+  {
+    "fecha_inicio": "2016-02-07 03:32:06",
+    "productos": [
+      41891572482
+    ],
+    "vendedor": "dcampbell",
+    "id": 46190746769,
+    "historial": [
+      [
+        "jcaceres",
+        85594
+      ],
+      [
+        "gmaldonado",
+        87816
+      ],
+      [
+        "mvalenzuela",
+        92055
+      ],
+      [
+        "aortiz",
+        99227
+      ],
+      [
+        "mpatel",
+        117153
+      ],
+      [
+        "amedina",
+        123563
+      ],
+      [
+        "vbustos",
+        128669
+      ],
+      [
+        "pvaldes",
+        131133
+      ],
+      [
+        "ccaceres",
+        131382
+      ],
+      [
+        "chenriquez",
+        133070
+      ],
+      [
+        "briquelme",
+        135255
+      ],
+      [
+        "sruiz",
+        139552
+      ],
+      [
+        "srodriguez",
+        157241
+      ],
+      [
+        "breyes",
+        160317
+      ],
+      [
+        "worellana",
+        166604
+      ],
+      [
+        "mgomez",
+        175017
+      ],
+      [
+        "vlee",
+        191127
+      ],
+      [
+        "mrodriguez",
+        193886
+      ],
+      [
+        "afelipevera",
+        220786
+      ],
+      [
+        "mnavarrete",
+        222834
+      ],
+      [
+        "zguzman",
+        226635
+      ],
+      [
+        "briquelme",
+        228133
+      ],
+      [
+        "jjoseguerrer",
+        232863
+      ],
+      [
+        "lrojas",
+        233009
+      ],
+      [
+        "jjosewilson",
+        237465
+      ]
+    ],
+    "fecha_termino": "2016-07-02 04:59:33",
+    "precio": 233010
+  },
+  {
+    "fecha_inicio": "2016-01-29 11:38:55",
+    "productos": [
+      36171145621
+    ],
+    "vendedor": "ahenriquez",
+    "id": 34260891606,
+    "historial": [
+      [
+        "vjara",
+        79384
+      ],
+      [
+        "smartin",
+        112139
+      ],
+      [
+        "avergara",
+        126361
+      ],
+      [
+        "staylor",
+        150372
+      ],
+      [
+        "nmoreno",
+        155933
+      ],
+      [
+        "mcaceres",
+        159370
+      ],
+      [
+        "afelipevera",
+        159692
+      ],
+      [
+        "asanchez",
+        191093
+      ],
+      [
+        "rhenriquez",
+        196887
+      ],
+      [
+        "bthompson",
+        197171
+      ],
+      [
+        "halvarado",
+        229248
+      ],
+      [
+        "prodriguez",
+        233786
+      ],
+      [
+        "csanchez",
+        235636
+      ]
+    ],
+    "fecha_termino": "2016-05-11 15:40:06",
+    "precio": 233787
+  },
+  {
+    "fecha_inicio": "2016-01-03 11:35:48",
+    "productos": [
+      90181959666
+    ],
+    "vendedor": "vwong",
+    "id": 21370716640,
+    "historial": [
+      [
+        "aparedes",
+        64293
+      ],
+      [
+        "jjoserojas",
+        71202
+      ],
+      [
+        "scampbell",
+        110916
+      ],
+      [
+        "lgallardo",
+        131784
+      ],
+      [
+        "jandresvidal",
+        191157
+      ],
+      [
+        "ewong",
+        191805
+      ],
+      [
+        "pwilliams",
+        207679
+      ],
+      [
+        "crivera",
+        208930
+      ],
+      [
+        "tgarcia",
+        227907
+      ],
+      [
+        "scortes",
+        237800
+      ],
+      [
+        "dfernandez",
+        239161
+      ]
+    ],
+    "fecha_termino": "2016-08-22 20:13:34",
+    "precio": 237801
+  },
+  {
+    "fecha_inicio": "2016-03-12 18:37:21",
+    "productos": [
+      14732205614
+    ],
+    "vendedor": "jsalazar",
+    "id": 79354913310,
+    "historial": [
+      [
+        "afelipearaya",
+        84740
+      ],
+      [
+        "scortes",
+        90289
+      ],
+      [
+        "asanchez",
+        95604
+      ],
+      [
+        "ahernandez",
+        121657
+      ],
+      [
+        "apaulaaguile",
+        149528
+      ],
+      [
+        "nalvarez",
+        154804
+      ],
+      [
+        "mtorres",
+        218384
+      ],
+      [
+        "psalinas",
+        224563
+      ]
+    ],
+    "fecha_termino": "2016-11-21 14:49:38",
+    "precio": 218385
+  },
+  {
+    "fecha_inicio": "2016-02-01 19:37:22",
+    "productos": [
+      87789123899
+    ],
+    "vendedor": "mjosegarcia",
+    "id": 37348387705,
+    "historial": [
+      [
+        "mtoro",
+        66674
+      ],
+      [
+        "hhernandez",
+        107912
+      ],
+      [
+        "jespinoza",
+        117359
+      ],
+      [
+        "hsanhueza",
+        152987
+      ],
+      [
+        "bthompson",
+        170942
+      ],
+      [
+        "dalejandroco",
+        171321
+      ],
+      [
+        "xrojas",
+        187472
+      ],
+      [
+        "imaldonado",
+        226205
+      ],
+      [
+        "smartin",
+        232910
+      ]
+    ],
+    "fecha_termino": "2016-05-25 04:37:12",
+    "precio": 226206
+  },
+  {
+    "fecha_inicio": "2016-02-24 15:04:01",
+    "productos": [
+      50649524248
+    ],
+    "vendedor": "dgallardo",
+    "id": 91220416963,
+    "historial": [
+      [
+        "jjosecortes",
+        58036
+      ],
+      [
+        "ccampbell",
+        62359
+      ],
+      [
+        "edonoso",
+        69870
+      ],
+      [
+        "mespinoza",
+        84153
+      ],
+      [
+        "vthompson",
+        87137
+      ],
+      [
+        "mgonzalez",
+        92247
+      ],
+      [
+        "lolivares",
+        100538
+      ],
+      [
+        "jbustos",
+        108747
+      ],
+      [
+        "nbrown",
+        109444
+      ],
+      [
+        "jdavidpoblet",
+        131048
+      ],
+      [
+        "mnavarrete",
+        137418
+      ],
+      [
+        "emartinez",
+        139945
+      ],
+      [
+        "jpalma",
+        156328
+      ],
+      [
+        "xrojas",
+        157577
+      ],
+      [
+        "mjara",
+        164818
+      ],
+      [
+        "apaularojas",
+        169115
+      ],
+      [
+        "ccontreras",
+        183637
+      ],
+      [
+        "aguerrero",
+        194719
+      ],
+      [
+        "jandressaez",
+        207780
+      ],
+      [
+        "vparedes",
+        222619
+      ],
+      [
+        "asalazar",
+        235576
+      ],
+      [
+        "mjosegomez",
+        238161
+      ]
+    ],
+    "fecha_termino": "2016-09-20 03:19:28",
+    "precio": 235577
+  },
+  {
+    "fecha_inicio": "2016-01-04 01:58:24",
+    "productos": [
+      71491082423
+    ],
+    "vendedor": "srodriguez",
+    "id": 87305062827,
+    "historial": [
+      [
+        "svargas",
+        70832
+      ],
+      [
+        "sparra",
+        71910
+      ],
+      [
+        "mhenriquez",
+        84281
+      ],
+      [
+        "pgonzalez",
+        84887
+      ],
+      [
+        "jandrescacer",
+        87370
+      ],
+      [
+        "srojas",
+        94579
+      ],
+      [
+        "mespinoza",
+        106486
+      ],
+      [
+        "dvenegas",
+        107456
+      ],
+      [
+        "mrivera",
+        119642
+      ],
+      [
+        "ariquelme",
+        128205
+      ],
+      [
+        "abustos",
+        134445
+      ],
+      [
+        "afarias",
+        210821
+      ],
+      [
+        "mespinoza",
+        229447
+      ],
+      [
+        "cgonzalez",
+        233390
+      ]
+    ],
+    "fecha_termino": "2016-08-14 16:07:48",
+    "precio": 229448
+  },
+  {
+    "fecha_inicio": "2016-02-28 07:30:08",
+    "productos": [
+      31773326778
+    ],
+    "vendedor": "agarrido",
+    "id": 19357118635,
+    "historial": [
+      [
+        "ahernandez",
+        68978
+      ],
+      [
+        "mreyes",
+        70014
+      ],
+      [
+        "ccaceres",
+        78826
+      ],
+      [
+        "sruiz",
+        84567
+      ],
+      [
+        "ebustos",
+        96468
+      ],
+      [
+        "svidal",
+        97372
+      ],
+      [
+        "aherrera",
+        99510
+      ],
+      [
+        "dvargas",
+        106072
+      ],
+      [
+        "naravena",
+        112773
+      ],
+      [
+        "egallardo",
+        113661
+      ],
+      [
+        "bthompson",
+        124975
+      ],
+      [
+        "mherrera",
+        129965
+      ],
+      [
+        "xgonzalez",
+        130661
+      ],
+      [
+        "acampos",
+        153177
+      ],
+      [
+        "nrivera",
+        157238
+      ],
+      [
+        "xgonzalez",
+        167435
+      ],
+      [
+        "aherrera",
+        187574
+      ],
+      [
+        "gparra",
+        205266
+      ],
+      [
+        "cbravo",
+        225573
+      ],
+      [
+        "acastillo",
+        229461
+      ],
+      [
+        "amedina",
+        237918
+      ]
+    ],
+    "fecha_termino": "2016-04-06 01:33:04",
+    "precio": 229462
+  },
+  {
+    "fecha_inicio": "2016-02-25 23:47:36",
+    "productos": [
+      15978142749
+    ],
+    "vendedor": "vcampbell",
+    "id": 45465393131,
+    "historial": [
+      [
+        "lreyes",
+        56663
+      ],
+      [
+        "jramirez",
+        63683
+      ],
+      [
+        "vmorales",
+        66138
+      ],
+      [
+        "msanmartin",
+        68888
+      ],
+      [
+        "apaulaaguile",
+        87112
+      ],
+      [
+        "msalinas",
+        101870
+      ],
+      [
+        "iruiz",
+        108580
+      ],
+      [
+        "ssanhueza",
+        113518
+      ],
+      [
+        "descobar",
+        117876
+      ],
+      [
+        "nvasquez",
+        121398
+      ],
+      [
+        "vmartin",
+        123208
+      ],
+      [
+        "jriquelme",
+        131039
+      ],
+      [
+        "rpatel",
+        134825
+      ],
+      [
+        "morellana",
+        135083
+      ],
+      [
+        "ahernandez",
+        153923
+      ],
+      [
+        "sgodoy",
+        157391
+      ],
+      [
+        "gparra",
+        178819
+      ],
+      [
+        "rfuentes",
+        186577
+      ],
+      [
+        "arodriguez",
+        197098
+      ],
+      [
+        "irojas",
+        221135
+      ],
+      [
+        "aparedes",
+        231726
+      ]
+    ],
+    "fecha_termino": "2016-07-14 11:28:54",
+    "precio": 221136
+  },
+  {
+    "fecha_inicio": "2016-03-12 20:11:35",
+    "productos": [
+      29176307304
+    ],
+    "vendedor": "jjoserojas",
+    "id": 58561443490,
+    "historial": [
+      [
+        "sruiz",
+        59801
+      ],
+      [
+        "msanhueza",
+        77731
+      ],
+      [
+        "sruiz",
+        89227
+      ],
+      [
+        "jandressaez",
+        96701
+      ],
+      [
+        "jbustos",
+        101941
+      ],
+      [
+        "dalejandroma",
+        107647
+      ],
+      [
+        "gtaylor",
+        117102
+      ],
+      [
+        "gflores",
+        134296
+      ],
+      [
+        "rromero",
+        138421
+      ],
+      [
+        "mpoblete",
+        150025
+      ],
+      [
+        "apaularojas",
+        165970
+      ],
+      [
+        "jramirez",
+        174371
+      ],
+      [
+        "lrojas",
+        176399
+      ],
+      [
+        "ipizarro",
+        183948
+      ],
+      [
+        "jvaldes",
+        194891
+      ],
+      [
+        "smedina",
+        220667
+      ],
+      [
+        "jguzman",
+        226431
+      ]
+    ],
+    "fecha_termino": "2016-10-05 09:43:36",
+    "precio": 220668
+  },
+  {
+    "fecha_inicio": "2016-03-13 06:34:29",
+    "productos": [
+      24062729778
+    ],
+    "vendedor": "svargas",
+    "id": 59905283553,
+    "historial": [
+      [
+        "xrojas",
+        68393
+      ],
+      [
+        "vbustos",
+        99703
+      ],
+      [
+        "fvergara",
+        114157
+      ],
+      [
+        "xmartinez",
+        127556
+      ],
+      [
+        "pvaldes",
+        154115
+      ],
+      [
+        "acampbell",
+        183087
+      ],
+      [
+        "dalejandrohe",
+        210022
+      ]
+    ],
+    "fecha_termino": "2016-11-22 21:56:04",
+    "precio": 183088
+  },
+  {
+    "fecha_inicio": "2016-02-22 14:36:00",
+    "productos": [
+      73286325935
+    ],
+    "vendedor": "mcarvajal",
+    "id": 88963243813,
+    "historial": [
+      [
+        "jdavidfernan",
+        81148
+      ],
+      [
+        "dalejandroal",
+        110954
+      ],
+      [
+        "halarcon",
+        113734
+      ],
+      [
+        "acastro",
+        121945
+      ],
+      [
+        "fsoto",
+        127640
+      ],
+      [
+        "fvergara",
+        132414
+      ],
+      [
+        "ahernandez",
+        144409
+      ],
+      [
+        "aherrera",
+        150402
+      ],
+      [
+        "fmedina",
+        163715
+      ],
+      [
+        "agomez",
+        211250
+      ]
+    ],
+    "fecha_termino": "2016-05-05 07:38:06",
+    "precio": 163716
+  },
+  {
+    "fecha_inicio": "2016-03-02 20:01:15",
+    "productos": [
+      92605756116
+    ],
+    "vendedor": "mmiranda",
+    "id": 70223010288,
+    "historial": [
+      [
+        "areyes",
+        59831
+      ],
+      [
+        "scastro",
+        61866
+      ],
+      [
+        "pgomez",
+        62321
+      ],
+      [
+        "spino",
+        69558
+      ],
+      [
+        "mcaceres",
+        70640
+      ],
+      [
+        "msanhueza",
+        73517
+      ],
+      [
+        "bwilson",
+        83386
+      ],
+      [
+        "ccontreras",
+        86507
+      ],
+      [
+        "xrojas",
+        101678
+      ],
+      [
+        "fmedina",
+        109474
+      ],
+      [
+        "halarcon",
+        112054
+      ],
+      [
+        "xmartinez",
+        117908
+      ],
+      [
+        "lmolina",
+        120749
+      ],
+      [
+        "vwong",
+        136464
+      ],
+      [
+        "ewong",
+        142339
+      ],
+      [
+        "gsalinas",
+        151274
+      ],
+      [
+        "lvega",
+        161230
+      ],
+      [
+        "mfuentes",
+        169942
+      ],
+      [
+        "rgarcia",
+        172976
+      ],
+      [
+        "jgodoy",
+        191601
+      ],
+      [
+        "srivera",
+        199143
+      ],
+      [
+        "rortiz",
+        209965
+      ],
+      [
+        "smedina",
+        217181
+      ],
+      [
+        "mreyes",
+        231303
+      ]
+    ],
+    "fecha_termino": "2016-04-01 05:05:11",
+    "precio": 217182
+  },
+  {
+    "fecha_inicio": "2016-03-04 04:57:19",
+    "productos": [
+      77569431858
+    ],
+    "vendedor": "caraya",
+    "id": 97979443320,
+    "historial": [
+      [
+        "agallardo",
+        58984
+      ],
+      [
+        "vhenriquez",
+        62836
+      ],
+      [
+        "sguerrero",
+        72030
+      ],
+      [
+        "scarvajal",
+        96732
+      ],
+      [
+        "lvidal",
+        98342
+      ],
+      [
+        "jvalenzuela",
+        115653
+      ],
+      [
+        "falvarado",
+        120921
+      ],
+      [
+        "atoro",
+        121989
+      ],
+      [
+        "svargas",
+        129334
+      ],
+      [
+        "fvergara",
+        159496
+      ],
+      [
+        "abrown",
+        191429
+      ],
+      [
+        "ahernandez",
+        214869
+      ],
+      [
+        "eriquelme",
+        226403
+      ],
+      [
+        "amolina",
+        227700
+      ],
+      [
+        "mvega",
+        231403
+      ],
+      [
+        "dalejandropa",
+        233199
+      ]
+    ],
+    "fecha_termino": "2016-10-05 14:45:29",
+    "precio": 231404
+  },
+  {
+    "fecha_inicio": "2016-03-01 15:36:18",
+    "productos": [
+      87299082885
+    ],
+    "vendedor": "dalejandrohe",
+    "id": 71977777231,
+    "historial": [
+      [
+        "mbravo",
+        61049
+      ],
+      [
+        "rsanhueza",
+        65164
+      ],
+      [
+        "jcarvajal",
+        66500
+      ],
+      [
+        "jramirez",
+        194010
+      ]
+    ],
+    "fecha_termino": "2016-03-21 09:12:15",
+    "precio": 66501
+  },
+  {
+    "fecha_inicio": "2016-01-02 04:45:39",
+    "productos": [
+      92847691135
+    ],
+    "vendedor": "sreyes",
+    "id": 11450857426,
+    "historial": [
+      [
+        "vcampos",
+        58721
+      ],
+      [
+        "jdavidfernan",
+        66631
+      ],
+      [
+        "baguilera",
+        127170
+      ],
+      [
+        "lsalinas",
+        230621
+      ]
+    ],
+    "fecha_termino": "2016-07-20 03:54:32",
+    "precio": 127171
+  },
+  {
+    "fecha_inicio": "2016-01-09 05:37:06",
+    "productos": [
+      87789123899
+    ],
+    "vendedor": "mjosegarcia",
+    "id": 91345472552,
+    "historial": [
+      [
+        "sguerrero",
+        63725
+      ],
+      [
+        "descobar",
+        166453
+      ],
+      [
+        "tsandoval",
+        174117
+      ],
+      [
+        "imaldonado",
+        178553
+      ],
+      [
+        "dtapia",
+        191526
+      ],
+      [
+        "bthompson",
+        197067
+      ],
+      [
+        "lgomez",
+        197964
+      ],
+      [
+        "jjosewilson",
+        227771
+      ],
+      [
+        "sdiaz",
+        234966
+      ],
+      [
+        "dtapia",
+        235624
+      ],
+      [
+        "lhernandez",
+        238391
+      ]
+    ],
+    "fecha_termino": "2016-12-14 13:32:15",
+    "precio": 235625
+  },
+  {
+    "fecha_inicio": "2016-02-18 18:08:46",
+    "productos": [
+      75875348032
+    ],
+    "vendedor": "lgallardo",
+    "id": 80266711255,
+    "historial": [
+      [
+        "sparra",
+        101399
+      ],
+      [
+        "zvargas",
+        125025
+      ],
+      [
+        "mvega",
+        149595
+      ]
+    ],
+    "fecha_termino": "2016-10-19 22:35:01",
+    "precio": 125026
+  },
+  {
+    "fecha_inicio": "2016-03-05 03:05:04",
+    "productos": [
+      95880859247
+    ],
+    "vendedor": "mrivera",
+    "id": 18602932812,
+    "historial": [
+      [
+        "dalejandroma",
+        56028
+      ],
+      [
+        "wmartinez",
+        58163
+      ],
+      [
+        "mgonzalez",
+        75652
+      ],
+      [
+        "nbrown",
+        84737
+      ],
+      [
+        "worellana",
+        86935
+      ],
+      [
+        "jdavidfernan",
+        89634
+      ],
+      [
+        "vmorales",
+        91511
+      ],
+      [
+        "lwilliams",
+        95442
+      ],
+      [
+        "mmiranda",
+        99472
+      ],
+      [
+        "rvidal",
+        106796
+      ],
+      [
+        "acampbell",
+        108407
+      ],
+      [
+        "ssmith",
+        109474
+      ],
+      [
+        "scastro",
+        112305
+      ],
+      [
+        "pwilliams",
+        115965
+      ],
+      [
+        "ipizarro",
+        116987
+      ],
+      [
+        "creyes",
+        134487
+      ],
+      [
+        "svasquez",
+        135100
+      ],
+      [
+        "asaavedra",
+        146244
+      ],
+      [
+        "agallardo",
+        173500
+      ],
+      [
+        "tsmith",
+        186544
+      ],
+      [
+        "fjimenez",
+        189736
+      ],
+      [
+        "lolivares",
+        194543
+      ],
+      [
+        "pwilliams",
+        217382
+      ],
+      [
+        "rvaldes",
+        230363
+      ]
+    ],
+    "fecha_termino": "2016-06-11 15:38:52",
+    "precio": 217383
+  },
+  {
+    "fecha_inicio": "2016-02-27 15:01:15",
+    "productos": [
+      92605756116
+    ],
+    "vendedor": "mmiranda",
+    "id": 11216623624,
+    "historial": [
+      [
+        "tgarcia",
+        67919
+      ],
+      [
+        "valarcon",
+        100316
+      ],
+      [
+        "sfigueroa",
+        126971
+      ],
+      [
+        "ariquelme",
+        128425
+      ],
+      [
+        "karaya",
+        176011
+      ],
+      [
+        "msanhueza",
+        178087
+      ],
+      [
+        "svargas",
+        212649
+      ],
+      [
+        "lvidal",
+        217090
+      ],
+      [
+        "iolivares",
+        222377
+      ]
+    ],
+    "fecha_termino": "2016-10-15 11:31:42",
+    "precio": 217091
+  },
+  {
+    "fecha_inicio": "2016-02-04 18:26:01",
+    "productos": [
+      25990834861
+    ],
+    "vendedor": "sgodoy",
+    "id": 46749098930,
+    "historial": [
+      [
+        "ltorres",
+        60600
+      ],
+      [
+        "lsalinas",
+        66415
+      ],
+      [
+        "smaldonado",
+        71211
+      ],
+      [
+        "tescobar",
+        78661
+      ],
+      [
+        "etapia",
+        82994
+      ],
+      [
+        "vmartin",
+        85729
+      ],
+      [
+        "gsandoval",
+        89393
+      ],
+      [
+        "elee",
+        92009
+      ],
+      [
+        "acastro",
+        125216
+      ],
+      [
+        "mrivera",
+        129549
+      ],
+      [
+        "ahernandez",
+        133960
+      ],
+      [
+        "dalejandroma",
+        138826
+      ],
+      [
+        "kalarcon",
+        147958
+      ],
+      [
+        "mvenegas",
+        156059
+      ],
+      [
+        "pvasquez",
+        157125
+      ],
+      [
+        "scastro",
+        157480
+      ],
+      [
+        "lgallardo",
+        171795
+      ],
+      [
+        "srivera",
+        179054
+      ],
+      [
+        "apaulatapia",
+        209908
+      ],
+      [
+        "sguerrero",
+        214594
+      ],
+      [
+        "kortega",
+        218802
+      ],
+      [
+        "mpizarro",
+        223322
+      ],
+      [
+        "tgarcia",
+        227769
+      ],
+      [
+        "fmedina",
+        230521
+      ],
+      [
+        "mpatel",
+        232589
+      ]
+    ],
+    "fecha_termino": "2016-04-27 23:21:34",
+    "precio": 230522
+  },
+  {
+    "fecha_inicio": "2016-02-20 23:42:08",
+    "productos": [
+      92847691135
+    ],
+    "vendedor": "sreyes",
+    "id": 60854263797,
+    "historial": [
+      [
+        "rfuentes",
+        75913
+      ],
+      [
+        "fleiva",
+        79769
+      ],
+      [
+        "afelipevidal",
+        95084
+      ],
+      [
+        "vhenriquez",
+        99985
+      ],
+      [
+        "earaya",
+        107011
+      ],
+      [
+        "blopez",
+        110725
+      ],
+      [
+        "cfernandez",
+        134444
+      ],
+      [
+        "pwilliams",
+        156063
+      ],
+      [
+        "talvarado",
+        159691
+      ],
+      [
+        "bgodoy",
+        164804
+      ],
+      [
+        "scampbell",
+        166909
+      ],
+      [
+        "srodriguez",
+        185257
+      ],
+      [
+        "falvarez",
+        202123
+      ],
+      [
+        "rfuentes",
+        214421
+      ]
+    ],
+    "fecha_termino": "2016-07-18 04:25:04",
+    "precio": 202124
+  },
+  {
+    "fecha_inicio": "2016-02-23 20:30:08",
+    "productos": [
+      53355946899
+    ],
+    "vendedor": "jandrescacer",
+    "id": 85381240150,
+    "historial": [
+      [
+        "apaulabustos",
+        75356
+      ],
+      [
+        "agodoy",
+        105873
+      ]
+    ],
+    "fecha_termino": "2016-06-16 02:46:56",
+    "precio": 75357
+  },
+  {
+    "fecha_inicio": "2016-02-27 20:45:41",
+    "productos": [
+      47570644382
+    ],
+    "vendedor": "mjones",
+    "id": 15641191792,
+    "historial": [
+      [
+        "vgallardo",
+        217697
+      ],
+      [
+        "scontreras",
+        230240
+      ]
+    ],
+    "fecha_termino": "2016-05-01 15:49:18",
+    "precio": 217698
+  },
+  {
+    "fecha_inicio": "2016-03-03 01:15:14",
+    "productos": [
+      36202706814
+    ],
+    "vendedor": "dtapia",
+    "id": 64606652556,
+    "historial": [
+      [
+        "dbustos",
+        56358
+      ],
+      [
+        "rgallardo",
+        63660
+      ],
+      [
+        "mthompson",
+        63980
+      ],
+      [
+        "lsalazar",
+        113329
+      ],
+      [
+        "msalinas",
+        125135
+      ],
+      [
+        "sdonoso",
+        140517
+      ],
+      [
+        "isandoval",
+        150887
+      ],
+      [
+        "mbustamante",
+        151526
+      ],
+      [
+        "mcarvajal",
+        157785
+      ],
+      [
+        "mmiranda",
+        159700
+      ],
+      [
+        "dvera",
+        188279
+      ],
+      [
+        "mwilliams",
+        188999
+      ],
+      [
+        "gsalinas",
+        201653
+      ],
+      [
+        "xvega",
+        203888
+      ],
+      [
+        "btapia",
+        205079
+      ],
+      [
+        "hgutierrez",
+        222162
+      ],
+      [
+        "sfigueroa",
+        229869
+      ],
+      [
+        "agodoy",
+        238361
+      ]
+    ],
+    "fecha_termino": "2016-04-03 19:46:37",
+    "precio": 229870
+  },
+  {
+    "fecha_inicio": "2016-03-01 11:53:36",
+    "productos": [
+      15971200795
+    ],
+    "vendedor": "mmiranda",
+    "id": 51299132795,
+    "historial": [
+      [
+        "acampbell",
+        108271
+      ],
+      [
+        "ssanchez",
+        128885
+      ]
+    ],
+    "fecha_termino": "2016-04-11 08:12:42",
+    "precio": 108272
+  },
+  {
+    "fecha_inicio": "2016-01-13 23:11:14",
+    "productos": [
+      65336049777
+    ],
+    "vendedor": "malvarez",
+    "id": 70191418719,
+    "historial": [
+      [
+        "isandoval",
+        207876
+      ],
+      [
+        "pwilliams",
+        216375
+      ]
+    ],
+    "fecha_termino": "2016-08-21 15:36:48",
+    "precio": 207877
+  },
+  {
+    "fecha_inicio": "2016-01-19 01:30:05",
+    "productos": [
+      49778206323
+    ],
+    "vendedor": "lcaceres",
+    "id": 45868780545,
+    "historial": [
+      [
+        "gsanchez",
+        67118
+      ],
+      [
+        "aortiz",
+        72916
+      ],
+      [
+        "vwong",
+        83863
+      ],
+      [
+        "mromero",
+        85322
+      ],
+      [
+        "lvidal",
+        93183
+      ],
+      [
+        "pvasquez",
+        118115
+      ],
+      [
+        "mjara",
+        122459
+      ],
+      [
+        "nvasquez",
+        152426
+      ],
+      [
+        "mjoseruiz",
+        155970
+      ],
+      [
+        "isandoval",
+        164563
+      ],
+      [
+        "scarvajal",
+        195900
+      ],
+      [
+        "afarias",
+        206599
+      ],
+      [
+        "scastro",
+        225058
+      ],
+      [
+        "smedina",
+        225583
+      ],
+      [
+        "fmedina",
+        226869
+      ]
+    ],
+    "fecha_termino": "2016-07-16 05:22:07",
+    "precio": 225584
+  },
+  {
+    "fecha_inicio": "2016-01-28 05:27:38",
+    "productos": [
+      67528919324
+    ],
+    "vendedor": "jdavidaraya",
+    "id": 10154419704,
+    "historial": [
+      [
+        "xgonzalez",
+        87287
+      ],
+      [
+        "vthompson",
+        111233
+      ],
+      [
+        "mcardenas",
+        128772
+      ],
+      [
+        "lmolina",
+        175174
+      ],
+      [
+        "pgonzalez",
+        189768
+      ],
+      [
+        "bgodoy",
+        193468
+      ],
+      [
+        "vmorales",
+        194173
+      ],
+      [
+        "rsaez",
+        196642
+      ],
+      [
+        "vcampos",
+        209889
+      ],
+      [
+        "ahenriquez",
+        221188
+      ]
+    ],
+    "fecha_termino": "2016-09-27 00:43:32",
+    "precio": 209890
+  },
+  {
+    "fecha_inicio": "2016-01-16 04:30:20",
+    "productos": [
+      61296717625
+    ],
+    "vendedor": "scastro",
+    "id": 34232986300,
+    "historial": [
+      [
+        "eriquelme",
+        62873
+      ],
+      [
+        "mguerrero",
+        85845
+      ],
+      [
+        "caguilera",
+        97026
+      ],
+      [
+        "maguilera",
+        125817
+      ],
+      [
+        "mvalenzuela",
+        132372
+      ],
+      [
+        "earaya",
+        136066
+      ],
+      [
+        "lsmith",
+        136587
+      ],
+      [
+        "cmiranda",
+        148115
+      ],
+      [
+        "pgomez",
+        156822
+      ],
+      [
+        "falvarez",
+        159322
+      ],
+      [
+        "sfernandez",
+        168653
+      ],
+      [
+        "mriquelme",
+        177396
+      ],
+      [
+        "jjoseguerrer",
+        188649
+      ],
+      [
+        "wrivera",
+        212628
+      ],
+      [
+        "snavarro",
+        232401
+      ],
+      [
+        "jgallardo",
+        233393
+      ],
+      [
+        "jcarvajal",
+        234453
+      ]
+    ],
+    "fecha_termino": "2016-07-04 18:19:33",
+    "precio": 233394
+  },
+  {
+    "fecha_inicio": "2016-01-20 04:37:49",
+    "productos": [
+      83253908831
+    ],
+    "vendedor": "dsandoval",
+    "id": 44552259775,
+    "historial": [
+      [
+        "apaulagallar",
+        68200
+      ],
+      [
+        "lrojas",
+        69349
+      ],
+      [
+        "dalejandrohe",
+        70173
+      ],
+      [
+        "scontreras",
+        120947
+      ],
+      [
+        "mguerrero",
+        143218
+      ],
+      [
+        "vcampbell",
+        146764
+      ],
+      [
+        "scampbell",
+        165128
+      ],
+      [
+        "lmorales",
+        181116
+      ],
+      [
+        "bespinoza",
+        189478
+      ],
+      [
+        "salvarez",
+        192532
+      ],
+      [
+        "lcampos",
+        215269
+      ]
+    ],
+    "fecha_termino": "2016-03-25 07:54:06",
+    "precio": 192533
+  },
+  {
+    "fecha_inicio": "2016-03-13 05:28:33",
+    "productos": [
+      58904161706
+    ],
+    "vendedor": "agarcia",
+    "id": 47205259104,
+    "historial": [
+      [
+        "fsoto",
+        62411
+      ],
+      [
+        "scampbell",
+        68036
+      ],
+      [
+        "jjosecortes",
+        72394
+      ],
+      [
+        "mparedes",
+        73984
+      ],
+      [
+        "lgonzalez",
+        84718
+      ],
+      [
+        "rvenegas",
+        85233
+      ],
+      [
+        "jsalazar",
+        90335
+      ],
+      [
+        "mgallardo",
+        109940
+      ],
+      [
+        "gsalinas",
+        124031
+      ],
+      [
+        "baguilera",
+        129531
+      ],
+      [
+        "adiaz",
+        140281
+      ],
+      [
+        "aguzman",
+        143223
+      ],
+      [
+        "valvarez",
+        143668
+      ],
+      [
+        "vgutierrez",
+        154147
+      ],
+      [
+        "ngonzalez",
+        159504
+      ],
+      [
+        "bcarvajal",
+        171216
+      ],
+      [
+        "ccontreras",
+        179934
+      ],
+      [
+        "dgallardo",
+        188564
+      ],
+      [
+        "vcastro",
+        226975
+      ],
+      [
+        "lreyes",
+        227148
+      ],
+      [
+        "jolivares",
+        229958
+      ]
+    ],
+    "fecha_termino": "2016-04-20 14:38:54",
+    "precio": 227149
+  },
+  {
+    "fecha_inicio": "2016-01-07 16:35:39",
+    "productos": [
+      36146838786
+    ],
+    "vendedor": "xgonzalez",
+    "id": 28407293258,
+    "historial": [
+      [
+        "mfarias",
+        68413
+      ],
+      [
+        "ataylor",
+        87780
+      ],
+      [
+        "vvera",
+        126310
+      ],
+      [
+        "lescobar",
+        133883
+      ],
+      [
+        "agomez",
+        207140
+      ],
+      [
+        "dbravo",
+        214274
+      ],
+      [
+        "dvenegas",
+        237182
+      ]
+    ],
+    "fecha_termino": "2016-11-04 11:31:04",
+    "precio": 214275
+  },
+  {
+    "fecha_inicio": "2016-02-02 03:26:06",
+    "productos": [
+      92605756116
+    ],
+    "vendedor": "mmiranda",
+    "id": 30738008811,
+    "historial": [
+      [
+        "jjosewilson",
+        74184
+      ],
+      [
+        "pmaldonado",
+        87964
+      ],
+      [
+        "sgodoy",
+        92555
+      ],
+      [
+        "avera",
+        138906
+      ],
+      [
+        "agomez",
+        171296
+      ],
+      [
+        "acampos",
+        186761
+      ],
+      [
+        "jmedina",
+        227733
+      ]
+    ],
+    "fecha_termino": "2016-06-14 15:14:26",
+    "precio": 186762
+  },
+  {
+    "fecha_inicio": "2016-01-03 16:45:08",
+    "productos": [
+      95723951873
+    ],
+    "vendedor": "mguzman",
+    "id": 61148647168,
+    "historial": [
+      [
+        "lpoblete",
+        64347
+      ],
+      [
+        "mherrera",
+        163545
+      ],
+      [
+        "rgarcia",
+        193963
+      ],
+      [
+        "cnavarro",
+        203275
+      ],
+      [
+        "cmiranda",
+        211928
+      ],
+      [
+        "lsmith",
+        231795
+      ]
+    ],
+    "fecha_termino": "2016-04-25 09:56:50",
+    "precio": 211929
+  },
+  {
+    "fecha_inicio": "2016-02-09 04:44:28",
+    "productos": [
+      62779887992
+    ],
+    "vendedor": "btapia",
+    "id": 72916707979,
+    "historial": [
+      [
+        "fromero",
+        56364
+      ],
+      [
+        "maguilera",
+        65544
+      ],
+      [
+        "rpino",
+        73926
+      ],
+      [
+        "rgallardo",
+        94155
+      ],
+      [
+        "aguzman",
+        94361
+      ],
+      [
+        "ccaceres",
+        96144
+      ],
+      [
+        "jdavidpoblet",
+        103170
+      ],
+      [
+        "ssaavedra",
+        115378
+      ],
+      [
+        "ealvarado",
+        116874
+      ],
+      [
+        "ncontreras",
+        117388
+      ],
+      [
+        "lvasquez",
+        117790
+      ],
+      [
+        "fromero",
+        128390
+      ],
+      [
+        "jandresvidal",
+        138034
+      ],
+      [
+        "jsmith",
+        138590
+      ],
+      [
+        "jjoseparedes",
+        146215
+      ],
+      [
+        "mpoblete",
+        165056
+      ],
+      [
+        "nmoreno",
+        174173
+      ],
+      [
+        "jandrespizar",
+        183734
+      ],
+      [
+        "icardenas",
+        184508
+      ],
+      [
+        "mguerrero",
+        199833
+      ],
+      [
+        "jbustos",
+        211109
+      ],
+      [
+        "apaulabustos",
+        212266
+      ]
+    ],
+    "fecha_termino": "2016-06-26 00:14:46",
+    "precio": 211110
+  },
+  {
+    "fecha_inicio": "2016-02-04 16:15:50",
+    "productos": [
+      55465122181
+    ],
+    "vendedor": "ahernandez",
+    "id": 20147810032,
+    "historial": [
+      [
+        "avega",
+        64371
+      ],
+      [
+        "mromero",
+        68955
+      ],
+      [
+        "dbustos",
+        69942
+      ],
+      [
+        "egallardo",
+        79380
+      ],
+      [
+        "rortiz",
+        112357
+      ],
+      [
+        "bwilson",
+        114684
+      ],
+      [
+        "afelipevera",
+        118949
+      ],
+      [
+        "apalma",
+        126146
+      ],
+      [
+        "cgonzalez",
+        146320
+      ],
+      [
+        "dalejandroal",
+        160164
+      ],
+      [
+        "sparra",
+        197557
+      ],
+      [
+        "dalejandropa",
+        212699
+      ],
+      [
+        "anavarro",
+        224911
+      ],
+      [
+        "fmedina",
+        231068
+      ],
+      [
+        "dalejandrohe",
+        237010
+      ]
+    ],
+    "fecha_termino": "2016-11-17 02:14:55",
+    "precio": 231069
+  },
+  {
+    "fecha_inicio": "2016-02-04 15:59:00",
+    "productos": [
+      34182923270
+    ],
+    "vendedor": "jvaldes",
+    "id": 63056742071,
+    "historial": [
+      [
+        "dalejandropa",
+        71443
+      ],
+      [
+        "aparedes",
+        138647
+      ],
+      [
+        "falvarado",
+        138949
+      ],
+      [
+        "acastro",
+        141171
+      ],
+      [
+        "sparra",
+        142347
+      ],
+      [
+        "xvega",
+        157949
+      ],
+      [
+        "mruiz",
+        163163
+      ],
+      [
+        "avega",
+        164677
+      ],
+      [
+        "gsanchez",
+        167262
+      ],
+      [
+        "msanmartin",
+        168567
+      ],
+      [
+        "gvalenzuela",
+        215518
+      ],
+      [
+        "mfuentes",
+        216614
+      ],
+      [
+        "nalvarez",
+        233222
+      ],
+      [
+        "vcampos",
+        238441
+      ]
+    ],
+    "fecha_termino": "2016-10-17 02:55:50",
+    "precio": 233223
+  },
+  {
+    "fecha_inicio": "2016-01-16 03:32:31",
+    "productos": [
+      17929792033
+    ],
+    "vendedor": "bvega",
+    "id": 24572598512,
+    "historial": [
+      [
+        "rcarrasco",
+        86479
+      ],
+      [
+        "lvidal",
+        88011
+      ],
+      [
+        "areyes",
+        155878
+      ]
+    ],
+    "fecha_termino": "2016-04-11 10:07:51",
+    "precio": 88012
+  },
+  {
+    "fecha_inicio": "2016-01-29 19:41:05",
+    "productos": [
+      22584209130
+    ],
+    "vendedor": "aaravena",
+    "id": 40158862506,
+    "historial": [
+      [
+        "cparedes",
+        66596
+      ],
+      [
+        "rortega",
+        72634
+      ],
+      [
+        "sguerrero",
+        76077
+      ],
+      [
+        "lmartinez",
+        82304
+      ],
+      [
+        "jvaldes",
+        86667
+      ],
+      [
+        "lfernandez",
+        100314
+      ],
+      [
+        "pgonzalez",
+        102201
+      ],
+      [
+        "ahernandez",
+        105574
+      ],
+      [
+        "adiaz",
+        121205
+      ],
+      [
+        "jcardenas",
+        122064
+      ],
+      [
+        "naravena",
+        125844
+      ],
+      [
+        "mortiz",
+        130412
+      ],
+      [
+        "amedina",
+        134049
+      ],
+      [
+        "ediaz",
+        139213
+      ],
+      [
+        "isaavedra",
+        177612
+      ],
+      [
+        "iolivares",
+        178586
+      ],
+      [
+        "lsalinas",
+        180349
+      ],
+      [
+        "earaya",
+        183833
+      ],
+      [
+        "dvera",
+        184010
+      ],
+      [
+        "lvega",
+        184015
+      ],
+      [
+        "lgodoy",
+        189767
+      ],
+      [
+        "mrivera",
+        191175
+      ],
+      [
+        "dsalinas",
+        197971
+      ],
+      [
+        "arodriguez",
+        206069
+      ],
+      [
+        "srojas",
+        210947
+      ]
+    ],
+    "fecha_termino": "2016-07-15 23:31:25",
+    "precio": 206070
+  },
+  {
+    "fecha_inicio": "2016-03-01 17:09:54",
+    "productos": [
+      16097805923
+    ],
+    "vendedor": "dsalinas",
+    "id": 96324413261,
+    "historial": [
+      [
+        "bvega",
+        59358
+      ],
+      [
+        "pwilliams",
+        70918
+      ],
+      [
+        "asalazar",
+        84393
+      ],
+      [
+        "dalejandropa",
+        95746
+      ],
+      [
+        "jnavarro",
+        112884
+      ],
+      [
+        "hparra",
+        120212
+      ],
+      [
+        "vparedes",
+        129177
+      ],
+      [
+        "aguzman",
+        149157
+      ],
+      [
+        "dsandoval",
+        168745
+      ],
+      [
+        "pmaldonado",
+        196923
+      ],
+      [
+        "iriquelme",
+        213061
+      ],
+      [
+        "afelipearaya",
+        219883
+      ],
+      [
+        "cbravo",
+        233039
+      ],
+      [
+        "ncastro",
+        237085
+      ]
+    ],
+    "fecha_termino": "2016-03-23 14:07:36",
+    "precio": 233040
+  },
+  {
+    "fecha_inicio": "2016-01-25 05:06:11",
+    "productos": [
+      46448904636
+    ],
+    "vendedor": "xcortes",
+    "id": 21329059933,
+    "historial": [
+      [
+        "cfernandez",
+        70174
+      ],
+      [
+        "chenriquez",
+        126922
+      ]
+    ],
+    "fecha_termino": "2016-05-09 19:58:26",
+    "precio": 70175
+  },
+  {
+    "fecha_inicio": "2016-02-27 10:52:39",
+    "productos": [
+      39739352147
+    ],
+    "vendedor": "scontreras",
+    "id": 72066672134,
+    "historial": [
+      [
+        "halarcon",
+        69862
+      ],
+      [
+        "nvasquez",
+        82240
+      ],
+      [
+        "cbravo",
+        97529
+      ],
+      [
+        "dalejandroco",
+        114511
+      ],
+      [
+        "efuentes",
+        119083
+      ],
+      [
+        "scastro",
+        145501
+      ],
+      [
+        "crivera",
+        159986
+      ],
+      [
+        "pvaldes",
+        173372
+      ],
+      [
+        "jalvarez",
+        181799
+      ],
+      [
+        "areyes",
+        189830
+      ],
+      [
+        "mjosegomez",
+        216006
+      ],
+      [
+        "mbustamante",
+        217016
+      ],
+      [
+        "jvaldes",
+        223976
+      ]
+    ],
+    "fecha_termino": "2016-07-08 08:11:12",
+    "precio": 217017
+  },
+  {
+    "fecha_inicio": "2016-01-25 03:13:05",
+    "productos": [
+      71491082423
+    ],
+    "vendedor": "srodriguez",
+    "id": 43485001838,
+    "historial": [
+      [
+        "jalvarez",
+        67214
+      ],
+      [
+        "ahernandez",
+        76651
+      ],
+      [
+        "sdiaz",
+        78092
+      ],
+      [
+        "mcastro",
+        79302
+      ],
+      [
+        "mmiranda",
+        101329
+      ],
+      [
+        "mruiz",
+        103622
+      ],
+      [
+        "apaulagallar",
+        108174
+      ],
+      [
+        "fparedes",
+        130516
+      ],
+      [
+        "avera",
+        133202
+      ],
+      [
+        "hparra",
+        148738
+      ],
+      [
+        "acastillo",
+        158707
+      ],
+      [
+        "edonoso",
+        160974
+      ],
+      [
+        "falvarez",
+        190880
+      ],
+      [
+        "vvera",
+        193141
+      ],
+      [
+        "sdiaz",
+        205340
+      ],
+      [
+        "prodriguez",
+        207446
+      ],
+      [
+        "sguzman",
+        216524
+      ],
+      [
+        "mromero",
+        235980
+      ]
+    ],
+    "fecha_termino": "2016-12-09 08:43:11",
+    "precio": 216525
+  },
+  {
+    "fecha_inicio": "2016-03-05 08:42:55",
+    "productos": [
+      99561183149
+    ],
+    "vendedor": "pgonzalez",
+    "id": 70616734150,
+    "historial": [
+      [
+        "ralarcon",
+        101348
+      ],
+      [
+        "mjoserodrigu",
+        130831
+      ],
+      [
+        "bcarvajal",
+        137079
+      ],
+      [
+        "vgallardo",
+        187722
+      ],
+      [
+        "rromero",
+        211228
+      ],
+      [
+        "jandrespizar",
+        216885
+      ],
+      [
+        "hbustos",
+        219263
+      ]
+    ],
+    "fecha_termino": "2016-08-17 10:09:29",
+    "precio": 216886
+  },
+  {
+    "fecha_inicio": "2016-03-10 06:54:16",
+    "productos": [
+      41891572482
+    ],
+    "vendedor": "dcampbell",
+    "id": 68990850583,
+    "historial": [
+      [
+        "scortes",
+        111831
+      ],
+      [
+        "lsmith",
+        143794
+      ],
+      [
+        "lcaceres",
+        148819
+      ],
+      [
+        "mguzman",
+        181906
+      ],
+      [
+        "sparra",
+        209112
+      ],
+      [
+        "malvarez",
+        228882
+      ]
+    ],
+    "fecha_termino": "2016-05-29 05:26:25",
+    "precio": 209113
+  },
+  {
+    "fecha_inicio": "2016-03-07 03:23:22",
+    "productos": [
+      59985923390
+    ],
+    "vendedor": "mpizarro",
+    "id": 77149924188,
+    "historial": [
+      [
+        "srojas",
+        63339
+      ],
+      [
+        "jsmith",
+        93146
+      ],
+      [
+        "jdavidfernan",
+        100024
+      ],
+      [
+        "ahernandez",
+        103260
+      ],
+      [
+        "tvaldes",
+        103849
+      ],
+      [
+        "garaya",
+        131272
+      ],
+      [
+        "mparedes",
+        139099
+      ],
+      [
+        "psalinas",
+        145153
+      ],
+      [
+        "sparedes",
+        200035
+      ]
+    ],
+    "fecha_termino": "2016-07-02 12:09:01",
+    "precio": 145154
+  },
+  {
+    "fecha_inicio": "2016-02-14 11:39:03",
+    "productos": [
+      30365338196
+    ],
+    "vendedor": "scortes",
+    "id": 63095236753,
+    "historial": [
+      [
+        "jlee",
+        61965
+      ],
+      [
+        "lwilliams",
+        65481
+      ],
+      [
+        "mreyes",
+        71991
+      ],
+      [
+        "bgodoy",
+        73959
+      ],
+      [
+        "csanchez",
+        82334
+      ],
+      [
+        "tvaldes",
+        95045
+      ],
+      [
+        "apaulabustos",
+        109788
+      ],
+      [
+        "jandressaez",
+        144961
+      ],
+      [
+        "mparedes",
+        153439
+      ],
+      [
+        "asandoval",
+        157786
+      ],
+      [
+        "lgallardo",
+        160449
+      ],
+      [
+        "afelipevasqu",
+        161445
+      ],
+      [
+        "bsalinas",
+        162000
+      ],
+      [
+        "arodriguez",
+        163701
+      ],
+      [
+        "jalvarez",
+        170272
+      ],
+      [
+        "anavarro",
+        215742
+      ]
+    ],
+    "fecha_termino": "2016-08-19 20:44:24",
+    "precio": 170273
+  },
+  {
+    "fecha_inicio": "2016-02-20 14:22:23",
+    "productos": [
+      14273881488
+    ],
+    "vendedor": "rjones",
+    "id": 40303691875,
+    "historial": [
+      [
+        "fvergara",
+        68509
+      ],
+      [
+        "mgonzalez",
+        72261
+      ],
+      [
+        "dalejandrori",
+        72625
+      ],
+      [
+        "lgallardo",
+        91105
+      ],
+      [
+        "rvaldes",
+        93018
+      ],
+      [
+        "fleiva",
+        100248
+      ],
+      [
+        "vvera",
+        106362
+      ],
+      [
+        "vthompson",
+        113767
+      ],
+      [
+        "gflores",
+        122912
+      ],
+      [
+        "rortega",
+        123180
+      ],
+      [
+        "vparedes",
+        125680
+      ],
+      [
+        "jriquelme",
+        137152
+      ],
+      [
+        "rgallardo",
+        143597
+      ],
+      [
+        "ccampbell",
+        147346
+      ],
+      [
+        "garaya",
+        161357
+      ],
+      [
+        "lolivares",
+        164235
+      ],
+      [
+        "nbrown",
+        164893
+      ],
+      [
+        "mrivera",
+        173674
+      ],
+      [
+        "sparra",
+        180590
+      ],
+      [
+        "lflores",
+        195092
+      ],
+      [
+        "sdonoso",
+        198594
+      ],
+      [
+        "mmoreno",
+        200523
+      ],
+      [
+        "ahernandez",
+        209693
+      ],
+      [
+        "breyes",
+        221133
+      ],
+      [
+        "acampbell",
+        231256
+      ]
+    ],
+    "fecha_termino": "2016-06-10 18:28:07",
+    "precio": 221134
+  },
+  {
+    "fecha_inicio": "2016-02-25 12:10:09",
+    "productos": [
+      64919507251
+    ],
+    "vendedor": "wrivera",
+    "id": 73593064202,
+    "historial": [
+      [
+        "sromero",
+        91537
+      ],
+      [
+        "rpino",
+        128653
+      ],
+      [
+        "msalinas",
+        130546
+      ],
+      [
+        "csanchez",
+        219508
+      ],
+      [
+        "vmedina",
+        226488
+      ]
+    ],
+    "fecha_termino": "2016-11-21 07:56:47",
+    "precio": 219509
+  },
+  {
+    "fecha_inicio": "2016-02-20 08:45:22",
+    "productos": [
+      36171145621
+    ],
+    "vendedor": "ahenriquez",
+    "id": 13433195338,
+    "historial": [
+      [
+        "jjosecortes",
+        76249
+      ],
+      [
+        "fsmith",
+        103478
+      ],
+      [
+        "lfernandez",
+        109741
+      ],
+      [
+        "ialvarez",
+        114290
+      ],
+      [
+        "mgomez",
+        137811
+      ],
+      [
+        "rgutierrez",
+        163850
+      ],
+      [
+        "lmartinez",
+        168358
+      ],
+      [
+        "afelipevera",
+        172868
+      ],
+      [
+        "mreyes",
+        179242
+      ],
+      [
+        "ataylor",
+        188715
+      ],
+      [
+        "jsmith",
+        222655
+      ]
+    ],
+    "fecha_termino": "2016-05-25 10:00:21",
+    "precio": 188716
+  },
+  {
+    "fecha_inicio": "2016-02-24 14:19:51",
+    "productos": [
+      21195478493
+    ],
+    "vendedor": "bcarvajal",
+    "id": 94214157504,
+    "historial": [
+      [
+        "sdiaz",
+        73451
+      ],
+      [
+        "ncontreras",
+        148063
+      ],
+      [
+        "tpizarro",
+        162486
+      ],
+      [
+        "amedina",
+        179818
+      ],
+      [
+        "ccaceres",
+        187210
+      ]
+    ],
+    "fecha_termino": "2016-12-25 09:42:17",
+    "precio": 179819
+  },
+  {
+    "fecha_inicio": "2016-03-11 06:58:03",
+    "productos": [
+      45820574435
+    ],
+    "vendedor": "sfernandez",
+    "id": 71740174699,
+    "historial": [
+      [
+        "sdonoso",
+        57170
+      ],
+      [
+        "zguzman",
+        58608
+      ],
+      [
+        "pwilliams",
+        65010
+      ],
+      [
+        "mpatel",
+        80153
+      ],
+      [
+        "msanmartin",
+        80790
+      ],
+      [
+        "vbustos",
+        81197
+      ],
+      [
+        "jjoserojas",
+        85448
+      ],
+      [
+        "bsalinas",
+        105128
+      ],
+      [
+        "earaya",
+        120281
+      ],
+      [
+        "owong",
+        128677
+      ],
+      [
+        "aaravena",
+        132624
+      ],
+      [
+        "svargas",
+        132790
+      ],
+      [
+        "nrivera",
+        140765
+      ],
+      [
+        "jramirez",
+        171695
+      ],
+      [
+        "mrivera",
+        172784
+      ],
+      [
+        "lmolina",
+        178263
+      ],
+      [
+        "vrivera",
+        184712
+      ],
+      [
+        "acampos",
+        211891
+      ],
+      [
+        "solivares",
+        223847
+      ]
+    ],
+    "fecha_termino": "2016-07-22 09:23:33",
+    "precio": 211892
+  },
+  {
+    "fecha_inicio": "2016-02-17 03:32:20",
+    "productos": [
+      93454253680
+    ],
+    "vendedor": "mromero",
+    "id": 88769626173,
+    "historial": [
+      [
+        "afuentes",
+        81755
+      ],
+      [
+        "ccontreras",
+        92506
+      ],
+      [
+        "briquelme",
+        96300
+      ],
+      [
+        "salvarez",
+        107351
+      ],
+      [
+        "msanhueza",
+        110730
+      ],
+      [
+        "nmoreno",
+        117933
+      ],
+      [
+        "jnavarro",
+        135067
+      ],
+      [
+        "abustos",
+        158296
+      ],
+      [
+        "abrown",
+        165126
+      ],
+      [
+        "jvaldes",
+        174124
+      ],
+      [
+        "xgarcia",
+        189481
+      ],
+      [
+        "scastro",
+        197779
+      ]
+    ],
+    "fecha_termino": "2016-06-03 22:13:56",
+    "precio": 189482
+  },
+  {
+    "fecha_inicio": "2016-02-20 13:50:33",
+    "productos": [
+      61334985559
+    ],
+    "vendedor": "svasquez",
+    "id": 89193588642,
+    "historial": [
+      [
+        "jcarvajal",
+        76580
+      ],
+      [
+        "bcarvajal",
+        76592
+      ],
+      [
+        "sramirez",
+        98244
+      ],
+      [
+        "lpoblete",
+        98247
+      ],
+      [
+        "rmorales",
+        125718
+      ],
+      [
+        "descobar",
+        129167
+      ],
+      [
+        "gsalinas",
+        140778
+      ],
+      [
+        "valarcon",
+        141063
+      ],
+      [
+        "gsanchez",
+        149240
+      ],
+      [
+        "igarrido",
+        154292
+      ],
+      [
+        "anavarro",
+        158886
+      ],
+      [
+        "dfernandez",
+        175852
+      ],
+      [
+        "bhernandez",
+        179824
+      ],
+      [
+        "prodriguez",
+        183181
+      ],
+      [
+        "lvasquez",
+        184443
+      ],
+      [
+        "dalejandrori",
+        190539
+      ],
+      [
+        "ealvarado",
+        196491
+      ],
+      [
+        "sgodoy",
+        215937
+      ],
+      [
+        "anavarro",
+        224677
+      ],
+      [
+        "apalma",
+        228067
+      ],
+      [
+        "asandoval",
+        233157
+      ],
+      [
+        "acastillo",
+        237370
+      ]
+    ],
+    "fecha_termino": "2016-10-23 01:48:03",
+    "precio": 233158
+  },
+  {
+    "fecha_inicio": "2016-03-08 02:50:32",
+    "productos": [
+      14732205614
+    ],
+    "vendedor": "jsalazar",
+    "id": 61675596805,
+    "historial": [
+      [
+        "gmaldonado",
+        63363
+      ],
+      [
+        "crivera",
+        73548
+      ],
+      [
+        "rmorales",
+        76851
+      ],
+      [
+        "ahernandez",
+        83121
+      ],
+      [
+        "ltorres",
+        89959
+      ],
+      [
+        "baguilera",
+        101097
+      ],
+      [
+        "ahernandez",
+        102425
+      ],
+      [
+        "caraya",
+        107797
+      ],
+      [
+        "sguzman",
+        113744
+      ],
+      [
+        "lpoblete",
+        121148
+      ],
+      [
+        "falvarado",
+        129512
+      ],
+      [
+        "afelipevasqu",
+        130880
+      ],
+      [
+        "msandoval",
+        132519
+      ],
+      [
+        "jsmith",
+        143980
+      ],
+      [
+        "jbustamante",
+        169305
+      ],
+      [
+        "lvidal",
+        178495
+      ],
+      [
+        "etapia",
+        189781
+      ],
+      [
+        "mmiranda",
+        194089
+      ],
+      [
+        "hgutierrez",
+        199917
+      ],
+      [
+        "briquelme",
+        218594
+      ],
+      [
+        "ialvarez",
+        221206
+      ],
+      [
+        "psaavedra",
+        224833
+      ],
+      [
+        "sdonoso",
+        229130
+      ],
+      [
+        "lnavarrete",
+        230144
+      ]
+    ],
+    "fecha_termino": "2016-05-28 07:00:39",
+    "precio": 229131
+  },
+  {
+    "fecha_inicio": "2016-01-04 20:53:46",
+    "productos": [
+      92874965275
+    ],
+    "vendedor": "afarias",
+    "id": 67559191444,
+    "historial": [
+      [
+        "rvaldes",
+        76134
+      ],
+      [
+        "sparra",
+        81389
+      ],
+      [
+        "dalejandroma",
+        82184
+      ],
+      [
+        "cramirez",
+        101592
+      ],
+      [
+        "kortega",
+        105728
+      ],
+      [
+        "nmoreno",
+        115942
+      ],
+      [
+        "gtaylor",
+        122960
+      ],
+      [
+        "solivares",
+        131722
+      ],
+      [
+        "msanmartin",
+        136478
+      ],
+      [
+        "svergara",
+        141542
+      ],
+      [
+        "fparedes",
+        148222
+      ],
+      [
+        "rparedes",
+        170967
+      ],
+      [
+        "mbustamante",
+        174217
+      ],
+      [
+        "maguilera",
+        187971
+      ],
+      [
+        "rjimenez",
+        188947
+      ],
+      [
+        "lsmith",
+        190200
+      ],
+      [
+        "mjones",
+        202295
+      ],
+      [
+        "jbustos",
+        219439
+      ]
+    ],
+    "fecha_termino": "2016-08-22 16:54:51",
+    "precio": 202296
+  },
+  {
+    "fecha_inicio": "2016-01-10 05:08:24",
+    "productos": [
+      46888826074
+    ],
+    "vendedor": "zguzman",
+    "id": 51102080339,
+    "historial": [
+      [
+        "jalvarez",
+        66223
+      ],
+      [
+        "mpoblete",
+        73058
+      ],
+      [
+        "bsalinas",
+        99563
+      ],
+      [
+        "mwilliams",
+        103611
+      ],
+      [
+        "cvaldes",
+        113798
+      ],
+      [
+        "dtapia",
+        124678
+      ],
+      [
+        "ssanhueza",
+        128021
+      ],
+      [
+        "mjara",
+        130029
+      ],
+      [
+        "mvega",
+        133498
+      ],
+      [
+        "solivares",
+        137710
+      ],
+      [
+        "xrojas",
+        144619
+      ],
+      [
+        "vguerrero",
+        144752
+      ],
+      [
+        "amedina",
+        215307
+      ],
+      [
+        "cfernandez",
+        217433
+      ],
+      [
+        "afelipearaya",
+        221405
+      ],
+      [
+        "nalvarez",
+        238629
+      ],
+      [
+        "aguerrero",
+        239641
+      ]
+    ],
+    "fecha_termino": "2016-05-26 05:04:14",
+    "precio": 238630
+  },
+  {
+    "fecha_inicio": "2016-01-13 02:04:55",
+    "productos": [
+      58965576053
+    ],
+    "vendedor": "lvidal",
+    "id": 64330675081,
+    "historial": [
+      [
+        "ialvarez",
+        71530
+      ],
+      [
+        "dvera",
+        91095
+      ],
+      [
+        "ngallardo",
+        101660
+      ],
+      [
+        "egallardo",
+        102355
+      ],
+      [
+        "eriquelme",
+        110070
+      ],
+      [
+        "avega",
+        118556
+      ],
+      [
+        "bespinoza",
+        118750
+      ],
+      [
+        "mparedes",
+        130230
+      ],
+      [
+        "bespinoza",
+        136619
+      ],
+      [
+        "npalma",
+        137891
+      ],
+      [
+        "gmaldonado",
+        143372
+      ],
+      [
+        "jgodoy",
+        145100
+      ],
+      [
+        "ariquelme",
+        150000
+      ],
+      [
+        "jjoseguerrer",
+        153506
+      ],
+      [
+        "mpoblete",
+        155029
+      ],
+      [
+        "mvega",
+        182179
+      ],
+      [
+        "sparra",
+        182499
+      ],
+      [
+        "descobar",
+        188260
+      ],
+      [
+        "rvenegas",
+        197591
+      ],
+      [
+        "jramirez",
+        209070
+      ],
+      [
+        "msalinas",
+        209773
+      ],
+      [
+        "ccontreras",
+        216380
+      ],
+      [
+        "sguerrero",
+        217752
+      ],
+      [
+        "tvaldes",
+        222600
+      ]
+    ],
+    "fecha_termino": "2016-07-29 03:58:49",
+    "precio": 217753
+  },
+  {
+    "fecha_inicio": "2016-02-13 17:54:54",
+    "productos": [
+      53355946899
+    ],
+    "vendedor": "jandrescacer",
+    "id": 71132397063,
+    "historial": [
+      [
+        "drivera",
+        93809
+      ],
+      [
+        "scarvajal",
+        94661
+      ],
+      [
+        "dalejandrori",
+        94923
+      ],
+      [
+        "msanhueza",
+        95063
+      ],
+      [
+        "dalejandrobu",
+        98199
+      ],
+      [
+        "mcaceres",
+        120847
+      ],
+      [
+        "jvargas",
+        124196
+      ],
+      [
+        "dalejandroal",
+        132135
+      ],
+      [
+        "mfuentes",
+        136433
+      ],
+      [
+        "ataylor",
+        147509
+      ],
+      [
+        "lhernandez",
+        156769
+      ],
+      [
+        "jandressaez",
+        167034
+      ],
+      [
+        "descobar",
+        182490
+      ]
+    ],
+    "fecha_termino": "2016-09-29 13:16:39",
+    "precio": 167035
+  },
+  {
+    "fecha_inicio": "2016-02-15 02:12:21",
+    "productos": [
+      31773326778
+    ],
+    "vendedor": "agarrido",
+    "id": 94721656169,
+    "historial": [
+      [
+        "mespinoza",
+        132691
+      ],
+      [
+        "mjara",
+        154019
+      ]
+    ],
+    "fecha_termino": "2016-05-10 05:52:52",
+    "precio": 132692
+  },
+  {
+    "fecha_inicio": "2016-03-13 00:09:59",
+    "productos": [
+      86311752232
+    ],
+    "vendedor": "jvalenzuela",
+    "id": 23685028716,
+    "historial": [
+      [
+        "sromero",
+        63249
+      ],
+      [
+        "lflores",
+        69097
+      ],
+      [
+        "sromero",
+        96535
+      ],
+      [
+        "tsandoval",
+        106601
+      ],
+      [
+        "sparra",
+        119656
+      ],
+      [
+        "aaravena",
+        153447
+      ],
+      [
+        "lwilliams",
+        170818
+      ],
+      [
+        "zguzman",
+        221268
+      ],
+      [
+        "mcarrasco",
+        222399
+      ],
+      [
+        "gvalenzuela",
+        236341
+      ],
+      [
+        "jbustos",
+        238308
+      ]
+    ],
+    "fecha_termino": "2016-07-18 18:26:16",
+    "precio": 236342
+  },
+  {
+    "fecha_inicio": "2016-03-10 16:21:10",
+    "productos": [
+      32571169334
+    ],
+    "vendedor": "dsalazar",
+    "id": 96739487607,
+    "historial": [
+      [
+        "lnavarrete",
+        78917
+      ],
+      [
+        "bsaavedra",
+        79789
+      ],
+      [
+        "scarvajal",
+        79795
+      ],
+      [
+        "ewong",
+        83048
+      ],
+      [
+        "lcampos",
+        175100
+      ],
+      [
+        "dbravo",
+        209737
+      ],
+      [
+        "briquelme",
+        222431
+      ],
+      [
+        "gflores",
+        224615
+      ]
+    ],
+    "fecha_termino": "2016-09-09 08:24:54",
+    "precio": 222432
+  },
+  {
+    "fecha_inicio": "2016-01-20 21:42:59",
+    "productos": [
+      27228253946
+    ],
+    "vendedor": "aguerrero",
+    "id": 79289258854,
+    "historial": [
+      [
+        "csaez",
+        97542
+      ],
+      [
+        "amolina",
+        118168
+      ],
+      [
+        "apaulabustos",
+        189556
+      ]
+    ],
+    "fecha_termino": "2016-09-06 23:10:42",
+    "precio": 118169
+  },
+  {
+    "fecha_inicio": "2016-01-13 21:04:54",
+    "productos": [
+      74154984646
+    ],
+    "vendedor": "vsepulveda",
+    "id": 79997860913,
+    "historial": [
+      [
+        "jbrown",
+        73056
+      ],
+      [
+        "vcastro",
+        134569
+      ],
+      [
+        "xgarcia",
+        150252
+      ],
+      [
+        "mpizarro",
+        156841
+      ],
+      [
+        "owong",
+        182765
+      ],
+      [
+        "vmartin",
+        190766
+      ],
+      [
+        "cbravo",
+        199980
+      ]
+    ],
+    "fecha_termino": "2016-11-11 01:54:28",
+    "precio": 190767
+  },
+  {
+    "fecha_inicio": "2016-02-26 23:26:50",
+    "productos": [
+      37628743504
+    ],
+    "vendedor": "apaulabustos",
+    "id": 68957832979,
+    "historial": [
+      [
+        "mespinoza",
+        69377
+      ],
+      [
+        "sromero",
+        70240
+      ],
+      [
+        "valvarez",
+        91227
+      ],
+      [
+        "mdiaz",
+        106555
+      ],
+      [
+        "mespinoza",
+        112771
+      ],
+      [
+        "ahernandez",
+        138624
+      ],
+      [
+        "vwong",
+        146207
+      ],
+      [
+        "rcarrasco",
+        156678
+      ],
+      [
+        "rmiranda",
+        162724
+      ],
+      [
+        "vbustos",
+        189923
+      ],
+      [
+        "sfigueroa",
+        193331
+      ],
+      [
+        "msandoval",
+        196431
+      ],
+      [
+        "vlee",
+        217129
+      ],
+      [
+        "sfigueroa",
+        230936
+      ],
+      [
+        "msanmartin",
+        235925
+      ],
+      [
+        "snavarro",
+        237980
+      ]
+    ],
+    "fecha_termino": "2016-06-21 00:43:40",
+    "precio": 235926
+  },
+  {
+    "fecha_inicio": "2016-01-05 02:44:52",
+    "productos": [
+      90085182905
+    ],
+    "vendedor": "gsanchez",
+    "id": 94951918235,
+    "historial": [
+      [
+        "lrojas",
+        59122
+      ],
+      [
+        "afelipearaya",
+        63162
+      ],
+      [
+        "breyes",
+        64568
+      ],
+      [
+        "ebustos",
+        70245
+      ],
+      [
+        "afelipevera",
+        81325
+      ],
+      [
+        "dsandoval",
+        110029
+      ],
+      [
+        "mpizarro",
+        113869
+      ],
+      [
+        "sdonoso",
+        134073
+      ],
+      [
+        "mpoblete",
+        136535
+      ],
+      [
+        "pmaldonado",
+        147689
+      ],
+      [
+        "svasquez",
+        156525
+      ],
+      [
+        "salvarez",
+        167294
+      ],
+      [
+        "rpino",
+        169292
+      ],
+      [
+        "lmolina",
+        182487
+      ],
+      [
+        "malvarez",
+        182820
+      ],
+      [
+        "lcampos",
+        186732
+      ],
+      [
+        "jsanhueza",
+        191825
+      ],
+      [
+        "xgarcia",
+        197918
+      ],
+      [
+        "mdonoso",
+        204096
+      ],
+      [
+        "ngonzalez",
+        204684
+      ],
+      [
+        "jandresvidal",
+        208082
+      ],
+      [
+        "pvasquez",
+        208857
+      ],
+      [
+        "briquelme",
+        217324
+      ],
+      [
+        "rvidal",
+        219724
+      ],
+      [
+        "msandoval",
+        237704
+      ]
+    ],
+    "fecha_termino": "2016-07-18 09:24:37",
+    "precio": 219725
+  },
+  {
+    "fecha_inicio": "2016-01-06 21:07:37",
+    "productos": [
+      93454253680
+    ],
+    "vendedor": "mromero",
+    "id": 68142567854,
+    "historial": [
+      [
+        "mrivera",
+        96129
+      ],
+      [
+        "malvarez",
+        170081
+      ],
+      [
+        "sguzman",
+        171250
+      ],
+      [
+        "mjones",
+        187891
+      ],
+      [
+        "jlee",
+        224368
+      ]
+    ],
+    "fecha_termino": "2016-12-26 19:27:37",
+    "precio": 187892
+  },
+  {
+    "fecha_inicio": "2016-01-11 19:09:45",
+    "productos": [
+      15839072515
+    ],
+    "vendedor": "acampos",
+    "id": 13185852366,
+    "historial": [
+      [
+        "ebustos",
+        70121
+      ],
+      [
+        "jnavarro",
+        72585
+      ],
+      [
+        "amolina",
+        82715
+      ],
+      [
+        "agodoy",
+        82998
+      ],
+      [
+        "fsmith",
+        92155
+      ],
+      [
+        "vvera",
+        95120
+      ],
+      [
+        "mfuentes",
+        99191
+      ],
+      [
+        "halvarado",
+        128358
+      ],
+      [
+        "gsanchez",
+        158604
+      ],
+      [
+        "mdiaz",
+        166572
+      ],
+      [
+        "dsalinas",
+        176119
+      ],
+      [
+        "avergara",
+        193418
+      ]
+    ],
+    "fecha_termino": "2016-04-19 08:03:13",
+    "precio": 176120
+  },
+  {
+    "fecha_inicio": "2016-02-24 10:44:35",
+    "productos": [
+      58882564028
+    ],
+    "vendedor": "arodriguez",
+    "id": 62384661037,
+    "historial": [
+      [
+        "mrivera",
+        131495
+      ],
+      [
+        "creyes",
+        137358
+      ],
+      [
+        "dmaldonado",
+        138963
+      ],
+      [
+        "aguzman",
+        140664
+      ],
+      [
+        "gsandoval",
+        144466
+      ],
+      [
+        "rsanhueza",
+        145498
+      ],
+      [
+        "bvega",
+        153891
+      ],
+      [
+        "vsepulveda",
+        156123
+      ],
+      [
+        "snavarro",
+        157922
+      ],
+      [
+        "vmorales",
+        166246
+      ],
+      [
+        "jromero",
+        168401
+      ],
+      [
+        "xgarcia",
+        192765
+      ],
+      [
+        "agomez",
+        202162
+      ],
+      [
+        "lreyes",
+        217655
+      ],
+      [
+        "jbustos",
+        219514
+      ],
+      [
+        "hbustos",
+        232023
+      ],
+      [
+        "zguzman",
+        232273
+      ]
+    ],
+    "fecha_termino": "2016-06-08 00:20:43",
+    "precio": 232024
+  },
+  {
+    "fecha_inicio": "2016-02-09 21:23:35",
+    "productos": [
+      95535495049
+    ],
+    "vendedor": "hhernandez",
+    "id": 10970982958,
+    "historial": [
+      [
+        "lwilliams",
+        108445
+      ],
+      [
+        "rfuentes",
+        113620
+      ],
+      [
+        "hbustos",
+        123588
+      ],
+      [
+        "agomez",
+        125174
+      ],
+      [
+        "hbustos",
+        141116
+      ],
+      [
+        "dbravo",
+        149382
+      ],
+      [
+        "gparra",
+        151913
+      ],
+      [
+        "owong",
+        154634
+      ],
+      [
+        "rortega",
+        155545
+      ],
+      [
+        "rcarrasco",
+        163102
+      ],
+      [
+        "acampos",
+        164776
+      ],
+      [
+        "fleiva",
+        168517
+      ],
+      [
+        "vortega",
+        177623
+      ],
+      [
+        "asaavedra",
+        183047
+      ],
+      [
+        "vcampbell",
+        201274
+      ],
+      [
+        "aaravena",
+        225279
+      ],
+      [
+        "scarvajal",
+        226648
+      ],
+      [
+        "dtapia",
+        236021
+      ]
+    ],
+    "fecha_termino": "2016-12-18 00:55:17",
+    "precio": 226649
+  },
+  {
+    "fecha_inicio": "2016-03-04 14:27:29",
+    "productos": [
+      70464002551
+    ],
+    "vendedor": "mpatel",
+    "id": 17589660058,
+    "historial": [
+      [
+        "vsepulveda",
+        56147
+      ],
+      [
+        "mespinoza",
+        59808
+      ],
+      [
+        "sruiz",
+        68996
+      ],
+      [
+        "vvera",
+        70607
+      ],
+      [
+        "mpoblete",
+        74927
+      ],
+      [
+        "aalvarado",
+        80557
+      ],
+      [
+        "mdiaz",
+        85413
+      ],
+      [
+        "molivares",
+        103575
+      ],
+      [
+        "vrivera",
+        107288
+      ],
+      [
+        "khenriquez",
+        108178
+      ],
+      [
+        "kortega",
+        120469
+      ],
+      [
+        "jmedina",
+        126619
+      ],
+      [
+        "dalejandroal",
+        128831
+      ],
+      [
+        "bcarvajal",
+        134966
+      ],
+      [
+        "lsmith",
+        149905
+      ],
+      [
+        "hbustos",
+        151315
+      ],
+      [
+        "gsalinas",
+        157760
+      ],
+      [
+        "ewong",
+        166712
+      ],
+      [
+        "sdonoso",
+        194979
+      ],
+      [
+        "lparra",
+        216459
+      ],
+      [
+        "tsmith",
+        216696
+      ],
+      [
+        "ssanchez",
+        218369
+      ],
+      [
+        "apaularojas",
+        220544
+      ],
+      [
+        "ajimenez",
+        221663
+      ],
+      [
+        "malvarez",
+        239892
+      ]
+    ],
+    "fecha_termino": "2016-07-14 23:39:37",
+    "precio": 221664
+  },
+  {
+    "fecha_inicio": "2016-02-24 02:54:01",
+    "productos": [
+      11399508986
+    ],
+    "vendedor": "jriquelme",
+    "id": 22320793118,
+    "historial": [
+      [
+        "svargas",
+        69079
+      ],
+      [
+        "mwong",
+        118040
+      ],
+      [
+        "respinoza",
+        122565
+      ],
+      [
+        "blagos",
+        148575
+      ],
+      [
+        "dalejandrohe",
+        166330
+      ],
+      [
+        "zvargas",
+        172827
+      ],
+      [
+        "rhenriquez",
+        176312
+      ],
+      [
+        "prodriguez",
+        179750
+      ],
+      [
+        "dsalinas",
+        229957
+      ]
+    ],
+    "fecha_termino": "2016-08-14 22:47:03",
+    "precio": 179751
+  },
+  {
+    "fecha_inicio": "2016-02-08 00:01:18",
+    "productos": [
+      61235824731
+    ],
+    "vendedor": "ahernandez",
+    "id": 65050590420,
+    "historial": [
+      [
+        "tpizarro",
+        80231
+      ],
+      [
+        "apalma",
+        82419
+      ],
+      [
+        "xgonzalez",
+        89769
+      ],
+      [
+        "lcampos",
+        107722
+      ],
+      [
+        "saguilera",
+        139016
+      ],
+      [
+        "xgarcia",
+        148649
+      ],
+      [
+        "avargas",
+        151699
+      ],
+      [
+        "rortiz",
+        161515
+      ],
+      [
+        "psalinas",
+        191548
+      ],
+      [
+        "srivera",
+        195683
+      ],
+      [
+        "sruiz",
+        199838
+      ]
+    ],
+    "fecha_termino": "2016-11-30 21:37:14",
+    "precio": 195684
+  },
+  {
+    "fecha_inicio": "2016-02-29 22:46:33",
+    "productos": [
+      56293956517
+    ],
+    "vendedor": "fvergara",
+    "id": 71614041222,
+    "historial": [
+      [
+        "valarcon",
+        60107
+      ],
+      [
+        "jhenriquez",
+        61861
+      ],
+      [
+        "jjoseparedes",
+        62861
+      ],
+      [
+        "jpalma",
+        66262
+      ],
+      [
+        "btapia",
+        99531
+      ],
+      [
+        "zcarrasco",
+        103530
+      ],
+      [
+        "eriquelme",
+        109597
+      ],
+      [
+        "mwilliams",
+        114568
+      ],
+      [
+        "lfernandez",
+        116477
+      ],
+      [
+        "lvega",
+        128951
+      ],
+      [
+        "ccaceres",
+        139268
+      ],
+      [
+        "bthompson",
+        153723
+      ],
+      [
+        "lparra",
+        159100
+      ],
+      [
+        "dalejandroma",
+        164505
+      ],
+      [
+        "mrivera",
+        194517
+      ],
+      [
+        "jandrescacer",
+        195337
+      ],
+      [
+        "afelipetoro",
+        222880
+      ]
+    ],
+    "fecha_termino": "2016-04-09 04:09:37",
+    "precio": 195338
+  },
+  {
+    "fecha_inicio": "2016-03-05 14:28:37",
+    "productos": [
+      21465686062
+    ],
+    "vendedor": "ebustos",
+    "id": 39038727733,
+    "historial": [
+      [
+        "ccontreras",
+        72908
+      ],
+      [
+        "lescobar",
+        158525
+      ]
+    ],
+    "fecha_termino": "2016-04-21 01:53:09",
+    "precio": 72909
+  },
+  {
+    "fecha_inicio": "2016-01-06 20:20:25",
+    "productos": [
+      18711734823
+    ],
+    "vendedor": "wmartinez",
+    "id": 40239657905,
+    "historial": [
+      [
+        "dalejandrohe",
+        58422
+      ],
+      [
+        "mromero",
+        64457
+      ],
+      [
+        "lnavarrete",
+        75104
+      ],
+      [
+        "pvasquez",
+        113062
+      ],
+      [
+        "dalejandrori",
+        116092
+      ],
+      [
+        "dalejandroco",
+        119272
+      ],
+      [
+        "mpalma",
+        122461
+      ],
+      [
+        "mromero",
+        136470
+      ],
+      [
+        "mrivera",
+        167734
+      ],
+      [
+        "tsandoval",
+        178054
+      ],
+      [
+        "zvargas",
+        182528
+      ],
+      [
+        "mvega",
+        188029
+      ],
+      [
+        "sdiaz",
+        199322
+      ],
+      [
+        "ariquelme",
+        199492
+      ],
+      [
+        "gtaylor",
+        203290
+      ],
+      [
+        "gflores",
+        220369
+      ],
+      [
+        "asanchez",
+        227603
+      ]
+    ],
+    "fecha_termino": "2016-07-16 19:51:31",
+    "precio": 220370
+  },
+  {
+    "fecha_inicio": "2016-02-21 10:01:10",
+    "productos": [
+      92605756116
+    ],
+    "vendedor": "mmiranda",
+    "id": 80554725125,
+    "historial": [
+      [
+        "mfarias",
+        109309
+      ],
+      [
+        "ccaceres",
+        161788
+      ],
+      [
+        "bespinoza",
+        190472
+      ],
+      [
+        "ahernandez",
+        230844
+      ]
+    ],
+    "fecha_termino": "2016-08-25 21:01:56",
+    "precio": 190473
+  },
+  {
+    "fecha_inicio": "2016-02-18 06:10:47",
+    "productos": [
+      16899940141
+    ],
+    "vendedor": "scampbell",
+    "id": 35729432689,
+    "historial": [
+      [
+        "vgutierrez",
+        58196
+      ],
+      [
+        "garaya",
+        64231
+      ],
+      [
+        "pgonzalez",
+        78114
+      ],
+      [
+        "avergara",
+        93368
+      ],
+      [
+        "ewong",
+        126925
+      ],
+      [
+        "sparra",
+        144961
+      ],
+      [
+        "xgonzalez",
+        161136
+      ],
+      [
+        "mcarrasco",
+        201107
+      ],
+      [
+        "mpatel",
+        214947
+      ]
+    ],
+    "fecha_termino": "2016-03-15 19:44:20",
+    "precio": 201108
+  }
+]
