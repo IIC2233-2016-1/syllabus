@@ -1,502 +1,3002 @@
 [
   {
-    "plazo": "2016-02-26 14:44:17",
-    "monto": 287492,
-    "usuario": "lsmith"
+    "monto": 235226,
+    "plazo": "2016-02-07 23:15:04",
+    "usuario": "ireyes"
   },
   {
-    "plazo": "2016-01-16 22:17:25",
-    "monto": 286290,
-    "usuario": "tsandoval"
+    "monto": 314553,
+    "plazo": "2016-02-04 16:17:04",
+    "usuario": "aalarcon11"
   },
   {
-    "plazo": "2016-01-01 05:34:37",
-    "monto": 303301,
-    "usuario": "srodriguez"
+    "monto": 188358,
+    "plazo": "2016-02-01 06:03:03",
+    "usuario": "mwong1"
   },
   {
-    "plazo": "2016-02-03 15:10:29",
-    "monto": 217025,
-    "usuario": "dsandoval"
+    "monto": 164744,
+    "plazo": "2016-02-29 14:17:20",
+    "usuario": "avargas11"
   },
   {
-    "plazo": "2016-02-08 22:45:37",
-    "monto": 219327,
-    "usuario": "fmedina"
+    "monto": 192069,
+    "plazo": "2016-01-07 20:30:52",
+    "usuario": "lguerrero"
   },
   {
-    "plazo": "2016-03-06 05:47:29",
-    "monto": 266940,
-    "usuario": "mbrown"
+    "monto": 308760,
+    "plazo": "2016-02-07 17:26:16",
+    "usuario": "nortiz"
   },
   {
-    "plazo": "2016-03-03 11:57:45",
-    "monto": 317423,
-    "usuario": "prodriguez"
+    "monto": 273442,
+    "plazo": "2016-03-02 08:44:00",
+    "usuario": "jdavidhernan"
   },
   {
-    "plazo": "2016-02-15 17:31:52",
-    "monto": 312463,
-    "usuario": "apaularojas"
+    "monto": 261735,
+    "plazo": "2016-01-29 07:44:59",
+    "usuario": "jlee1"
   },
   {
-    "plazo": "2016-02-20 07:57:05",
-    "monto": 242462,
-    "usuario": "mmedina"
+    "monto": 227164,
+    "plazo": "2016-02-11 07:20:50",
+    "usuario": "bthompson11"
   },
   {
-    "plazo": "2016-02-12 12:13:18",
-    "monto": 182899,
-    "usuario": "gmaldonado"
+    "monto": 227092,
+    "plazo": "2016-01-21 23:00:57",
+    "usuario": "tbustos"
   },
   {
-    "plazo": "2016-03-04 00:02:35",
-    "monto": 209427,
-    "usuario": "rvaldes"
+    "monto": 218218,
+    "plazo": "2016-01-24 18:30:56",
+    "usuario": "bsoto"
   },
   {
-    "plazo": "2016-01-26 04:16:15",
-    "monto": 315359,
-    "usuario": "psalinas"
+    "monto": 303171,
+    "plazo": "2016-01-18 07:10:13",
+    "usuario": "lriquelme1"
   },
   {
-    "plazo": "2016-02-03 01:17:34",
-    "monto": 267237,
-    "usuario": "lmorales"
+    "monto": 253728,
+    "plazo": "2016-02-24 02:39:52",
+    "usuario": "jdavidjimene"
   },
   {
-    "plazo": "2016-01-30 08:49:05",
-    "monto": 135787,
-    "usuario": "eriquelme"
+    "monto": 294477,
+    "plazo": "2016-03-06 17:39:18",
+    "usuario": "dgarcia111"
   },
   {
-    "plazo": "2016-02-23 18:43:03",
-    "monto": 140972,
-    "usuario": "dvenegas"
+    "monto": 179129,
+    "plazo": "2016-02-14 23:57:19",
+    "usuario": "agutierrez1111111"
   },
   {
-    "plazo": "2016-01-22 12:54:46",
-    "monto": 208106,
-    "usuario": "anavarro"
+    "monto": 220583,
+    "plazo": "2016-02-15 12:16:29",
+    "usuario": "porellana"
   },
   {
-    "plazo": "2016-02-10 13:44:25",
-    "monto": 170180,
-    "usuario": "dtapia"
+    "monto": 188395,
+    "plazo": "2016-02-14 16:03:06",
+    "usuario": "asanchez1"
   },
   {
-    "plazo": "2016-01-13 01:52:34",
-    "monto": 157608,
-    "usuario": "nlopez"
+    "monto": 317692,
+    "plazo": "2016-03-12 22:11:48",
+    "usuario": "rcastillo1"
   },
   {
-    "plazo": "2016-01-27 23:32:32",
-    "monto": 249604,
-    "usuario": "ahernandez"
+    "monto": 178940,
+    "plazo": "2016-01-15 02:57:40",
+    "usuario": "scastro111"
   },
   {
-    "plazo": "2016-02-12 20:47:16",
-    "monto": 211850,
-    "usuario": "aortiz"
+    "monto": 222126,
+    "plazo": "2016-01-14 17:39:38",
+    "usuario": "vparedes"
   },
   {
-    "plazo": "2016-02-06 20:14:18",
-    "monto": 289922,
-    "usuario": "xcortes"
+    "monto": 273645,
+    "plazo": "2016-01-20 14:26:03",
+    "usuario": "mwilson"
   },
   {
-    "plazo": "2016-03-01 12:53:16",
-    "monto": 229062,
-    "usuario": "lmartinez"
+    "monto": 141744,
+    "plazo": "2016-01-03 18:47:54",
+    "usuario": "bgomez1"
   },
   {
-    "plazo": "2016-03-07 08:18:36",
-    "monto": 229632,
-    "usuario": "afelipearaya"
+    "monto": 237262,
+    "plazo": "2016-02-07 20:17:13",
+    "usuario": "rsoto1"
   },
   {
-    "plazo": "2016-03-09 22:45:23",
-    "monto": 317283,
-    "usuario": "lolivares"
+    "monto": 255834,
+    "plazo": "2016-01-09 16:28:18",
+    "usuario": "mmiranda"
   },
   {
-    "plazo": "2016-02-23 20:54:58",
-    "monto": 293755,
-    "usuario": "jriquelme"
+    "monto": 143518,
+    "plazo": "2016-01-16 04:25:02",
+    "usuario": "smolina11"
   },
   {
-    "plazo": "2016-01-08 20:46:35",
-    "monto": 135375,
-    "usuario": "dmaldonado"
+    "monto": 191367,
+    "plazo": "2016-01-30 16:20:07",
+    "usuario": "aparra1"
   },
   {
-    "plazo": "2016-02-17 05:10:44",
-    "monto": 188968,
-    "usuario": "etapia"
+    "monto": 167663,
+    "plazo": "2016-03-09 07:24:50",
+    "usuario": "mgomez11"
   },
   {
-    "plazo": "2016-02-06 04:05:13",
-    "monto": 125057,
-    "usuario": "sparra"
+    "monto": 211631,
+    "plazo": "2016-01-06 14:06:18",
+    "usuario": "rleiva1"
   },
   {
-    "plazo": "2016-03-04 14:17:09",
-    "monto": 222712,
-    "usuario": "fvergara"
+    "monto": 310717,
+    "plazo": "2016-03-09 20:15:44",
+    "usuario": "wgarcia"
   },
   {
-    "plazo": "2016-03-12 09:28:51",
-    "monto": 215372,
-    "usuario": "gsanchez"
+    "monto": 130300,
+    "plazo": "2016-02-16 04:12:49",
+    "usuario": "valvarez"
   },
   {
-    "plazo": "2016-01-23 23:20:42",
-    "monto": 195953,
-    "usuario": "mespinoza"
+    "monto": 196908,
+    "plazo": "2016-01-25 16:47:40",
+    "usuario": "igodoy"
   },
   {
-    "plazo": "2016-03-03 01:17:45",
-    "monto": 137464,
-    "usuario": "mwong"
+    "monto": 225107,
+    "plazo": "2016-02-25 22:43:55",
+    "usuario": "ebustamante"
   },
   {
-    "plazo": "2016-01-14 09:13:24",
-    "monto": 159049,
-    "usuario": "briquelme"
+    "monto": 158833,
+    "plazo": "2016-03-12 10:19:58",
+    "usuario": "dalejandrofl1"
   },
   {
-    "plazo": "2016-02-05 11:53:07",
-    "monto": 304181,
-    "usuario": "jbustos"
+    "monto": 179269,
+    "plazo": "2016-03-01 09:37:56",
+    "usuario": "wjones"
   },
   {
-    "plazo": "2016-01-25 11:40:49",
-    "monto": 284100,
-    "usuario": "agodoy"
+    "monto": 250496,
+    "plazo": "2016-02-02 10:13:13",
+    "usuario": "jcardenas"
   },
   {
-    "plazo": "2016-02-09 08:43:44",
-    "monto": 140430,
-    "usuario": "dbustos"
+    "monto": 154866,
+    "plazo": "2016-02-10 02:37:45",
+    "usuario": "avergara111111"
   },
   {
-    "plazo": "2016-02-04 05:14:59",
-    "monto": 290607,
-    "usuario": "dcampbell"
+    "monto": 200538,
+    "plazo": "2016-03-13 02:58:20",
+    "usuario": "jvidal1"
   },
   {
-    "plazo": "2016-02-28 17:42:48",
-    "monto": 280169,
-    "usuario": "mpoblete"
+    "monto": 254709,
+    "plazo": "2016-01-30 18:56:29",
+    "usuario": "griquelme"
   },
   {
-    "plazo": "2016-01-30 12:51:52",
-    "monto": 142980,
-    "usuario": "apaulabustos"
+    "monto": 199444,
+    "plazo": "2016-02-25 22:04:37",
+    "usuario": "ocortes"
   },
   {
-    "plazo": "2016-02-02 03:06:39",
-    "monto": 167954,
-    "usuario": "msanhueza"
+    "monto": 158876,
+    "plazo": "2016-03-15 16:09:15",
+    "usuario": "apalma11111"
   },
   {
-    "plazo": "2016-01-24 01:14:55",
-    "monto": 130848,
-    "usuario": "vbustos"
+    "monto": 170336,
+    "plazo": "2016-01-10 08:46:08",
+    "usuario": "lcastro1"
   },
   {
-    "plazo": "2016-02-06 12:14:49",
-    "monto": 300336,
-    "usuario": "cjara"
+    "monto": 146231,
+    "plazo": "2016-01-27 10:25:36",
+    "usuario": "jcampos"
   },
   {
-    "plazo": "2016-02-25 03:57:35",
-    "monto": 253433,
-    "usuario": "mhenriquez"
+    "monto": 251197,
+    "plazo": "2016-03-12 10:24:26",
+    "usuario": "aparedes"
   },
   {
-    "plazo": "2016-01-24 16:10:50",
-    "monto": 186034,
-    "usuario": "balvarado"
+    "monto": 257714,
+    "plazo": "2016-01-03 16:30:51",
+    "usuario": "csoto"
   },
   {
-    "plazo": "2016-02-08 03:50:52",
-    "monto": 206237,
-    "usuario": "lescobar"
-  },
-  {
-    "plazo": "2016-01-16 17:53:44",
-    "monto": 318670,
-    "usuario": "wmartinez"
-  },
-  {
-    "plazo": "2016-02-09 08:43:44",
-    "monto": 295985,
-    "usuario": "mbravo"
-  },
-  {
-    "plazo": "2016-02-06 20:30:41",
-    "monto": 282347,
-    "usuario": "ngonzalez"
-  },
-  {
-    "plazo": "2016-01-16 04:54:00",
-    "monto": 268288,
-    "usuario": "lcaceres"
-  },
-  {
-    "plazo": "2016-01-09 12:55:13",
-    "monto": 175704,
-    "usuario": "iolivares"
-  },
-  {
-    "plazo": "2016-01-08 21:52:22",
-    "monto": 234244,
-    "usuario": "ssaavedra"
-  },
-  {
-    "plazo": "2016-02-16 11:36:14",
-    "monto": 162340,
-    "usuario": "vcastro"
-  },
-  {
-    "plazo": "2016-02-06 10:54:05",
-    "monto": 306023,
-    "usuario": "acampos"
-  },
-  {
-    "plazo": "2016-03-06 15:30:37",
-    "monto": 302191,
-    "usuario": "jsanhueza"
-  },
-  {
-    "plazo": "2016-02-24 09:58:42",
-    "monto": 130111,
-    "usuario": "ncontreras"
-  },
-  {
-    "plazo": "2016-02-07 17:25:14",
-    "monto": 164321,
-    "usuario": "cgonzalez"
-  },
-  {
-    "plazo": "2016-03-03 23:34:52",
-    "monto": 212590,
-    "usuario": "rparedes"
-  },
-  {
-    "plazo": "2016-01-03 18:46:37",
-    "monto": 173523,
-    "usuario": "acampbell"
-  },
-  {
-    "plazo": "2016-02-21 00:49:24",
-    "monto": 175161,
-    "usuario": "mgonzalez"
-  },
-  {
-    "plazo": "2016-02-03 14:15:45",
-    "monto": 154920,
-    "usuario": "emaldonado"
-  },
-  {
-    "plazo": "2016-02-02 21:23:03",
-    "monto": 180169,
-    "usuario": "rmorales"
-  },
-  {
-    "plazo": "2016-02-11 19:57:54",
-    "monto": 233821,
-    "usuario": "ccampbell"
-  },
-  {
-    "plazo": "2016-01-18 14:51:22",
-    "monto": 167879,
-    "usuario": "gvenegas"
-  },
-  {
-    "plazo": "2016-02-11 03:22:35",
-    "monto": 219575,
-    "usuario": "aherrera"
-  },
-  {
-    "plazo": "2016-03-01 12:05:19",
-    "monto": 252626,
-    "usuario": "jandresvidal"
-  },
-  {
-    "plazo": "2016-03-03 07:00:57",
-    "monto": 162850,
-    "usuario": "mjosegomez"
-  },
-  {
-    "plazo": "2016-02-21 02:03:25",
-    "monto": 181403,
-    "usuario": "mwilliams"
-  },
-  {
-    "plazo": "2016-02-24 12:36:16",
-    "monto": 309202,
-    "usuario": "vcampbell"
-  },
-  {
-    "plazo": "2016-01-22 11:39:28",
-    "monto": 161214,
-    "usuario": "lflores"
-  },
-  {
-    "plazo": "2016-03-12 20:19:44",
-    "monto": 302383,
-    "usuario": "jsalazar"
-  },
-  {
-    "plazo": "2016-02-18 07:13:32",
-    "monto": 265725,
-    "usuario": "bsalinas"
-  },
-  {
-    "plazo": "2016-02-16 10:53:55",
-    "monto": 244459,
+    "monto": 235858,
+    "plazo": "2016-01-05 17:03:25",
     "usuario": "jcaceres"
   },
   {
-    "plazo": "2016-01-05 19:12:19",
-    "monto": 289812,
-    "usuario": "afelipetoro"
+    "monto": 269485,
+    "plazo": "2016-01-03 22:39:42",
+    "usuario": "apaulamoreno"
   },
   {
-    "plazo": "2016-01-19 14:08:56",
-    "monto": 190595,
-    "usuario": "mthompson"
+    "monto": 224793,
+    "plazo": "2016-03-04 10:52:23",
+    "usuario": "jsoto"
   },
   {
-    "plazo": "2016-01-08 11:11:38",
-    "monto": 221816,
-    "usuario": "nbrown"
+    "monto": 245206,
+    "plazo": "2016-01-14 09:37:11",
+    "usuario": "jandrescampb"
   },
   {
-    "plazo": "2016-02-29 23:16:19",
-    "monto": 218564,
-    "usuario": "xvega"
+    "monto": 144091,
+    "plazo": "2016-03-14 03:22:17",
+    "usuario": "cgodoy"
   },
   {
-    "plazo": "2016-01-05 11:46:34",
-    "monto": 222909,
-    "usuario": "abrown"
+    "monto": 155262,
+    "plazo": "2016-02-16 04:10:33",
+    "usuario": "ealvarado11"
   },
   {
-    "plazo": "2016-01-23 18:11:50",
-    "monto": 224668,
-    "usuario": "ccaceres"
+    "monto": 212132,
+    "plazo": "2016-01-04 07:38:45",
+    "usuario": "rromero1"
   },
   {
-    "plazo": "2016-03-09 10:53:51",
-    "monto": 171451,
-    "usuario": "afelipevasqu"
+    "monto": 220918,
+    "plazo": "2016-02-27 14:04:11",
+    "usuario": "arojas111"
   },
   {
-    "plazo": "2016-03-08 23:03:41",
-    "monto": 225863,
-    "usuario": "vgutierrez"
+    "monto": 157865,
+    "plazo": "2016-01-27 15:46:01",
+    "usuario": "djara"
   },
   {
-    "plazo": "2016-03-08 18:19:08",
-    "monto": 230339,
-    "usuario": "apaulaaguile"
+    "monto": 133470,
+    "plazo": "2016-01-16 13:08:52",
+    "usuario": "aparedes1"
   },
   {
-    "plazo": "2016-02-13 19:56:10",
-    "monto": 150449,
-    "usuario": "xgonzalez"
+    "monto": 288631,
+    "plazo": "2016-01-24 13:20:40",
+    "usuario": "egarcia11"
   },
   {
-    "plazo": "2016-02-19 22:28:43",
-    "monto": 147223,
-    "usuario": "scarvajal"
+    "monto": 300977,
+    "plazo": "2016-01-29 15:23:07",
+    "usuario": "dfarias11"
   },
   {
-    "plazo": "2016-02-19 16:25:01",
-    "monto": 260890,
-    "usuario": "jandressaez"
+    "monto": 201930,
+    "plazo": "2016-02-12 23:10:33",
+    "usuario": "vbustamante11"
   },
   {
-    "plazo": "2016-01-14 17:25:02",
-    "monto": 148772,
-    "usuario": "mpatel"
+    "monto": 299433,
+    "plazo": "2016-02-23 10:53:21",
+    "usuario": "anavarro1111"
   },
   {
-    "plazo": "2016-01-03 05:54:30",
-    "monto": 298713,
-    "usuario": "sromero"
+    "monto": 245990,
+    "plazo": "2016-01-23 20:34:07",
+    "usuario": "spalma11"
   },
   {
-    "plazo": "2016-01-30 00:34:53",
-    "monto": 157469,
-    "usuario": "jlee"
+    "monto": 244809,
+    "plazo": "2016-02-15 05:17:09",
+    "usuario": "lalvarado1"
   },
   {
-    "plazo": "2016-01-24 08:52:17",
-    "monto": 170475,
-    "usuario": "avargas"
+    "monto": 256174,
+    "plazo": "2016-02-15 22:28:47",
+    "usuario": "eherrera1"
   },
   {
-    "plazo": "2016-02-20 20:53:44",
-    "monto": 158581,
-    "usuario": "bwilson"
+    "monto": 192288,
+    "plazo": "2016-02-23 12:14:31",
+    "usuario": "zvera"
   },
   {
-    "plazo": "2016-02-02 02:13:09",
-    "monto": 262043,
-    "usuario": "falvarado"
+    "monto": 175523,
+    "plazo": "2016-02-07 23:10:25",
+    "usuario": "dvera11"
   },
   {
-    "plazo": "2016-01-10 19:46:48",
-    "monto": 260315,
-    "usuario": "rjimenez"
+    "monto": 192200,
+    "plazo": "2016-01-08 23:25:46",
+    "usuario": "abustos11"
   },
   {
-    "plazo": "2016-01-07 16:37:37",
-    "monto": 282866,
-    "usuario": "rortiz"
+    "monto": 268474,
+    "plazo": "2016-01-02 03:27:50",
+    "usuario": "msalazar1111"
   },
   {
-    "plazo": "2016-03-08 18:26:57",
-    "monto": 180858,
-    "usuario": "gtaylor"
+    "monto": 176002,
+    "plazo": "2016-02-15 20:57:34",
+    "usuario": "sflores1"
   },
   {
-    "plazo": "2016-01-10 04:43:32",
-    "monto": 271441,
-    "usuario": "ebustos"
+    "monto": 183030,
+    "plazo": "2016-02-26 07:07:44",
+    "usuario": "sjones"
   },
   {
-    "plazo": "2016-02-18 18:22:24",
-    "monto": 313928,
-    "usuario": "avera"
+    "monto": 269950,
+    "plazo": "2016-02-11 18:13:52",
+    "usuario": "mvaldes11"
   },
   {
-    "plazo": "2016-01-25 02:18:56",
-    "monto": 240168,
-    "usuario": "mjoserodrigu"
+    "monto": 143687,
+    "plazo": "2016-01-20 22:47:12",
+    "usuario": "slopez11"
   },
   {
-    "plazo": "2016-02-16 15:58:26",
-    "monto": 164442,
-    "usuario": "bbustos"
+    "monto": 202673,
+    "plazo": "2016-01-19 07:33:08",
+    "usuario": "kgarrido"
   },
   {
-    "plazo": "2016-02-21 10:43:48",
-    "monto": 156564,
-    "usuario": "xsmith"
+    "monto": 157270,
+    "plazo": "2016-02-24 07:32:22",
+    "usuario": "lmorales"
   },
   {
-    "plazo": "2016-01-03 03:46:35",
-    "monto": 141415,
-    "usuario": "dsalinas"
+    "monto": 151850,
+    "plazo": "2016-02-29 22:01:30",
+    "usuario": "rsalinas"
   },
   {
-    "plazo": "2016-01-30 05:04:54",
-    "monto": 180994,
-    "usuario": "pmaldonado"
+    "monto": 298340,
+    "plazo": "2016-02-02 14:13:45",
+    "usuario": "mdiaz111"
+  },
+  {
+    "monto": 224476,
+    "plazo": "2016-02-11 18:33:46",
+    "usuario": "cgutierrez1"
+  },
+  {
+    "monto": 150244,
+    "plazo": "2016-02-28 17:33:30",
+    "usuario": "epalma1"
+  },
+  {
+    "monto": 230371,
+    "plazo": "2016-01-25 19:44:13",
+    "usuario": "dgonzalez"
+  },
+  {
+    "monto": 316573,
+    "plazo": "2016-01-04 22:49:20",
+    "usuario": "gparra"
+  },
+  {
+    "monto": 213231,
+    "plazo": "2016-01-12 23:01:41",
+    "usuario": "jaravena1"
+  },
+  {
+    "monto": 278439,
+    "plazo": "2016-01-08 14:58:32",
+    "usuario": "bgonzalez"
+  },
+  {
+    "monto": 191851,
+    "plazo": "2016-02-27 01:26:58",
+    "usuario": "mjosecardena"
+  },
+  {
+    "monto": 171179,
+    "plazo": "2016-02-06 23:17:48",
+    "usuario": "mlopez1111"
+  },
+  {
+    "monto": 201221,
+    "plazo": "2016-01-16 19:27:00",
+    "usuario": "pvenegas1"
+  },
+  {
+    "monto": 285230,
+    "plazo": "2016-01-20 23:32:07",
+    "usuario": "jandrescarva"
+  },
+  {
+    "monto": 166453,
+    "plazo": "2016-01-16 14:24:31",
+    "usuario": "lrojas11111"
+  },
+  {
+    "monto": 235578,
+    "plazo": "2016-03-10 05:31:46",
+    "usuario": "lgarcia"
+  },
+  {
+    "monto": 161403,
+    "plazo": "2016-01-14 04:05:48",
+    "usuario": "jandresjara"
+  },
+  {
+    "monto": 171647,
+    "plazo": "2016-02-18 02:59:08",
+    "usuario": "mjosecontrer"
+  },
+  {
+    "monto": 178461,
+    "plazo": "2016-01-01 11:00:43",
+    "usuario": "mreyes1"
+  },
+  {
+    "monto": 162072,
+    "plazo": "2016-02-27 23:39:47",
+    "usuario": "bsanmartin11"
+  },
+  {
+    "monto": 133071,
+    "plazo": "2016-03-10 18:17:13",
+    "usuario": "horellana"
+  },
+  {
+    "monto": 253622,
+    "plazo": "2016-03-05 04:10:30",
+    "usuario": "ajones"
+  },
+  {
+    "monto": 253843,
+    "plazo": "2016-03-14 13:00:09",
+    "usuario": "borellana"
+  },
+  {
+    "monto": 300324,
+    "plazo": "2016-01-21 13:15:28",
+    "usuario": "sespinoza11"
+  },
+  {
+    "monto": 309678,
+    "plazo": "2016-01-30 22:23:38",
+    "usuario": "snavarrete"
+  },
+  {
+    "monto": 232562,
+    "plazo": "2016-03-14 04:12:11",
+    "usuario": "eguzman1"
+  },
+  {
+    "monto": 206848,
+    "plazo": "2016-02-23 03:03:19",
+    "usuario": "cvidal1"
+  },
+  {
+    "monto": 178652,
+    "plazo": "2016-01-07 16:53:30",
+    "usuario": "scarvajal111"
+  },
+  {
+    "monto": 227909,
+    "plazo": "2016-03-07 04:34:51",
+    "usuario": "btorres"
+  },
+  {
+    "monto": 188539,
+    "plazo": "2016-01-09 04:35:41",
+    "usuario": "scarrasco1"
+  },
+  {
+    "monto": 263013,
+    "plazo": "2016-01-05 09:03:22",
+    "usuario": "stapia"
+  },
+  {
+    "monto": 187471,
+    "plazo": "2016-02-04 16:41:44",
+    "usuario": "acardenas11"
+  },
+  {
+    "monto": 300554,
+    "plazo": "2016-03-10 21:28:16",
+    "usuario": "mgarcia1111111"
+  },
+  {
+    "monto": 186529,
+    "plazo": "2016-01-20 14:25:16",
+    "usuario": "rcarrasco"
+  },
+  {
+    "monto": 283871,
+    "plazo": "2016-02-06 17:42:32",
+    "usuario": "tgutierrez"
+  },
+  {
+    "monto": 245248,
+    "plazo": "2016-01-27 06:24:50",
+    "usuario": "snavarro1"
+  },
+  {
+    "monto": 233857,
+    "plazo": "2016-02-05 16:22:05",
+    "usuario": "rmaldonado1"
+  },
+  {
+    "monto": 234232,
+    "plazo": "2016-02-08 06:27:17",
+    "usuario": "lruiz11111"
+  },
+  {
+    "monto": 146917,
+    "plazo": "2016-02-25 21:30:52",
+    "usuario": "msanhueza111"
+  },
+  {
+    "monto": 199771,
+    "plazo": "2016-03-15 13:05:20",
+    "usuario": "jdavidlopez"
+  },
+  {
+    "monto": 304366,
+    "plazo": "2016-03-13 15:20:51",
+    "usuario": "mcontreras111"
+  },
+  {
+    "monto": 189091,
+    "plazo": "2016-02-13 15:58:48",
+    "usuario": "rguzman"
+  },
+  {
+    "monto": 215224,
+    "plazo": "2016-02-07 01:08:29",
+    "usuario": "jortiz11"
+  },
+  {
+    "monto": 154909,
+    "plazo": "2016-01-30 15:08:18",
+    "usuario": "mmorales111"
+  },
+  {
+    "monto": 268346,
+    "plazo": "2016-01-09 04:46:56",
+    "usuario": "adonoso11"
+  },
+  {
+    "monto": 237180,
+    "plazo": "2016-03-09 14:50:53",
+    "usuario": "mlopez"
+  },
+  {
+    "monto": 313590,
+    "plazo": "2016-01-11 23:20:19",
+    "usuario": "mpizarro11"
+  },
+  {
+    "monto": 172184,
+    "plazo": "2016-01-19 03:33:18",
+    "usuario": "lpoblete1"
+  },
+  {
+    "monto": 197790,
+    "plazo": "2016-02-23 06:57:56",
+    "usuario": "dpino1"
+  },
+  {
+    "monto": 242754,
+    "plazo": "2016-03-04 21:24:37",
+    "usuario": "agutierrez1"
+  },
+  {
+    "monto": 140036,
+    "plazo": "2016-02-03 21:45:12",
+    "usuario": "mguerrero11"
+  },
+  {
+    "monto": 186400,
+    "plazo": "2016-01-14 10:12:24",
+    "usuario": "mleiva11"
+  },
+  {
+    "monto": 169363,
+    "plazo": "2016-01-10 08:44:31",
+    "usuario": "raraya1"
+  },
+  {
+    "monto": 205406,
+    "plazo": "2016-01-20 14:40:32",
+    "usuario": "msaavedra1"
+  },
+  {
+    "monto": 265095,
+    "plazo": "2016-02-20 07:59:51",
+    "usuario": "emedina"
+  },
+  {
+    "monto": 146850,
+    "plazo": "2016-01-28 07:29:23",
+    "usuario": "xthompson"
+  },
+  {
+    "monto": 295340,
+    "plazo": "2016-03-04 13:28:55",
+    "usuario": "agutierrez11"
+  },
+  {
+    "monto": 225016,
+    "plazo": "2016-02-29 15:45:39",
+    "usuario": "jtoro1"
+  },
+  {
+    "monto": 202595,
+    "plazo": "2016-03-02 11:13:37",
+    "usuario": "rcarrasco11"
+  },
+  {
+    "monto": 184918,
+    "plazo": "2016-03-07 12:28:42",
+    "usuario": "jortega11"
+  },
+  {
+    "monto": 252436,
+    "plazo": "2016-01-30 12:08:34",
+    "usuario": "bperez"
+  },
+  {
+    "monto": 295946,
+    "plazo": "2016-01-29 03:30:17",
+    "usuario": "anavarro11111111"
+  },
+  {
+    "monto": 228475,
+    "plazo": "2016-02-02 10:13:20",
+    "usuario": "gwilliams1"
+  },
+  {
+    "monto": 247606,
+    "plazo": "2016-03-10 02:00:38",
+    "usuario": "aescobar1"
+  },
+  {
+    "monto": 283038,
+    "plazo": "2016-01-21 22:56:08",
+    "usuario": "mgarcia1"
+  },
+  {
+    "monto": 130388,
+    "plazo": "2016-01-13 04:29:29",
+    "usuario": "sortiz11"
+  },
+  {
+    "monto": 161532,
+    "plazo": "2016-02-08 01:40:06",
+    "usuario": "lsmith"
+  },
+  {
+    "monto": 278627,
+    "plazo": "2016-03-09 03:10:14",
+    "usuario": "mjimenez"
+  },
+  {
+    "monto": 260122,
+    "plazo": "2016-01-08 17:35:54",
+    "usuario": "mjosefernand"
+  },
+  {
+    "monto": 157644,
+    "plazo": "2016-02-28 03:40:31",
+    "usuario": "mparedes1111111"
+  },
+  {
+    "monto": 317023,
+    "plazo": "2016-01-11 01:19:33",
+    "usuario": "gsaez"
+  },
+  {
+    "monto": 137676,
+    "plazo": "2016-02-10 12:51:44",
+    "usuario": "mparra"
+  },
+  {
+    "monto": 301115,
+    "plazo": "2016-01-29 18:46:26",
+    "usuario": "lsoto"
+  },
+  {
+    "monto": 279416,
+    "plazo": "2016-02-27 17:17:18",
+    "usuario": "sguerrero"
+  },
+  {
+    "monto": 283340,
+    "plazo": "2016-02-19 02:32:26",
+    "usuario": "dalejandroru"
+  },
+  {
+    "monto": 144544,
+    "plazo": "2016-03-13 18:48:35",
+    "usuario": "nnavarrete"
+  },
+  {
+    "monto": 226390,
+    "plazo": "2016-01-29 08:15:03",
+    "usuario": "svega1"
+  },
+  {
+    "monto": 262443,
+    "plazo": "2016-03-15 06:23:15",
+    "usuario": "jtaylor1"
+  },
+  {
+    "monto": 128949,
+    "plazo": "2016-02-01 17:48:24",
+    "usuario": "apatel11111"
+  },
+  {
+    "monto": 186856,
+    "plazo": "2016-03-12 09:04:53",
+    "usuario": "mnavarrete1111"
+  },
+  {
+    "monto": 180377,
+    "plazo": "2016-02-01 01:59:41",
+    "usuario": "jrojas11"
+  },
+  {
+    "monto": 201641,
+    "plazo": "2016-01-25 23:13:36",
+    "usuario": "sromero1"
+  },
+  {
+    "monto": 291964,
+    "plazo": "2016-01-18 14:06:22",
+    "usuario": "msepulveda"
+  },
+  {
+    "monto": 241065,
+    "plazo": "2016-01-01 01:36:27",
+    "usuario": "blagos1"
+  },
+  {
+    "monto": 148301,
+    "plazo": "2016-02-20 13:05:13",
+    "usuario": "rsanchez"
+  },
+  {
+    "monto": 191185,
+    "plazo": "2016-01-19 05:18:42",
+    "usuario": "rvasquez"
+  },
+  {
+    "monto": 301917,
+    "plazo": "2016-01-21 02:21:11",
+    "usuario": "arodriguez111"
+  },
+  {
+    "monto": 211374,
+    "plazo": "2016-01-10 06:18:13",
+    "usuario": "cpatel1"
+  },
+  {
+    "monto": 309688,
+    "plazo": "2016-03-03 19:54:01",
+    "usuario": "lmedina11"
+  },
+  {
+    "monto": 282488,
+    "plazo": "2016-02-05 09:28:46",
+    "usuario": "lmolina111"
+  },
+  {
+    "monto": 157263,
+    "plazo": "2016-01-13 02:15:03",
+    "usuario": "lcortes1"
+  },
+  {
+    "monto": 270255,
+    "plazo": "2016-01-08 20:33:38",
+    "usuario": "molivares111"
+  },
+  {
+    "monto": 207669,
+    "plazo": "2016-01-08 19:15:02",
+    "usuario": "cjones1"
+  },
+  {
+    "monto": 144682,
+    "plazo": "2016-01-08 11:12:07",
+    "usuario": "acaceres1"
+  },
+  {
+    "monto": 239435,
+    "plazo": "2016-01-24 06:42:02",
+    "usuario": "lwong11"
+  },
+  {
+    "monto": 152292,
+    "plazo": "2016-02-02 07:31:09",
+    "usuario": "igarcia1"
+  },
+  {
+    "monto": 217240,
+    "plazo": "2016-02-04 16:21:07",
+    "usuario": "znavarro"
+  },
+  {
+    "monto": 172633,
+    "plazo": "2016-01-23 11:52:08",
+    "usuario": "dolivares"
+  },
+  {
+    "monto": 312406,
+    "plazo": "2016-02-22 13:25:29",
+    "usuario": "jsalinas11"
+  },
+  {
+    "monto": 181090,
+    "plazo": "2016-01-29 21:18:05",
+    "usuario": "xvaldes"
+  },
+  {
+    "monto": 133087,
+    "plazo": "2016-02-14 09:12:17",
+    "usuario": "ljimenez1"
+  },
+  {
+    "monto": 152874,
+    "plazo": "2016-02-13 20:06:34",
+    "usuario": "gfigueroa1"
+  },
+  {
+    "monto": 289778,
+    "plazo": "2016-02-23 18:34:08",
+    "usuario": "imolina11"
+  },
+  {
+    "monto": 258807,
+    "plazo": "2016-03-04 08:38:27",
+    "usuario": "asanmartin111111"
+  },
+  {
+    "monto": 142706,
+    "plazo": "2016-01-28 03:47:28",
+    "usuario": "evega111"
+  },
+  {
+    "monto": 216024,
+    "plazo": "2016-02-28 05:58:47",
+    "usuario": "athompson1111"
+  },
+  {
+    "monto": 171587,
+    "plazo": "2016-03-06 06:31:44",
+    "usuario": "tguerrero"
+  },
+  {
+    "monto": 287422,
+    "plazo": "2016-03-08 10:08:44",
+    "usuario": "cherrera11"
+  },
+  {
+    "monto": 296242,
+    "plazo": "2016-01-06 08:47:44",
+    "usuario": "aalarcon1111"
+  },
+  {
+    "monto": 210015,
+    "plazo": "2016-01-31 22:56:44",
+    "usuario": "rorellana"
+  },
+  {
+    "monto": 223202,
+    "plazo": "2016-02-17 11:20:15",
+    "usuario": "malarcon1"
+  },
+  {
+    "monto": 150352,
+    "plazo": "2016-02-20 00:03:24",
+    "usuario": "vgodoy"
+  },
+  {
+    "monto": 256743,
+    "plazo": "2016-02-07 06:27:51",
+    "usuario": "bhernandez1"
+  },
+  {
+    "monto": 214685,
+    "plazo": "2016-01-11 17:53:13",
+    "usuario": "hparra1"
+  },
+  {
+    "monto": 134502,
+    "plazo": "2016-01-21 03:12:42",
+    "usuario": "vtoro1"
+  },
+  {
+    "monto": 251802,
+    "plazo": "2016-01-26 22:52:52",
+    "usuario": "afelipegarri"
+  },
+  {
+    "monto": 180331,
+    "plazo": "2016-02-21 17:43:46",
+    "usuario": "lcampos1"
+  },
+  {
+    "monto": 198841,
+    "plazo": "2016-02-25 00:32:59",
+    "usuario": "maravena"
+  },
+  {
+    "monto": 262767,
+    "plazo": "2016-03-12 19:54:50",
+    "usuario": "xsanhueza"
+  },
+  {
+    "monto": 273030,
+    "plazo": "2016-03-08 12:38:58",
+    "usuario": "abustos111111"
+  },
+  {
+    "monto": 167018,
+    "plazo": "2016-01-22 04:18:48",
+    "usuario": "mmartinez1"
+  },
+  {
+    "monto": 167077,
+    "plazo": "2016-03-07 07:08:13",
+    "usuario": "jvalenzuela1"
+  },
+  {
+    "monto": 312260,
+    "plazo": "2016-02-19 01:55:50",
+    "usuario": "ecampbell"
+  },
+  {
+    "monto": 302595,
+    "plazo": "2016-01-04 10:35:12",
+    "usuario": "lbravo"
+  },
+  {
+    "monto": 199037,
+    "plazo": "2016-01-08 17:02:06",
+    "usuario": "jlopez11"
+  },
+  {
+    "monto": 271289,
+    "plazo": "2016-01-31 13:23:37",
+    "usuario": "fmartin1"
+  },
+  {
+    "monto": 133252,
+    "plazo": "2016-02-25 05:08:16",
+    "usuario": "mhernandez1111"
+  },
+  {
+    "monto": 257756,
+    "plazo": "2016-02-02 03:11:17",
+    "usuario": "ncastillo"
+  },
+  {
+    "monto": 234830,
+    "plazo": "2016-02-13 06:10:29",
+    "usuario": "rcastro11"
+  },
+  {
+    "monto": 124688,
+    "plazo": "2016-03-10 17:28:28",
+    "usuario": "bruiz1"
+  },
+  {
+    "monto": 203365,
+    "plazo": "2016-01-10 18:27:05",
+    "usuario": "sbustamante1"
+  },
+  {
+    "monto": 293104,
+    "plazo": "2016-01-17 13:58:43",
+    "usuario": "asaez1"
+  },
+  {
+    "monto": 310279,
+    "plazo": "2016-02-02 00:34:48",
+    "usuario": "mrodriguez111"
+  },
+  {
+    "monto": 260137,
+    "plazo": "2016-03-06 01:07:13",
+    "usuario": "jsaez11"
+  },
+  {
+    "monto": 218157,
+    "plazo": "2016-03-14 20:53:06",
+    "usuario": "lnavarrete11"
+  },
+  {
+    "monto": 257926,
+    "plazo": "2016-01-31 09:22:36",
+    "usuario": "mcastillo111"
+  },
+  {
+    "monto": 272415,
+    "plazo": "2016-01-03 06:38:28",
+    "usuario": "pleiva"
+  },
+  {
+    "monto": 209082,
+    "plazo": "2016-02-02 20:47:28",
+    "usuario": "jleiva"
+  },
+  {
+    "monto": 129287,
+    "plazo": "2016-02-28 17:53:19",
+    "usuario": "jthompson11"
+  },
+  {
+    "monto": 273729,
+    "plazo": "2016-02-16 10:57:31",
+    "usuario": "pperez"
+  },
+  {
+    "monto": 222123,
+    "plazo": "2016-03-06 11:03:36",
+    "usuario": "ajones1"
+  },
+  {
+    "monto": 228799,
+    "plazo": "2016-02-05 13:58:57",
+    "usuario": "ssmith1"
+  },
+  {
+    "monto": 233703,
+    "plazo": "2016-01-23 05:54:32",
+    "usuario": "scaceres11"
+  },
+  {
+    "monto": 296851,
+    "plazo": "2016-02-27 13:13:45",
+    "usuario": "ivasquez"
+  },
+  {
+    "monto": 204609,
+    "plazo": "2016-03-15 00:54:04",
+    "usuario": "dpatel"
+  },
+  {
+    "monto": 129137,
+    "plazo": "2016-01-17 20:03:08",
+    "usuario": "vgarrido111"
+  },
+  {
+    "monto": 181654,
+    "plazo": "2016-02-17 23:06:51",
+    "usuario": "ptorres"
+  },
+  {
+    "monto": 229042,
+    "plazo": "2016-02-22 14:00:09",
+    "usuario": "vcardenas1"
+  },
+  {
+    "monto": 198684,
+    "plazo": "2016-01-30 06:50:45",
+    "usuario": "cwilson"
+  },
+  {
+    "monto": 216939,
+    "plazo": "2016-02-11 15:17:31",
+    "usuario": "ecortes"
+  },
+  {
+    "monto": 301946,
+    "plazo": "2016-01-14 11:36:36",
+    "usuario": "mnavarrete1"
+  },
+  {
+    "monto": 259530,
+    "plazo": "2016-02-04 08:05:49",
+    "usuario": "cpoblete11"
+  },
+  {
+    "monto": 233440,
+    "plazo": "2016-01-12 13:40:15",
+    "usuario": "jsepulveda"
+  },
+  {
+    "monto": 230696,
+    "plazo": "2016-01-21 20:49:43",
+    "usuario": "amartinez1111111"
+  },
+  {
+    "monto": 152265,
+    "plazo": "2016-01-16 08:25:39",
+    "usuario": "apino11"
+  },
+  {
+    "monto": 176505,
+    "plazo": "2016-01-05 19:27:20",
+    "usuario": "jsaez1"
+  },
+  {
+    "monto": 221532,
+    "plazo": "2016-03-03 17:35:28",
+    "usuario": "lpalma1"
+  },
+  {
+    "monto": 165769,
+    "plazo": "2016-02-14 08:20:26",
+    "usuario": "iramirez"
+  },
+  {
+    "monto": 240030,
+    "plazo": "2016-01-08 13:36:07",
+    "usuario": "salvarado11"
+  },
+  {
+    "monto": 154780,
+    "plazo": "2016-01-05 04:05:10",
+    "usuario": "hcastillo"
+  },
+  {
+    "monto": 200535,
+    "plazo": "2016-02-29 00:22:21",
+    "usuario": "rsoto"
+  },
+  {
+    "monto": 164102,
+    "plazo": "2016-02-05 19:46:51",
+    "usuario": "sbustamante"
+  },
+  {
+    "monto": 309062,
+    "plazo": "2016-02-27 00:21:15",
+    "usuario": "jthompson1"
+  },
+  {
+    "monto": 155695,
+    "plazo": "2016-02-15 22:45:03",
+    "usuario": "mwilson1"
+  },
+  {
+    "monto": 132914,
+    "plazo": "2016-02-29 06:09:20",
+    "usuario": "lcardenas111"
+  },
+  {
+    "monto": 156354,
+    "plazo": "2016-03-14 10:23:26",
+    "usuario": "rsoto111"
+  },
+  {
+    "monto": 135350,
+    "plazo": "2016-01-27 08:47:39",
+    "usuario": "jfarias1"
+  },
+  {
+    "monto": 151566,
+    "plazo": "2016-01-27 13:20:56",
+    "usuario": "dfarias1"
+  },
+  {
+    "monto": 197528,
+    "plazo": "2016-01-01 20:49:38",
+    "usuario": "bleiva1"
+  },
+  {
+    "monto": 132471,
+    "plazo": "2016-03-03 23:25:54",
+    "usuario": "jvera"
+  },
+  {
+    "monto": 235208,
+    "plazo": "2016-02-17 10:41:55",
+    "usuario": "bjones"
+  },
+  {
+    "monto": 293484,
+    "plazo": "2016-02-11 01:01:36",
+    "usuario": "jmiranda1"
+  },
+  {
+    "monto": 171395,
+    "plazo": "2016-02-01 21:19:00",
+    "usuario": "dvega"
+  },
+  {
+    "monto": 169979,
+    "plazo": "2016-03-08 16:37:38",
+    "usuario": "mjones1111"
+  },
+  {
+    "monto": 299020,
+    "plazo": "2016-02-22 22:19:24",
+    "usuario": "mjoseherrera"
+  },
+  {
+    "monto": 286456,
+    "plazo": "2016-02-12 15:49:15",
+    "usuario": "adiaz11111"
+  },
+  {
+    "monto": 222451,
+    "plazo": "2016-01-22 16:29:40",
+    "usuario": "lvalenzuela"
+  },
+  {
+    "monto": 222090,
+    "plazo": "2016-01-29 15:52:31",
+    "usuario": "smedina1"
+  },
+  {
+    "monto": 273179,
+    "plazo": "2016-01-15 17:45:41",
+    "usuario": "haravena"
+  },
+  {
+    "monto": 258153,
+    "plazo": "2016-02-18 11:03:09",
+    "usuario": "psaez"
+  },
+  {
+    "monto": 289709,
+    "plazo": "2016-01-24 05:02:15",
+    "usuario": "respinoza1"
+  },
+  {
+    "monto": 252475,
+    "plazo": "2016-03-14 07:55:41",
+    "usuario": "mromero111"
+  },
+  {
+    "monto": 148821,
+    "plazo": "2016-02-04 13:03:19",
+    "usuario": "avargas111"
+  },
+  {
+    "monto": 126995,
+    "plazo": "2016-03-12 08:46:23",
+    "usuario": "mortiz1111"
+  },
+  {
+    "monto": 258849,
+    "plazo": "2016-02-05 21:14:08",
+    "usuario": "mjones111111"
+  },
+  {
+    "monto": 296253,
+    "plazo": "2016-02-24 01:14:49",
+    "usuario": "smorales"
+  },
+  {
+    "monto": 271127,
+    "plazo": "2016-01-12 10:36:10",
+    "usuario": "ejones"
+  },
+  {
+    "monto": 144760,
+    "plazo": "2016-03-02 17:01:46",
+    "usuario": "aespinoza111"
+  },
+  {
+    "monto": 237690,
+    "plazo": "2016-02-05 21:10:32",
+    "usuario": "nlagos"
+  },
+  {
+    "monto": 166311,
+    "plazo": "2016-03-08 03:37:21",
+    "usuario": "aleiva1"
+  },
+  {
+    "monto": 154059,
+    "plazo": "2016-02-22 02:56:15",
+    "usuario": "cvergara1"
+  },
+  {
+    "monto": 138390,
+    "plazo": "2016-02-14 17:21:13",
+    "usuario": "xlee"
+  },
+  {
+    "monto": 260491,
+    "plazo": "2016-02-19 07:11:54",
+    "usuario": "alopez1"
+  },
+  {
+    "monto": 152106,
+    "plazo": "2016-01-13 16:37:56",
+    "usuario": "oalvarado"
+  },
+  {
+    "monto": 279340,
+    "plazo": "2016-01-29 05:56:11",
+    "usuario": "cbustamante"
+  },
+  {
+    "monto": 212934,
+    "plazo": "2016-02-11 23:04:22",
+    "usuario": "mvalenzuela1"
+  },
+  {
+    "monto": 180948,
+    "plazo": "2016-03-06 20:47:15",
+    "usuario": "hgallardo"
+  },
+  {
+    "monto": 196396,
+    "plazo": "2016-02-13 00:02:57",
+    "usuario": "frodriguez"
+  },
+  {
+    "monto": 176074,
+    "plazo": "2016-02-04 11:42:34",
+    "usuario": "egallardo11"
+  },
+  {
+    "monto": 150400,
+    "plazo": "2016-02-21 23:00:54",
+    "usuario": "rthompson"
+  },
+  {
+    "monto": 185817,
+    "plazo": "2016-02-27 23:45:47",
+    "usuario": "sgonzalez11"
+  },
+  {
+    "monto": 171158,
+    "plazo": "2016-02-07 10:35:38",
+    "usuario": "jguerrero"
+  },
+  {
+    "monto": 235018,
+    "plazo": "2016-01-26 20:23:13",
+    "usuario": "spalma1"
+  },
+  {
+    "monto": 255644,
+    "plazo": "2016-01-08 05:41:33",
+    "usuario": "lvenegas11"
+  },
+  {
+    "monto": 237607,
+    "plazo": "2016-01-09 10:06:49",
+    "usuario": "mdiaz1111"
+  },
+  {
+    "monto": 131903,
+    "plazo": "2016-02-21 11:00:48",
+    "usuario": "jgomez11"
+  },
+  {
+    "monto": 131704,
+    "plazo": "2016-02-04 18:12:28",
+    "usuario": "arivera11"
+  },
+  {
+    "monto": 240163,
+    "plazo": "2016-02-16 14:28:15",
+    "usuario": "acortes11"
+  },
+  {
+    "monto": 125564,
+    "plazo": "2016-03-10 14:32:05",
+    "usuario": "tmiranda"
+  },
+  {
+    "monto": 239368,
+    "plazo": "2016-01-01 06:57:54",
+    "usuario": "malvarez"
+  },
+  {
+    "monto": 302619,
+    "plazo": "2016-01-26 03:00:28",
+    "usuario": "vmorales"
+  },
+  {
+    "monto": 261705,
+    "plazo": "2016-01-06 19:06:17",
+    "usuario": "lsanchez1"
+  },
+  {
+    "monto": 250943,
+    "plazo": "2016-02-28 10:00:40",
+    "usuario": "dalejandrobu1"
+  },
+  {
+    "monto": 302518,
+    "plazo": "2016-02-20 06:32:38",
+    "usuario": "ecampbell1"
+  },
+  {
+    "monto": 126664,
+    "plazo": "2016-01-25 21:13:57",
+    "usuario": "fortega1"
+  },
+  {
+    "monto": 139022,
+    "plazo": "2016-02-18 22:53:12",
+    "usuario": "talvarez"
+  },
+  {
+    "monto": 315813,
+    "plazo": "2016-03-14 11:46:26",
+    "usuario": "xnavarro"
+  },
+  {
+    "monto": 176472,
+    "plazo": "2016-02-18 19:56:13",
+    "usuario": "jsilva"
+  },
+  {
+    "monto": 138424,
+    "plazo": "2016-03-14 10:04:05",
+    "usuario": "cguerrero111"
+  },
+  {
+    "monto": 225479,
+    "plazo": "2016-02-15 05:02:03",
+    "usuario": "iguerrero1"
+  },
+  {
+    "monto": 154670,
+    "plazo": "2016-03-01 10:05:45",
+    "usuario": "rwilliams"
+  },
+  {
+    "monto": 229107,
+    "plazo": "2016-01-05 20:42:04",
+    "usuario": "fwilliams"
+  },
+  {
+    "monto": 133281,
+    "plazo": "2016-01-22 05:24:30",
+    "usuario": "mwilliams11"
+  },
+  {
+    "monto": 127856,
+    "plazo": "2016-02-19 00:18:08",
+    "usuario": "hsoto"
+  },
+  {
+    "monto": 202355,
+    "plazo": "2016-03-05 19:08:31",
+    "usuario": "vbrown1"
+  },
+  {
+    "monto": 173127,
+    "plazo": "2016-02-29 05:46:43",
+    "usuario": "amiranda1"
+  },
+  {
+    "monto": 211455,
+    "plazo": "2016-02-06 17:02:28",
+    "usuario": "jpatel"
+  },
+  {
+    "monto": 237334,
+    "plazo": "2016-03-02 23:46:51",
+    "usuario": "dalejandropi1"
+  },
+  {
+    "monto": 194774,
+    "plazo": "2016-03-05 04:01:34",
+    "usuario": "aherrera11111"
+  },
+  {
+    "monto": 228778,
+    "plazo": "2016-02-29 08:46:21",
+    "usuario": "acampbell"
+  },
+  {
+    "monto": 177252,
+    "plazo": "2016-03-04 04:32:01",
+    "usuario": "mcardenas1111"
+  },
+  {
+    "monto": 230434,
+    "plazo": "2016-01-28 20:00:04",
+    "usuario": "vbravo"
+  },
+  {
+    "monto": 127863,
+    "plazo": "2016-02-21 16:40:13",
+    "usuario": "rromero"
+  },
+  {
+    "monto": 168977,
+    "plazo": "2016-02-20 13:01:15",
+    "usuario": "kalarcon"
+  },
+  {
+    "monto": 264979,
+    "plazo": "2016-03-07 05:04:25",
+    "usuario": "shenriquez1"
+  },
+  {
+    "monto": 217466,
+    "plazo": "2016-03-03 02:32:48",
+    "usuario": "dalejandroco"
+  },
+  {
+    "monto": 292475,
+    "plazo": "2016-01-28 10:15:42",
+    "usuario": "acontreras1"
+  },
+  {
+    "monto": 263554,
+    "plazo": "2016-03-03 20:02:10",
+    "usuario": "cleiva"
+  },
+  {
+    "monto": 207426,
+    "plazo": "2016-01-28 17:24:36",
+    "usuario": "ralarcon11"
+  },
+  {
+    "monto": 267035,
+    "plazo": "2016-01-11 14:46:31",
+    "usuario": "brodriguez1"
+  },
+  {
+    "monto": 225519,
+    "plazo": "2016-01-11 10:05:05",
+    "usuario": "awong11111"
+  },
+  {
+    "monto": 256647,
+    "plazo": "2016-02-25 01:54:19",
+    "usuario": "apaulalagos"
+  },
+  {
+    "monto": 163708,
+    "plazo": "2016-01-21 15:43:22",
+    "usuario": "jandrespared"
+  },
+  {
+    "monto": 139310,
+    "plazo": "2016-03-10 18:56:45",
+    "usuario": "agallardo11"
+  },
+  {
+    "monto": 260699,
+    "plazo": "2016-02-26 00:37:15",
+    "usuario": "jjimenez1"
+  },
+  {
+    "monto": 208071,
+    "plazo": "2016-02-05 17:18:02",
+    "usuario": "gfarias"
+  },
+  {
+    "monto": 265880,
+    "plazo": "2016-02-14 20:35:40",
+    "usuario": "ltapia1111"
+  },
+  {
+    "monto": 313328,
+    "plazo": "2016-01-25 09:49:28",
+    "usuario": "dalejandrosa111"
+  },
+  {
+    "monto": 280955,
+    "plazo": "2016-01-11 19:26:38",
+    "usuario": "jmaldonado"
+  },
+  {
+    "monto": 184846,
+    "plazo": "2016-01-28 15:43:22",
+    "usuario": "ltoro1"
+  },
+  {
+    "monto": 195176,
+    "plazo": "2016-02-02 00:10:51",
+    "usuario": "bnavarrete1"
+  },
+  {
+    "monto": 239518,
+    "plazo": "2016-02-17 02:17:17",
+    "usuario": "lcortes11"
+  },
+  {
+    "monto": 263991,
+    "plazo": "2016-03-10 21:09:25",
+    "usuario": "zleiva"
+  },
+  {
+    "monto": 281643,
+    "plazo": "2016-02-21 07:36:57",
+    "usuario": "jmartinez1111"
+  },
+  {
+    "monto": 164461,
+    "plazo": "2016-02-21 09:10:49",
+    "usuario": "amedina11"
+  },
+  {
+    "monto": 225727,
+    "plazo": "2016-03-01 17:44:04",
+    "usuario": "sespinoza1111"
+  },
+  {
+    "monto": 185883,
+    "plazo": "2016-02-21 20:24:41",
+    "usuario": "emoreno11"
+  },
+  {
+    "monto": 192807,
+    "plazo": "2016-01-01 13:55:00",
+    "usuario": "svergara1"
+  },
+  {
+    "monto": 257228,
+    "plazo": "2016-01-04 02:43:52",
+    "usuario": "cnavarro"
+  },
+  {
+    "monto": 235249,
+    "plazo": "2016-01-06 15:03:18",
+    "usuario": "apino"
+  },
+  {
+    "monto": 276154,
+    "plazo": "2016-01-07 23:37:51",
+    "usuario": "jbrown1111"
+  },
+  {
+    "monto": 292283,
+    "plazo": "2016-02-08 16:50:43",
+    "usuario": "msmith11111"
+  },
+  {
+    "monto": 133109,
+    "plazo": "2016-03-07 22:05:18",
+    "usuario": "mmedina11"
+  },
+  {
+    "monto": 162406,
+    "plazo": "2016-01-09 18:34:16",
+    "usuario": "zlagos"
+  },
+  {
+    "monto": 142507,
+    "plazo": "2016-02-14 11:43:48",
+    "usuario": "erivera"
+  },
+  {
+    "monto": 223296,
+    "plazo": "2016-01-11 19:29:06",
+    "usuario": "asoto"
+  },
+  {
+    "monto": 285528,
+    "plazo": "2016-01-06 00:29:48",
+    "usuario": "jcontreras111"
+  },
+  {
+    "monto": 214352,
+    "plazo": "2016-01-19 11:29:15",
+    "usuario": "bnavarrete11"
+  },
+  {
+    "monto": 236022,
+    "plazo": "2016-01-11 15:27:14",
+    "usuario": "enavarrete"
+  },
+  {
+    "monto": 262096,
+    "plazo": "2016-02-29 09:38:15",
+    "usuario": "aparedes111"
+  },
+  {
+    "monto": 213053,
+    "plazo": "2016-03-15 11:45:06",
+    "usuario": "sfernandez1"
+  },
+  {
+    "monto": 169291,
+    "plazo": "2016-03-12 20:25:42",
+    "usuario": "ecastillo11"
+  },
+  {
+    "monto": 219564,
+    "plazo": "2016-01-01 12:49:21",
+    "usuario": "dalvarez1"
+  },
+  {
+    "monto": 249621,
+    "plazo": "2016-01-24 01:32:39",
+    "usuario": "avera111111"
+  },
+  {
+    "monto": 189727,
+    "plazo": "2016-01-24 04:07:11",
+    "usuario": "vcampos"
+  },
+  {
+    "monto": 132989,
+    "plazo": "2016-01-25 12:19:46",
+    "usuario": "jsanhueza"
+  },
+  {
+    "monto": 143946,
+    "plazo": "2016-02-19 14:04:52",
+    "usuario": "bwilliams"
+  },
+  {
+    "monto": 126978,
+    "plazo": "2016-02-17 14:28:40",
+    "usuario": "idiaz"
+  },
+  {
+    "monto": 289643,
+    "plazo": "2016-01-30 21:49:40",
+    "usuario": "dgodoy1"
+  },
+  {
+    "monto": 191411,
+    "plazo": "2016-01-17 16:34:36",
+    "usuario": "cruiz"
+  },
+  {
+    "monto": 203407,
+    "plazo": "2016-01-12 08:54:16",
+    "usuario": "kaguilera"
+  },
+  {
+    "monto": 256009,
+    "plazo": "2016-01-23 13:30:40",
+    "usuario": "ngallardo"
+  },
+  {
+    "monto": 196184,
+    "plazo": "2016-02-22 12:30:48",
+    "usuario": "ajara1111"
+  },
+  {
+    "monto": 162249,
+    "plazo": "2016-03-09 09:26:08",
+    "usuario": "jjosebrown"
+  },
+  {
+    "monto": 234713,
+    "plazo": "2016-02-07 04:39:59",
+    "usuario": "cvera1"
+  },
+  {
+    "monto": 317875,
+    "plazo": "2016-01-11 00:18:56",
+    "usuario": "dfuentes11"
+  },
+  {
+    "monto": 151998,
+    "plazo": "2016-01-29 13:39:37",
+    "usuario": "eherrera"
+  },
+  {
+    "monto": 215696,
+    "plazo": "2016-02-06 07:43:11",
+    "usuario": "ghernandez1"
+  },
+  {
+    "monto": 264995,
+    "plazo": "2016-01-13 11:05:19",
+    "usuario": "lsilva"
+  },
+  {
+    "monto": 215481,
+    "plazo": "2016-01-14 23:46:12",
+    "usuario": "agonzalez"
+  },
+  {
+    "monto": 136635,
+    "plazo": "2016-01-29 04:54:37",
+    "usuario": "mfuentes111"
+  },
+  {
+    "monto": 275187,
+    "plazo": "2016-01-02 23:11:01",
+    "usuario": "jnavarrete1"
+  },
+  {
+    "monto": 157793,
+    "plazo": "2016-02-26 13:50:29",
+    "usuario": "agodoy"
+  },
+  {
+    "monto": 143796,
+    "plazo": "2016-02-06 08:14:12",
+    "usuario": "pmoreno"
+  },
+  {
+    "monto": 315027,
+    "plazo": "2016-02-06 19:43:48",
+    "usuario": "msanhueza1111"
+  },
+  {
+    "monto": 263701,
+    "plazo": "2016-02-24 11:17:19",
+    "usuario": "pramirez"
+  },
+  {
+    "monto": 226616,
+    "plazo": "2016-01-26 15:17:24",
+    "usuario": "obustos"
+  },
+  {
+    "monto": 184683,
+    "plazo": "2016-01-20 13:31:39",
+    "usuario": "afelipesilva"
+  },
+  {
+    "monto": 212170,
+    "plazo": "2016-02-10 10:50:17",
+    "usuario": "scampbell1111"
+  },
+  {
+    "monto": 149742,
+    "plazo": "2016-02-13 11:35:28",
+    "usuario": "daraya1"
+  },
+  {
+    "monto": 309724,
+    "plazo": "2016-01-30 10:21:47",
+    "usuario": "mcampos1111"
+  },
+  {
+    "monto": 221720,
+    "plazo": "2016-03-02 09:32:10",
+    "usuario": "jsanchez111"
+  },
+  {
+    "monto": 233581,
+    "plazo": "2016-02-07 15:21:08",
+    "usuario": "jandresreyes"
+  },
+  {
+    "monto": 184957,
+    "plazo": "2016-01-12 09:11:19",
+    "usuario": "mhernandez11"
+  },
+  {
+    "monto": 241422,
+    "plazo": "2016-01-23 09:45:26",
+    "usuario": "rmiranda"
+  },
+  {
+    "monto": 232852,
+    "plazo": "2016-01-17 19:50:16",
+    "usuario": "hsaavedra"
+  },
+  {
+    "monto": 263407,
+    "plazo": "2016-02-22 09:05:38",
+    "usuario": "mcortes1111"
+  },
+  {
+    "monto": 211359,
+    "plazo": "2016-01-23 12:41:48",
+    "usuario": "gpatel1"
+  },
+  {
+    "monto": 274350,
+    "plazo": "2016-01-19 14:23:58",
+    "usuario": "aflores"
+  },
+  {
+    "monto": 188624,
+    "plazo": "2016-01-27 12:06:52",
+    "usuario": "lwong1"
+  },
+  {
+    "monto": 286028,
+    "plazo": "2016-02-11 10:22:30",
+    "usuario": "icampbell1"
+  },
+  {
+    "monto": 179778,
+    "plazo": "2016-02-11 19:49:44",
+    "usuario": "mfigueroa"
+  },
+  {
+    "monto": 179430,
+    "plazo": "2016-01-16 01:32:05",
+    "usuario": "amartinez11111"
+  },
+  {
+    "monto": 147187,
+    "plazo": "2016-01-27 14:20:55",
+    "usuario": "mbustos1111"
+  },
+  {
+    "monto": 164548,
+    "plazo": "2016-01-25 12:22:06",
+    "usuario": "fpino1"
+  },
+  {
+    "monto": 225082,
+    "plazo": "2016-02-11 01:33:49",
+    "usuario": "maguilera1"
+  },
+  {
+    "monto": 209522,
+    "plazo": "2016-01-05 02:56:16",
+    "usuario": "caraya1"
+  },
+  {
+    "monto": 140244,
+    "plazo": "2016-02-25 04:04:37",
+    "usuario": "gruiz"
+  },
+  {
+    "monto": 269460,
+    "plazo": "2016-02-25 06:14:36",
+    "usuario": "alopez"
+  },
+  {
+    "monto": 185749,
+    "plazo": "2016-02-09 00:22:46",
+    "usuario": "mortega111"
+  },
+  {
+    "monto": 154178,
+    "plazo": "2016-03-05 21:10:44",
+    "usuario": "itaylor1"
+  },
+  {
+    "monto": 282069,
+    "plazo": "2016-03-02 06:24:33",
+    "usuario": "flopez1"
+  },
+  {
+    "monto": 306619,
+    "plazo": "2016-02-10 18:04:00",
+    "usuario": "jherrera1"
+  },
+  {
+    "monto": 214730,
+    "plazo": "2016-02-19 13:50:25",
+    "usuario": "eorellana"
+  },
+  {
+    "monto": 240572,
+    "plazo": "2016-03-03 18:36:11",
+    "usuario": "scampos111"
+  },
+  {
+    "monto": 308829,
+    "plazo": "2016-03-11 19:56:17",
+    "usuario": "salvarez1"
+  },
+  {
+    "monto": 306468,
+    "plazo": "2016-03-15 05:06:39",
+    "usuario": "malarcon"
+  },
+  {
+    "monto": 188068,
+    "plazo": "2016-01-29 00:36:39",
+    "usuario": "acarrasco111"
+  },
+  {
+    "monto": 248909,
+    "plazo": "2016-01-21 20:55:55",
+    "usuario": "nwong"
+  },
+  {
+    "monto": 154908,
+    "plazo": "2016-01-15 08:21:11",
+    "usuario": "znavarrete"
+  },
+  {
+    "monto": 223514,
+    "plazo": "2016-02-01 06:22:00",
+    "usuario": "acampbell111111"
+  },
+  {
+    "monto": 184946,
+    "plazo": "2016-01-09 00:44:16",
+    "usuario": "llopez"
+  },
+  {
+    "monto": 191766,
+    "plazo": "2016-01-06 02:49:36",
+    "usuario": "rvergara1"
+  },
+  {
+    "monto": 228965,
+    "plazo": "2016-01-22 05:41:45",
+    "usuario": "jdavidmartin"
+  },
+  {
+    "monto": 156423,
+    "plazo": "2016-02-26 16:19:38",
+    "usuario": "fjara1"
+  },
+  {
+    "monto": 271606,
+    "plazo": "2016-02-02 11:20:17",
+    "usuario": "dalejandrosa1"
+  },
+  {
+    "monto": 149814,
+    "plazo": "2016-03-08 07:19:13",
+    "usuario": "jjosegarrido"
+  },
+  {
+    "monto": 234079,
+    "plazo": "2016-03-06 15:15:11",
+    "usuario": "malvarado"
+  },
+  {
+    "monto": 247457,
+    "plazo": "2016-01-06 05:28:49",
+    "usuario": "acardenas1111"
+  },
+  {
+    "monto": 221484,
+    "plazo": "2016-01-31 13:40:06",
+    "usuario": "bvalenzuela1"
+  },
+  {
+    "monto": 192623,
+    "plazo": "2016-01-24 00:53:50",
+    "usuario": "amolina1111111"
+  },
+  {
+    "monto": 225991,
+    "plazo": "2016-02-11 12:10:05",
+    "usuario": "dalejandrove1"
+  },
+  {
+    "monto": 154778,
+    "plazo": "2016-01-25 13:00:29",
+    "usuario": "jrojas"
+  },
+  {
+    "monto": 232722,
+    "plazo": "2016-02-05 08:28:45",
+    "usuario": "agodoy11"
+  },
+  {
+    "monto": 268040,
+    "plazo": "2016-01-07 09:57:31",
+    "usuario": "evera"
+  },
+  {
+    "monto": 133167,
+    "plazo": "2016-02-24 10:00:03",
+    "usuario": "esepulveda"
+  },
+  {
+    "monto": 165009,
+    "plazo": "2016-01-03 10:43:43",
+    "usuario": "icastro"
+  },
+  {
+    "monto": 307931,
+    "plazo": "2016-01-01 00:41:20",
+    "usuario": "jruiz1"
+  },
+  {
+    "monto": 274361,
+    "plazo": "2016-01-09 21:33:24",
+    "usuario": "sbustos111"
+  },
+  {
+    "monto": 196643,
+    "plazo": "2016-02-14 00:54:12",
+    "usuario": "hpatel"
+  },
+  {
+    "monto": 138109,
+    "plazo": "2016-01-09 11:51:26",
+    "usuario": "mvargas11"
+  },
+  {
+    "monto": 136274,
+    "plazo": "2016-02-09 01:51:41",
+    "usuario": "acortes11111"
+  },
+  {
+    "monto": 271571,
+    "plazo": "2016-02-02 17:17:25",
+    "usuario": "cjones"
+  },
+  {
+    "monto": 196319,
+    "plazo": "2016-02-01 07:40:04",
+    "usuario": "pnavarrete"
+  },
+  {
+    "monto": 204530,
+    "plazo": "2016-01-24 19:32:45",
+    "usuario": "spino"
+  },
+  {
+    "monto": 291823,
+    "plazo": "2016-03-11 18:26:39",
+    "usuario": "ejara"
+  },
+  {
+    "monto": 308258,
+    "plazo": "2016-03-09 17:38:37",
+    "usuario": "jcaceres1"
+  },
+  {
+    "monto": 148631,
+    "plazo": "2016-01-02 07:16:43",
+    "usuario": "avergara1"
+  },
+  {
+    "monto": 176096,
+    "plazo": "2016-01-02 01:16:33",
+    "usuario": "jvalenzuela1111"
+  },
+  {
+    "monto": 292283,
+    "plazo": "2016-01-17 14:06:47",
+    "usuario": "apoblete1"
+  },
+  {
+    "monto": 125600,
+    "plazo": "2016-03-05 22:48:34",
+    "usuario": "amartin1"
+  },
+  {
+    "monto": 309429,
+    "plazo": "2016-02-18 15:03:22",
+    "usuario": "acontreras11111"
+  },
+  {
+    "monto": 274557,
+    "plazo": "2016-02-13 21:18:07",
+    "usuario": "vnavarrete1"
+  },
+  {
+    "monto": 245959,
+    "plazo": "2016-03-06 08:47:36",
+    "usuario": "avaldes111"
+  },
+  {
+    "monto": 218815,
+    "plazo": "2016-02-15 14:23:16",
+    "usuario": "clagos"
+  },
+  {
+    "monto": 175540,
+    "plazo": "2016-02-04 10:59:55",
+    "usuario": "psanhueza"
+  },
+  {
+    "monto": 221197,
+    "plazo": "2016-01-07 02:23:01",
+    "usuario": "cmolina1"
+  },
+  {
+    "monto": 238225,
+    "plazo": "2016-01-15 15:25:39",
+    "usuario": "vfernandez1"
+  },
+  {
+    "monto": 142105,
+    "plazo": "2016-02-18 09:42:09",
+    "usuario": "aolivares1"
+  },
+  {
+    "monto": 175844,
+    "plazo": "2016-02-08 01:04:02",
+    "usuario": "mpoblete1111"
+  },
+  {
+    "monto": 178332,
+    "plazo": "2016-01-25 23:55:21",
+    "usuario": "smartinez"
+  },
+  {
+    "monto": 182247,
+    "plazo": "2016-02-21 15:47:31",
+    "usuario": "acampos"
+  },
+  {
+    "monto": 129957,
+    "plazo": "2016-01-29 06:04:16",
+    "usuario": "fvergara1"
+  },
+  {
+    "monto": 147341,
+    "plazo": "2016-01-13 11:01:09",
+    "usuario": "mfarias111"
+  },
+  {
+    "monto": 172896,
+    "plazo": "2016-01-02 12:07:08",
+    "usuario": "svaldes1"
+  },
+  {
+    "monto": 293364,
+    "plazo": "2016-01-04 20:44:15",
+    "usuario": "sruiz"
+  },
+  {
+    "monto": 175686,
+    "plazo": "2016-01-15 19:49:55",
+    "usuario": "jcardenas1"
+  },
+  {
+    "monto": 165916,
+    "plazo": "2016-02-27 22:28:28",
+    "usuario": "vmiranda"
+  },
+  {
+    "monto": 197752,
+    "plazo": "2016-02-20 03:56:51",
+    "usuario": "tespinoza"
+  },
+  {
+    "monto": 264028,
+    "plazo": "2016-01-28 12:48:57",
+    "usuario": "dalejandroca111"
+  },
+  {
+    "monto": 222842,
+    "plazo": "2016-03-14 03:16:33",
+    "usuario": "apino1"
+  },
+  {
+    "monto": 199430,
+    "plazo": "2016-02-12 10:02:16",
+    "usuario": "jsilva11"
+  },
+  {
+    "monto": 197032,
+    "plazo": "2016-01-05 16:01:32",
+    "usuario": "amaldonado1"
+  },
+  {
+    "monto": 224805,
+    "plazo": "2016-01-28 13:14:11",
+    "usuario": "amolina111"
+  },
+  {
+    "monto": 293806,
+    "plazo": "2016-02-13 16:32:07",
+    "usuario": "mlagos"
+  },
+  {
+    "monto": 189795,
+    "plazo": "2016-03-01 03:01:44",
+    "usuario": "icampbell11"
+  },
+  {
+    "monto": 138413,
+    "plazo": "2016-02-13 22:26:11",
+    "usuario": "ajones111"
+  },
+  {
+    "monto": 269220,
+    "plazo": "2016-01-28 05:14:33",
+    "usuario": "jdavidrojas"
+  },
+  {
+    "monto": 204705,
+    "plazo": "2016-01-09 16:04:15",
+    "usuario": "rvaldes"
+  },
+  {
+    "monto": 290594,
+    "plazo": "2016-01-28 20:14:24",
+    "usuario": "mgonzalez11"
+  },
+  {
+    "monto": 170709,
+    "plazo": "2016-01-26 01:06:13",
+    "usuario": "msaavedra"
+  },
+  {
+    "monto": 184106,
+    "plazo": "2016-01-30 23:45:55",
+    "usuario": "msalinas1"
+  },
+  {
+    "monto": 204813,
+    "plazo": "2016-02-13 01:08:30",
+    "usuario": "dguerrero1"
+  },
+  {
+    "monto": 180164,
+    "plazo": "2016-02-20 22:41:15",
+    "usuario": "vthompson"
+  },
+  {
+    "monto": 127863,
+    "plazo": "2016-01-29 03:00:29",
+    "usuario": "crojas11"
+  },
+  {
+    "monto": 159079,
+    "plazo": "2016-01-07 20:47:09",
+    "usuario": "jmaldonado11"
+  },
+  {
+    "monto": 309109,
+    "plazo": "2016-03-04 02:51:39",
+    "usuario": "dalejandroar"
+  },
+  {
+    "monto": 222720,
+    "plazo": "2016-01-22 07:37:58",
+    "usuario": "ejimenez"
+  },
+  {
+    "monto": 287915,
+    "plazo": "2016-03-02 20:17:07",
+    "usuario": "cpatel11"
+  },
+  {
+    "monto": 133896,
+    "plazo": "2016-01-19 04:47:03",
+    "usuario": "asanhueza111"
+  },
+  {
+    "monto": 175765,
+    "plazo": "2016-02-14 18:45:44",
+    "usuario": "sorellana1"
+  },
+  {
+    "monto": 239355,
+    "plazo": "2016-02-01 00:04:23",
+    "usuario": "dalvarado"
+  },
+  {
+    "monto": 140400,
+    "plazo": "2016-02-15 14:34:49",
+    "usuario": "rmolina11"
+  },
+  {
+    "monto": 302081,
+    "plazo": "2016-02-24 02:46:31",
+    "usuario": "epino"
+  },
+  {
+    "monto": 232605,
+    "plazo": "2016-01-15 11:06:51",
+    "usuario": "asilva1"
+  },
+  {
+    "monto": 206846,
+    "plazo": "2016-02-26 11:49:13",
+    "usuario": "bhernandez"
+  },
+  {
+    "monto": 193019,
+    "plazo": "2016-01-26 20:31:01",
+    "usuario": "arodriguez11111"
+  },
+  {
+    "monto": 215813,
+    "plazo": "2016-02-09 16:43:38",
+    "usuario": "vbustamante"
+  },
+  {
+    "monto": 158691,
+    "plazo": "2016-03-07 13:13:33",
+    "usuario": "rgomez1"
+  },
+  {
+    "monto": 190540,
+    "plazo": "2016-02-05 00:52:15",
+    "usuario": "cgarcia"
+  },
+  {
+    "monto": 204324,
+    "plazo": "2016-01-24 12:43:00",
+    "usuario": "mgodoy"
+  },
+  {
+    "monto": 128596,
+    "plazo": "2016-01-26 04:36:20",
+    "usuario": "spizarro"
+  },
+  {
+    "monto": 162115,
+    "plazo": "2016-03-15 19:56:15",
+    "usuario": "rlee11"
+  },
+  {
+    "monto": 292160,
+    "plazo": "2016-02-04 11:11:08",
+    "usuario": "mlee11111"
+  },
+  {
+    "monto": 158821,
+    "plazo": "2016-01-05 14:25:28",
+    "usuario": "mleiva111"
+  },
+  {
+    "monto": 302563,
+    "plazo": "2016-03-15 21:30:59",
+    "usuario": "apaulavidal"
+  },
+  {
+    "monto": 156329,
+    "plazo": "2016-01-15 18:08:59",
+    "usuario": "itaylor"
+  },
+  {
+    "monto": 132312,
+    "plazo": "2016-02-01 21:06:21",
+    "usuario": "alopez111111"
+  },
+  {
+    "monto": 155926,
+    "plazo": "2016-01-22 13:41:50",
+    "usuario": "bparedes1"
+  },
+  {
+    "monto": 164344,
+    "plazo": "2016-01-31 20:48:11",
+    "usuario": "apaulariquel"
+  },
+  {
+    "monto": 235485,
+    "plazo": "2016-01-17 13:26:41",
+    "usuario": "cmartinez1"
+  },
+  {
+    "monto": 183812,
+    "plazo": "2016-01-11 04:54:36",
+    "usuario": "haraya"
+  },
+  {
+    "monto": 188957,
+    "plazo": "2016-03-14 12:45:32",
+    "usuario": "jgomez1"
+  },
+  {
+    "monto": 151835,
+    "plazo": "2016-01-25 14:11:33",
+    "usuario": "smorales11"
+  },
+  {
+    "monto": 129629,
+    "plazo": "2016-02-18 23:18:00",
+    "usuario": "fgallardo"
+  },
+  {
+    "monto": 304078,
+    "plazo": "2016-01-23 19:40:53",
+    "usuario": "wortiz"
+  },
+  {
+    "monto": 294229,
+    "plazo": "2016-02-14 15:08:20",
+    "usuario": "fcortes"
+  },
+  {
+    "monto": 234467,
+    "plazo": "2016-03-07 09:53:14",
+    "usuario": "svasquez"
+  },
+  {
+    "monto": 196422,
+    "plazo": "2016-02-04 16:18:46",
+    "usuario": "ahernandez11"
+  },
+  {
+    "monto": 168475,
+    "plazo": "2016-03-03 17:17:41",
+    "usuario": "talarcon"
+  },
+  {
+    "monto": 227385,
+    "plazo": "2016-01-12 07:53:48",
+    "usuario": "dmiranda1"
+  },
+  {
+    "monto": 160487,
+    "plazo": "2016-03-10 21:58:51",
+    "usuario": "vrodriguez"
+  },
+  {
+    "monto": 199596,
+    "plazo": "2016-01-02 22:15:37",
+    "usuario": "cramirez"
+  },
+  {
+    "monto": 259886,
+    "plazo": "2016-03-07 18:12:59",
+    "usuario": "dalejandroga11"
+  },
+  {
+    "monto": 191841,
+    "plazo": "2016-02-08 20:06:23",
+    "usuario": "rbravo1"
+  },
+  {
+    "monto": 269984,
+    "plazo": "2016-02-06 21:28:45",
+    "usuario": "msalazar111111"
+  },
+  {
+    "monto": 175739,
+    "plazo": "2016-01-30 17:52:38",
+    "usuario": "gpalma"
+  },
+  {
+    "monto": 149774,
+    "plazo": "2016-02-18 23:30:18",
+    "usuario": "ajara1"
+  },
+  {
+    "monto": 303972,
+    "plazo": "2016-01-28 00:37:06",
+    "usuario": "asanchez"
+  },
+  {
+    "monto": 276087,
+    "plazo": "2016-02-14 10:31:45",
+    "usuario": "cescobar"
+  },
+  {
+    "monto": 218884,
+    "plazo": "2016-01-27 23:26:23",
+    "usuario": "dalejandrose"
+  },
+  {
+    "monto": 234410,
+    "plazo": "2016-01-31 02:30:02",
+    "usuario": "mperez1"
+  },
+  {
+    "monto": 262085,
+    "plazo": "2016-03-06 05:56:12",
+    "usuario": "ssalazar11"
+  },
+  {
+    "monto": 161607,
+    "plazo": "2016-01-31 21:07:50",
+    "usuario": "efuentes"
+  },
+  {
+    "monto": 238842,
+    "plazo": "2016-01-29 09:34:03",
+    "usuario": "slee"
+  },
+  {
+    "monto": 262245,
+    "plazo": "2016-01-30 14:59:18",
+    "usuario": "jcastillo"
+  },
+  {
+    "monto": 183695,
+    "plazo": "2016-02-25 00:52:39",
+    "usuario": "ccastillo1"
+  },
+  {
+    "monto": 127555,
+    "plazo": "2016-03-13 20:01:54",
+    "usuario": "fcampbell1"
+  },
+  {
+    "monto": 260367,
+    "plazo": "2016-02-23 00:52:42",
+    "usuario": "tgonzalez1"
+  },
+  {
+    "monto": 188623,
+    "plazo": "2016-02-02 10:03:09",
+    "usuario": "ctaylor"
+  },
+  {
+    "monto": 247316,
+    "plazo": "2016-02-21 18:31:08",
+    "usuario": "msepulveda1"
+  },
+  {
+    "monto": 210948,
+    "plazo": "2016-02-20 07:08:08",
+    "usuario": "jtoro111"
+  },
+  {
+    "monto": 270597,
+    "plazo": "2016-01-31 15:36:31",
+    "usuario": "shernandez11"
+  },
+  {
+    "monto": 265552,
+    "plazo": "2016-03-06 05:35:15",
+    "usuario": "saguilera111"
+  },
+  {
+    "monto": 305944,
+    "plazo": "2016-01-01 15:27:01",
+    "usuario": "mnavarrete11"
+  },
+  {
+    "monto": 295722,
+    "plazo": "2016-02-28 12:30:37",
+    "usuario": "vfernandez"
+  },
+  {
+    "monto": 127112,
+    "plazo": "2016-02-20 06:02:35",
+    "usuario": "icontreras"
+  },
+  {
+    "monto": 231823,
+    "plazo": "2016-02-16 08:49:19",
+    "usuario": "malvarez1"
+  },
+  {
+    "monto": 313625,
+    "plazo": "2016-02-16 14:34:28",
+    "usuario": "mjoseaguiler"
+  },
+  {
+    "monto": 239189,
+    "plazo": "2016-01-28 02:37:29",
+    "usuario": "rcampos"
+  },
+  {
+    "monto": 176406,
+    "plazo": "2016-01-03 03:48:24",
+    "usuario": "dnavarro"
+  },
+  {
+    "monto": 141028,
+    "plazo": "2016-03-09 01:57:40",
+    "usuario": "jtoro1111"
+  },
+  {
+    "monto": 235805,
+    "plazo": "2016-03-07 12:45:22",
+    "usuario": "lsaez1"
+  },
+  {
+    "monto": 232112,
+    "plazo": "2016-03-10 10:39:53",
+    "usuario": "asilva"
+  },
+  {
+    "monto": 186264,
+    "plazo": "2016-02-15 23:48:35",
+    "usuario": "msoto11"
+  },
+  {
+    "monto": 241501,
+    "plazo": "2016-02-16 12:36:33",
+    "usuario": "blee"
+  },
+  {
+    "monto": 182254,
+    "plazo": "2016-02-13 22:00:40",
+    "usuario": "mrojas11111111"
+  },
+  {
+    "monto": 145622,
+    "plazo": "2016-03-15 14:41:07",
+    "usuario": "jgonzalez"
+  },
+  {
+    "monto": 156226,
+    "plazo": "2016-01-20 05:04:29",
+    "usuario": "jvega11"
+  },
+  {
+    "monto": 190125,
+    "plazo": "2016-01-16 23:26:51",
+    "usuario": "nhenriquez1"
+  },
+  {
+    "monto": 188002,
+    "plazo": "2016-02-18 10:29:21",
+    "usuario": "bherrera"
+  },
+  {
+    "monto": 132329,
+    "plazo": "2016-02-03 09:30:34",
+    "usuario": "jhenriquez111"
+  },
+  {
+    "monto": 178371,
+    "plazo": "2016-02-21 15:30:30",
+    "usuario": "tvaldes"
+  },
+  {
+    "monto": 302404,
+    "plazo": "2016-03-04 14:47:27",
+    "usuario": "sgallardo1"
+  },
+  {
+    "monto": 145599,
+    "plazo": "2016-01-24 07:53:58",
+    "usuario": "emaldonado"
+  },
+  {
+    "monto": 263863,
+    "plazo": "2016-01-30 16:01:58",
+    "usuario": "msanchez"
+  },
+  {
+    "monto": 229180,
+    "plazo": "2016-02-15 01:33:43",
+    "usuario": "calvarado1"
+  },
+  {
+    "monto": 136995,
+    "plazo": "2016-02-20 07:28:15",
+    "usuario": "ecarvajal"
+  },
+  {
+    "monto": 194881,
+    "plazo": "2016-01-09 05:24:48",
+    "usuario": "bmorales1"
+  },
+  {
+    "monto": 312487,
+    "plazo": "2016-03-10 22:46:00",
+    "usuario": "rsalazar111"
+  },
+  {
+    "monto": 193548,
+    "plazo": "2016-02-06 01:42:16",
+    "usuario": "apaulafarias"
+  },
+  {
+    "monto": 284431,
+    "plazo": "2016-02-13 10:52:10",
+    "usuario": "mwilson11"
+  },
+  {
+    "monto": 257276,
+    "plazo": "2016-02-25 03:19:57",
+    "usuario": "apoblete11"
+  },
+  {
+    "monto": 176046,
+    "plazo": "2016-01-26 01:26:05",
+    "usuario": "pvergara"
+  },
+  {
+    "monto": 246822,
+    "plazo": "2016-01-27 00:56:57",
+    "usuario": "mfigueroa1111"
+  },
+  {
+    "monto": 308001,
+    "plazo": "2016-01-17 02:36:26",
+    "usuario": "isanmartin"
+  },
+  {
+    "monto": 213924,
+    "plazo": "2016-01-30 14:35:11",
+    "usuario": "xsanmartin"
+  },
+  {
+    "monto": 150783,
+    "plazo": "2016-01-10 01:55:31",
+    "usuario": "ljara1"
+  },
+  {
+    "monto": 177269,
+    "plazo": "2016-01-21 09:43:59",
+    "usuario": "mcardenas1"
+  },
+  {
+    "monto": 297716,
+    "plazo": "2016-02-17 22:45:48",
+    "usuario": "bgarcia1"
+  },
+  {
+    "monto": 202118,
+    "plazo": "2016-02-08 11:24:06",
+    "usuario": "lbrown"
+  },
+  {
+    "monto": 314366,
+    "plazo": "2016-01-07 09:07:40",
+    "usuario": "vgonzalez"
+  },
+  {
+    "monto": 157392,
+    "plazo": "2016-03-07 18:45:41",
+    "usuario": "dalejandrowo"
+  },
+  {
+    "monto": 296400,
+    "plazo": "2016-01-19 02:50:46",
+    "usuario": "etapia"
+  },
+  {
+    "monto": 213238,
+    "plazo": "2016-01-24 02:09:22",
+    "usuario": "evargas"
+  },
+  {
+    "monto": 273491,
+    "plazo": "2016-02-27 23:53:53",
+    "usuario": "scardenas1"
+  },
+  {
+    "monto": 224912,
+    "plazo": "2016-01-09 01:32:39",
+    "usuario": "dalejandroto"
+  },
+  {
+    "monto": 251755,
+    "plazo": "2016-02-29 13:05:41",
+    "usuario": "smiranda111"
+  },
+  {
+    "monto": 149078,
+    "plazo": "2016-01-28 17:29:00",
+    "usuario": "mcampbell111"
+  },
+  {
+    "monto": 146129,
+    "plazo": "2016-01-31 16:46:55",
+    "usuario": "zpoblete"
+  },
+  {
+    "monto": 249024,
+    "plazo": "2016-02-22 05:40:43",
+    "usuario": "fsandoval11"
+  },
+  {
+    "monto": 183249,
+    "plazo": "2016-02-17 16:46:38",
+    "usuario": "alopez11111111"
+  },
+  {
+    "monto": 153774,
+    "plazo": "2016-02-23 17:43:20",
+    "usuario": "jcarrasco111"
+  },
+  {
+    "monto": 290962,
+    "plazo": "2016-01-02 14:19:27",
+    "usuario": "afernandez11"
+  },
+  {
+    "monto": 250058,
+    "plazo": "2016-02-25 07:33:02",
+    "usuario": "wvalenzuela"
+  },
+  {
+    "monto": 238725,
+    "plazo": "2016-02-23 23:39:23",
+    "usuario": "bguzman1"
+  },
+  {
+    "monto": 178865,
+    "plazo": "2016-02-15 05:20:03",
+    "usuario": "avaldes11"
+  },
+  {
+    "monto": 206298,
+    "plazo": "2016-02-23 19:27:09",
+    "usuario": "rvenegas1"
+  },
+  {
+    "monto": 204760,
+    "plazo": "2016-01-18 20:34:08",
+    "usuario": "sjara1"
+  },
+  {
+    "monto": 269029,
+    "plazo": "2016-01-29 01:34:41",
+    "usuario": "lcardenas11"
+  },
+  {
+    "monto": 244294,
+    "plazo": "2016-01-27 13:40:55",
+    "usuario": "mvasquez1"
+  },
+  {
+    "monto": 225697,
+    "plazo": "2016-02-05 03:53:58",
+    "usuario": "ogodoy"
+  },
+  {
+    "monto": 174072,
+    "plazo": "2016-01-20 16:02:47",
+    "usuario": "dalejandroes1"
+  },
+  {
+    "monto": 145911,
+    "plazo": "2016-01-02 04:04:28",
+    "usuario": "jcastillo1"
+  },
+  {
+    "monto": 167413,
+    "plazo": "2016-02-15 13:40:44",
+    "usuario": "jperez11"
+  },
+  {
+    "monto": 206691,
+    "plazo": "2016-02-01 20:03:01",
+    "usuario": "bcarrasco"
+  },
+  {
+    "monto": 206731,
+    "plazo": "2016-02-16 23:20:28",
+    "usuario": "ataylor1111111"
+  },
+  {
+    "monto": 292366,
+    "plazo": "2016-02-01 07:05:06",
+    "usuario": "jtaylor"
+  },
+  {
+    "monto": 160470,
+    "plazo": "2016-01-27 02:49:04",
+    "usuario": "mmorales"
+  },
+  {
+    "monto": 145135,
+    "plazo": "2016-02-03 00:31:33",
+    "usuario": "ialvarado"
+  },
+  {
+    "monto": 191444,
+    "plazo": "2016-01-18 00:54:37",
+    "usuario": "lcampbell"
+  },
+  {
+    "monto": 193046,
+    "plazo": "2016-01-16 23:36:04",
+    "usuario": "mmolina1"
+  },
+  {
+    "monto": 180448,
+    "plazo": "2016-02-23 04:07:44",
+    "usuario": "spoblete111"
+  },
+  {
+    "monto": 253597,
+    "plazo": "2016-03-13 11:13:05",
+    "usuario": "asmith1"
+  },
+  {
+    "monto": 134381,
+    "plazo": "2016-02-10 20:38:58",
+    "usuario": "xmiranda"
+  },
+  {
+    "monto": 278216,
+    "plazo": "2016-02-23 18:07:55",
+    "usuario": "tvenegas"
+  },
+  {
+    "monto": 252045,
+    "plazo": "2016-02-27 02:05:24",
+    "usuario": "ahenriquez11"
+  },
+  {
+    "monto": 143320,
+    "plazo": "2016-02-29 13:54:07",
+    "usuario": "chenriquez1"
+  },
+  {
+    "monto": 287076,
+    "plazo": "2016-03-06 18:11:03",
+    "usuario": "tsoto"
+  },
+  {
+    "monto": 193220,
+    "plazo": "2016-02-15 08:34:51",
+    "usuario": "mvalenzuela1111"
+  },
+  {
+    "monto": 126248,
+    "plazo": "2016-01-05 05:41:48",
+    "usuario": "avera11111"
   }
 ]
