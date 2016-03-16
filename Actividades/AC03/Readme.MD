@@ -1,6 +1,6 @@
 ## AC03
 
-La asistencia aparecerá en [Asistencia.csv](Asistencia.csv). **Recuerda revisarla antes del término de la clase**.
+La asistencia aparecerá en [Asistencia.tsv](Asistencia.tsv). **Recuerda revisarla antes del término de la clase**.
 
 | Puesto | User 1 | Nombre 1 | User 2 | Nombre 2 |
 |:-------|:-------|:---------|:-------|:---------|
