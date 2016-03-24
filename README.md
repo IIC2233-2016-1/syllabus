@@ -7,6 +7,7 @@
     * [Mayo](#mayo)
     * [Junio](#junio)
     * [Julio](#julio)
+* [Notas](#notas)
 * [Extracto del programa del curso](#extracto-del-programa-del-curso)
     * [Equipo](#equipo)
         * [Profesores](#profesores)
@@ -58,6 +59,12 @@
 | Día  | Evento | Contenido                  | Información adicional |
 |:-----|:-------|:---------------------------|:----------------------|
 |Martes 5 |Final Exam| Por anunciar          |                       |
+
+# Notas
+
+Todas las notas serán publicadas en un [documento de Google Sheets](https://docs.google.com/a/uc.cl/spreadsheets/d/1eg1QYxNN0V2QsR7CAJbs9L6HGLjqOgREmQqRzRcb_gI/edit?usp=sharing). 
+
+Para acceder deben haber iniciado sesión con su email UC.
 
 # Extracto del programa del curso
 
