@@ -35,7 +35,7 @@
 |Jueves 10 | [AC02](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC02) | Herencia y polimorfismo. Clases abstractas | Primer día de uso de GIT obligatorio |
 |Lunes 14 | [Ayudantía 02](https://github.com/IIC2233-2016-1/syllabus/blob/master/Ayudantias/Ayudantia2.pdf) | Tips para el curso. Módulos.| |
 |Jueves 17 | [AC03](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC03) | Estructuras de datos. Properties | No entra la parte de árboles |
-|Lunes 21 | [Ayudantía 03](https://github.com/IIC2233-2016-1/syllabus/tree/Ayudantias/Ayudantia3.pdf) |  | |
+|Lunes 21 | [Ayudantía 03](https://github.com/IIC2233-2016-1/syllabus/tree/Ayudantias/Ayudantia3.pdf) | Estructuras de Datos y sala de ayuda Tarea 1| |
 |Lunes 28 | [T01](https://github.com/IIC2233-2016-1/syllabus/tree/master/Tareas/T01) | OOP |**Hora: 23:59**|
 |Jueves 31 | [AC04](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC04) | Árboles y listas ligadas |  |
 
