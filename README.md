@@ -43,7 +43,8 @@
 ### Abril
 | Día  | Evento | Contenido                  | Información adicional |
 |:-----|:-------|:---------------------------|:----------------------|
-|      |        |                            |                       |
+|Jueves 7 | [AC05](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC05) | Functional entero sin decoradores |  |
+|Jueves 14 | [AC06](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC06) | Decoradores |  |
 
 ### Mayo
 | Día  | Evento | Contenido                  | Información adicional |
