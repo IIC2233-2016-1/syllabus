@@ -199,6 +199,9 @@ Adicionalmente, para aprobar el curso el alumno debe cumplir con:
 Si el alumno cumple con todas las condiciones mencionadas, la **nota final del curso (NF)** corresponde a **NC**. En caso contrario, **NF** es la nota mínimo entre los items no cumplidos.
 
 Durante el semestre NO se borrará ninguna evaluación. Tampoco existe la posibilidad de ser eximido del Examen final.
+- Sin embargo, **se tomará el promedio AC sin la peor actividad.**
+- Además **existe la posibilidad de que se anuncie una tarea recuperativa opcional**<sup>[1](#nota-1)</sup>. Si ésta es realizada por el alumno, tiene la posibilidad de eliminar la peor de las tareas bajo ciertas condiciones que serán comunicadas oportunamente.
+
 
 Solo se aproximará la nota final **NF**. Todo el resto de las notas serán usadas con dos decimales.
 
@@ -219,3 +222,7 @@ La página de [Issues](https://github.com/IIC2233-2016-1/syllabus/issues) se uti
 Puedes ver los `syllabus` de los semestres anteriores en:
 - [2015-1](https://github.com/IIC2233-2015-1/syllabus)
 - [2015-2](https://github.com/IIC2233-2015-2/syllabus)
+
+
+<sub>**<a name="nota-1">[1](#nota-1)</a>**: Se anunciará su realización o no realización antes del 1 de junio de 2016.
+</sub>
