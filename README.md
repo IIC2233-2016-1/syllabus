@@ -43,7 +43,7 @@
 ### Abril
 | Día  | Evento | Contenido                  | Información adicional |
 |:-----|:-------|:---------------------------|:----------------------|
-|Lunes 4 | Ayudantia4| Funcional y otros temas importantes | |
+|Lunes 4 | [Ayudantía4](https://github.com/IIC2233-2016-1/syllabus/tree/master/Ayudantias/AY04%20-%20Funcional%20y%20otros)| Funcional y otros temas importantes | |
 |Jueves 7 | [AC05](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC05) | Functional entero sin decoradores |  |
 |Jueves 14 | [AC06](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC06) | Decoradores |  |
 
