@@ -2,8 +2,8 @@
 
 ## Tabla de contenidos
 * [Calendario](#calendario)
-    * [Marzo](#marzo) 
-    * [Abril](#abril) 
+    * [Marzo](#marzo)
+    * [Abril](#abril)
     * [Mayo](#mayo)
     * [Junio](#junio)
     * [Julio](#julio)
@@ -43,6 +43,7 @@
 ### Abril
 | Día  | Evento | Contenido                  | Información adicional |
 |:-----|:-------|:---------------------------|:----------------------|
+|Lunes 4 | Ayudantia4| Funcional y otros temas importantes | |
 |Jueves 7 | [AC05](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC05) | Functional entero sin decoradores |  |
 |Jueves 14 | [AC06](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC06) | Decoradores |  |
 
@@ -63,7 +64,7 @@
 
 # Notas
 
-Todas las notas serán publicadas en un [documento de Google Sheets](https://docs.google.com/a/uc.cl/spreadsheets/d/1eg1QYxNN0V2QsR7CAJbs9L6HGLjqOgREmQqRzRcb_gI/edit?usp=sharing). 
+Todas las notas serán publicadas en un [documento de Google Sheets](https://docs.google.com/a/uc.cl/spreadsheets/d/1eg1QYxNN0V2QsR7CAJbs9L6HGLjqOgREmQqRzRcb_gI/edit?usp=sharing).
 
 Para acceder deben haber iniciado sesión con su email UC.
 
@@ -138,14 +139,14 @@ diseño básico de algoritmos y técnicas de análisis.
 
 ## Contenidos
 
-* Programación Orientada a Objetos: 
+* Programación Orientada a Objetos:
     * Objetos
     * Herencia
     * Herencia múltiple
     * Polimorfismo
     * Clases Abstractas
-    * Properties. 
-* Estructuras de Datos: 
+    * Properties.
+* Estructuras de Datos:
     * Árboles
     * Diccionarios
     * Colas
@@ -166,16 +167,16 @@ diseño básico de algoritmos y técnicas de análisis.
 * Manejo de Excepciones:
     * Tipos de excepciones
     * Control de excepciones
-* Testing: 
+* Testing:
     * Tests unitarios en Unittest
-* Simulación: 
+* Simulación:
     * Introducción a la simulación con eventos discretos
-* Threading: 
+* Threading:
     * Creación y sincronización de threads
     * Concurrencia
-* Interfaces Gráficas: 
+* Interfaces Gráficas:
     * Introducción a las interfaces gráficas usando PyQt4
-* I/O: 
+* I/O:
     * Manejo de Strings
     * Bytes
     * Serialización binaria
