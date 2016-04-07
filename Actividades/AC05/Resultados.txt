@@ -1,0 +1,48 @@
+*-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-*
+CONSULTA 1
+1.Alejandra Paz, Ingreso: 2010-04-01, ID: 5752
+2.Diego Galán Tejera, Ingreso: 2010-04-04, ID: 5865
+3.Juan Antonio de Amigó, Ingreso: 2010-04-10, ID: 5681
+4.Alejandro Yuste Salcedo, Ingreso: 2010-04-18, ID: 5696
+5.Juana Tenorio Orozco, Ingreso: 2010-04-20, ID: 5779
+6.Alejandra Noguera Valenciano, Ingreso: 2010-04-27, ID: 5682
+7.Milagros Manuela Quiroga Ortiz, Ingreso: 2010-05-01, ID: 5832
+8.Martin Escolano Vargas, Ingreso: 2010-05-13, ID: 5812
+9.Domingo Cabo España, Ingreso: 2010-05-17, ID: 5769
+10.Ana Avilés Bustamante, Ingreso: 2010-05-19, ID: 5724
+*-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-*
+CONSULTA 2
+0.advance Spectre Under Chaos III, Disco: Carry On Above Storm Shotgun, Rating: 5.0, ID: 917
+1.Adolescent Preteen, Disco: Blast If Violation If Commotions, Rating: 5.0, ID: 988
+2.Bratafter Black Bewailing, Disco: Teenager Dark Fridaybeyond Lead, Rating: 5.0, ID: 1004
+3.Underground Before Roar, Disco: Hand Infiltrate Turbulences, Rating: 5.0, ID: 1038
+4.Beset Shaver Below Revel During 	advance Participate Talk, Disco: Discourse Lamb 523, Rating: 5.0, ID: 1076
+5.Tuesday If Vibration Green Modulation, Disco: The Fog Where Alligator Suburban Schismatic, Rating: 5.0, ID: 1093
+6.Kick Grey Knee, Disco: The Battle Onrush, Rating: 5.0, ID: 1154
+7.The Uproar Punk, Disco: Boff Initiatives, Rating: 5.0, ID: 1196
+8.Rowthen Yawn Forever, Disco: Defeat Below Pandemonium III, Rating: 5.0, ID: 1212
+9.Toddler Fireworks Ladybug Then Blasts, Disco: The Revel Violation Antarctica Youngs, Rating: 5.0, ID: 1225
+*-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-*
+CONSULTA 3
+1.Hand Infiltrate Turbulences, Artista: Kibitz Boisterousness, Rating: 4.5, ID: 217
+2.Gray Object, Artista: Let Loose Squabble, Rating: 4.25, ID: 666
+3.Flood Jangle, Artista: Fracas Lead, Rating: 4.125, ID: 266
+4.Wasp December Recreate Hand, Artista: Represent Wink, Rating: 4.125, ID: 633
+5.The Fog Where Alligator Suburban Schismatic, Artista: The Clang Ratio, Rating: 4.0, ID: 225
+6.Fuss Apostate Outcry Newborn, Artista: Whop Onset, Rating: 4.0, ID: 541
+7.Sonance Bewailing, Artista: Black Assailing Head, Rating: 4.0, ID: 579
+8.Moppet Where Fuss September, Artista: Apostate Revel Little Doll Crocodile, Rating: 4.0, ID: 670
+9.The Ham Sonances, Artista: The Elbow Over Enact Fuss, Rating: 4.0, ID: 694
+10.Disport Gun, Artista: The Contest Blink, Rating: 4.0, ID: 717
+*-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-*
+CONSULTA 4
+1.The Elbow Over Enact Fuss, Rating: 3.6296296296296298, ID: 137
+2.Take On John, Rating: 3.5217391304347827, ID: 152
+3.Deceipt Engage In Jet Innovator Ave., Rating: 3.5135135135135136, ID: 127
+4.The Skirmish Yawn, Rating: 3.4838709677419355, ID: 184
+5.Sonority Bop Row 828, Rating: 3.4583333333333335, ID: 168
+6.Transparent Thrusts, Rating: 3.4347826086956523, ID: 117
+7.The Dark Clashs, Rating: 3.380952380952381, ID: 19
+8.Blue Brawls, Rating: 3.3793103448275863, ID: 171
+9.Disport Weekend, Rating: 3.375, ID: 169
+10.Earth April, Rating: 3.3653846153846154, ID: 21
