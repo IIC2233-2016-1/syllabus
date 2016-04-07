@@ -204,7 +204,7 @@ abstraer cálculos que pueden aplicar a muchos tipos de clases distintas (duck t
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[18]:</div>
+<div class="prompt input_prompt">In&nbsp;[56]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="nb">print</span><span class="p">(</span><span class="nb">len</span><span class="p">([</span><span class="mi">3</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">5</span><span class="p">,</span><span class="mi">5</span><span class="p">,</span><span class="mi">2</span><span class="p">]))</span>
@@ -245,7 +245,7 @@ abstraer cálculos que pueden aplicar a muchos tipos de clases distintas (duck t
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[19]:</div>
+<div class="prompt input_prompt">In&nbsp;[57]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="nb">print</span><span class="p">([</span><span class="mi">3</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">5</span><span class="p">,</span><span class="mi">5</span><span class="p">,</span><span class="mi">2</span><span class="p">]</span><span class="o">.</span><span class="n">__len__</span><span class="p">())</span>
@@ -284,7 +284,7 @@ abstraer cálculos que pueden aplicar a muchos tipos de clases distintas (duck t
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[20]:</div>
+<div class="prompt input_prompt">In&nbsp;[58]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="nb">print</span><span class="p">(</span><span class="nb">id</span><span class="p">([</span><span class="mi">3</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">5</span><span class="p">,</span><span class="mi">5</span><span class="p">,</span><span class="mi">2</span><span class="p">]</span><span class="o">.</span><span class="n">__len__</span><span class="p">()))</span>
@@ -301,8 +301,8 @@ abstraer cálculos que pueden aplicar a muchos tipos de clases distintas (duck t
 
 <div class="output_area"><div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>4297366656
-4297366656
+<pre>4297370848
+4297370848
 </pre>
 </div>
 </div>
@@ -324,7 +324,7 @@ __len__ retorna el largo de la lista sin considerar los elementos que se repiten
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[21]:</div>
+<div class="prompt input_prompt">In&nbsp;[59]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="kn">from</span> <span class="nn">collections</span> <span class="k">import</span> <span class="n">defaultdict</span>
@@ -398,7 +398,7 @@ la instancia, pronto profundizaremos más en lo que son los iterables).</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[5]:</div>
+<div class="prompt input_prompt">In&nbsp;[60]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="k">class</span> <span class="nc">MiClase</span><span class="p">:</span>
@@ -465,7 +465,7 @@ el método __reversed__, simplemente se usará el built-in, que iterará usando 
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[23]:</div>
+<div class="prompt input_prompt">In&nbsp;[61]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">lista</span> <span class="o">=</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mi">5</span><span class="p">,</span><span class="mi">6</span><span class="p">]</span>
@@ -523,7 +523,7 @@ MiReversa : R, e, v, e, r, s, a, n, d, o, !, !, </pre>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[24]:</div>
+<div class="prompt input_prompt">In&nbsp;[62]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">lista</span> <span class="o">=</span> <span class="p">[</span><span class="s">&quot;a&quot;</span><span class="p">,</span><span class="s">&quot;b&quot;</span><span class="p">,</span><span class="s">&quot;c&quot;</span><span class="p">,</span><span class="s">&quot;d&quot;</span><span class="p">]</span>
@@ -572,7 +572,7 @@ MiReversa : R, e, v, e, r, s, a, n, d, o, !, !, </pre>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[25]:</div>
+<div class="prompt input_prompt">In&nbsp;[63]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">variables</span> <span class="o">=</span> <span class="p">[</span><span class="s">&#39;nombre&#39;</span><span class="p">,</span> <span class="s">&#39;apellido&#39;</span><span class="p">,</span> <span class="s">&#39;email&#39;</span><span class="p">]</span>
@@ -626,7 +626,7 @@ Nombre: Alberto Gomez, email: agomez@yahoo.com
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[26]:</div>
+<div class="prompt input_prompt">In&nbsp;[64]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">A</span> <span class="o">=</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">4</span><span class="p">]</span>
@@ -672,7 +672,7 @@ Nombre: Alberto Gomez, email: agomez@yahoo.com
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[27]:</div>
+<div class="prompt input_prompt">In&nbsp;[65]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">lista</span> <span class="o">=</span> <span class="p">[</span><span class="s">&#39;1&#39;</span><span class="p">,</span> <span class="s">&#39;4&#39;</span><span class="p">,</span> <span class="s">&#39;55&#39;</span><span class="p">,</span> <span class="s">&#39;65&#39;</span><span class="p">,</span><span class="s">&#39;4&#39;</span><span class="p">,</span> <span class="s">&#39;15&#39;</span><span class="p">,</span> <span class="s">&#39;90&#39;</span><span class="p">]</span>
@@ -705,7 +705,7 @@ Nombre: Alberto Gomez, email: agomez@yahoo.com
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[28]:</div>
+<div class="prompt input_prompt">In&nbsp;[66]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">secuencia</span> <span class="o">=</span> <span class="p">[</span><span class="s">&quot;one&quot;</span><span class="p">,</span> <span class="s">&quot;two&quot;</span><span class="p">,</span> <span class="s">&quot;three&quot;</span><span class="p">]</span>
@@ -746,7 +746,7 @@ Nombre: Alberto Gomez, email: agomez@yahoo.com
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[29]:</div>
+<div class="prompt input_prompt">In&nbsp;[67]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="kn">from</span> <span class="nn">collections</span> <span class="k">import</span> <span class="n">namedtuple</span>
@@ -774,7 +774,7 @@ Nombre: Alberto Gomez, email: agomez@yahoo.com
 
 <div class="output_area"><div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>{&apos;Clint Eastwood&apos;, &apos;Olivier Megaton&apos;}
+<pre>{&apos;Olivier Megaton&apos;, &apos;Clint Eastwood&apos;}
 </pre>
 </div>
 </div>
@@ -794,7 +794,7 @@ Nombre: Alberto Gomez, email: agomez@yahoo.com
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[30]:</div>
+<div class="prompt input_prompt">In&nbsp;[68]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">dict_directores_accion</span> <span class="o">=</span> <span class="p">{</span><span class="n">b</span><span class="o">.</span><span class="n">director</span><span class="p">:</span> <span class="n">b</span> <span class="k">for</span> <span class="n">b</span> <span class="ow">in</span> <span class="n">peliculas</span> <span class="k">if</span> <span class="n">b</span><span class="o">.</span><span class="n">genero</span> <span class="o">==</span> <span class="s">&#39;Action&#39;</span><span class="p">}</span>
@@ -811,7 +811,7 @@ Nombre: Alberto Gomez, email: agomez@yahoo.com
 
 <div class="output_area"><div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>{&apos;Clint Eastwood&apos;: Pelicula(titulo=&apos;American Sniper&apos;, director=&apos;Clint Eastwood&apos;, genero=&apos;Action&apos;), &apos;Olivier Megaton&apos;: Pelicula(titulo=&apos;Taken 3&apos;, director=&apos;Olivier Megaton&apos;, genero=&apos;Action&apos;)}
+<pre>{&apos;Olivier Megaton&apos;: Pelicula(titulo=&apos;Taken 3&apos;, director=&apos;Olivier Megaton&apos;, genero=&apos;Action&apos;), &apos;Clint Eastwood&apos;: Pelicula(titulo=&apos;American Sniper&apos;, director=&apos;Clint Eastwood&apos;, genero=&apos;Action&apos;)}
 </pre>
 </div>
 </div>
@@ -822,7 +822,7 @@ Nombre: Alberto Gomez, email: agomez@yahoo.com
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[31]:</div>
+<div class="prompt input_prompt">In&nbsp;[69]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">dict_directores_accion</span><span class="p">[</span><span class="s">&#39;Olivier Megaton&#39;</span><span class="p">]</span>
@@ -836,7 +836,7 @@ Nombre: Alberto Gomez, email: agomez@yahoo.com
 <div class="output">
 
 
-<div class="output_area"><div class="prompt output_prompt">Out[31]:</div>
+<div class="output_area"><div class="prompt output_prompt">Out[69]:</div>
 
 
 <div class="output_text output_subarea output_execute_result">
@@ -856,13 +856,14 @@ Nombre: Alberto Gomez, email: agomez@yahoo.com
 <div class="text_cell_render border-box-sizing rendered_html">
 <h1>Iterables e Iteradores</h1><p>Un <b> iterable </b> es cualquier objeto sobre el cual se puede iterar, por lo mismo, cualquier iterable podría aparecer al lado derecho de un for loop ( for i in iterable: ). Un iterable contiene el método <strong>iter</strong>(). Se puede iterar todas las veces que uno quiera sobre un iterable, como en el caso de las listas por ejemplo.</p>
 <p>Un <b>iterador</b> es un objeto que itera sobre un iterable, es el objeto retornado por el método <strong>iter</strong>(), además contiene el método <strong>next</strong>() que nos va retornando el siguiente elemento.</p>
+<p>Hasta ahora parece que <strong>iter</strong>() y <strong>getitem</strong>() hacen lo mismo, pero no es realmente así. El método <strong>iter</strong>() nos permite iterar sin necesariamente dejarnos indexar el objeto, de hecho, diccionarios y sets pueden ser iterables pero no son indexables. En caso de que sea necesario indexar el objeto, deberíamos implementar <strong>getitem</strong>(). Cuando no es claro que se necesita indexar el objeto, es mejor usar <strong>iter</strong>(), está implementado de forma más eficiente.</p>
 
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[32]:</div>
+<div class="prompt input_prompt">In&nbsp;[70]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">x</span> <span class="o">=</span> <span class="p">[</span><span class="mi">11</span><span class="p">,</span> <span class="mi">32</span><span class="p">,</span> <span class="mi">43</span><span class="p">]</span>
@@ -884,7 +885,7 @@ Nombre: Alberto Gomez, email: agomez@yahoo.com
 <pre>11
 32
 43
-&lt;method-wrapper &apos;__iter__&apos; of list object at 0x104b634c8&gt;
+&lt;method-wrapper &apos;__iter__&apos; of list object at 0x1085ad948&gt;
 </pre>
 </div>
 </div>
@@ -894,7 +895,7 @@ Nombre: Alberto Gomez, email: agomez@yahoo.com
 <pre>
 <span class="ansired">---------------------------------------------------------------------------</span>
 <span class="ansired">TypeError</span>                                 Traceback (most recent call last)
-<span class="ansigreen">&lt;ipython-input-32-12f0c2472895&gt;</span> in <span class="ansicyan">&lt;module&gt;</span><span class="ansiblue">()</span>
+<span class="ansigreen">&lt;ipython-input-70-12f0c2472895&gt;</span> in <span class="ansicyan">&lt;module&gt;</span><span class="ansiblue">()</span>
 <span class="ansigreen">      2</span> <span class="ansigreen">for</span> c <span class="ansigreen">in</span> x<span class="ansiblue">:</span> print<span class="ansiblue">(</span>c<span class="ansiblue">)</span><span class="ansiblue"></span>
 <span class="ansigreen">      3</span> print<span class="ansiblue">(</span>x<span class="ansiblue">.</span>__iter__<span class="ansiblue">)</span><span class="ansiblue"></span>
 <span class="ansigreen">----&gt; 4</span><span class="ansired"> </span>next<span class="ansiblue">(</span>x<span class="ansiblue">)</span><span class="ansired">#aqui podemos ver que una lista no es un iterador</span><span class="ansiblue"></span>
@@ -920,7 +921,7 @@ llamando al método iter()</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[33]:</div>
+<div class="prompt input_prompt">In&nbsp;[71]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">y</span> <span class="o">=</span> <span class="nb">iter</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
@@ -952,7 +953,7 @@ llamando al método iter()</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[3]:</div>
+<div class="prompt input_prompt">In&nbsp;[72]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="k">class</span> <span class="nc">Carta</span><span class="p">:</span>
@@ -981,7 +982,7 @@ llamando al método iter()</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[4]:</div>
+<div class="prompt input_prompt">In&nbsp;[73]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="k">for</span> <span class="n">c</span> <span class="ow">in</span> <span class="n">Baraja</span><span class="p">()</span><span class="o">.</span><span class="n">cartas</span><span class="p">:</span> <span class="nb">print</span><span class="p">(</span><span class="n">c</span><span class="p">)</span>
@@ -1071,7 +1072,7 @@ Baraja() directamente, para ello deberíamos agregar el método <strong>iter</st
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[9]:</div>
+<div class="prompt input_prompt">In&nbsp;[74]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="k">class</span> <span class="nc">Baraja</span><span class="p">():</span>
@@ -1089,7 +1090,7 @@ Baraja() directamente, para ello deberíamos agregar el método <strong>iter</st
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[6]:</div>
+<div class="prompt input_prompt">In&nbsp;[75]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="k">for</span> <span class="n">c</span> <span class="ow">in</span> <span class="n">Baraja</span><span class="p">():</span> <span class="nb">print</span><span class="p">(</span><span class="n">c</span><span class="p">)</span>
@@ -1167,7 +1168,7 @@ K Trebol
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[8]:</div>
+<div class="prompt input_prompt">In&nbsp;[76]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">b</span> <span class="o">=</span> <span class="nb">iter</span><span class="p">(</span><span class="n">Baraja</span><span class="p">())</span>
@@ -1215,7 +1216,7 @@ K Trebol
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[38]:</div>
+<div class="prompt input_prompt">In&nbsp;[77]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="k">class</span> <span class="nc">Fib</span><span class="p">:</span>
@@ -1240,7 +1241,7 @@ K Trebol
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[39]:</div>
+<div class="prompt input_prompt">In&nbsp;[78]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">f</span> <span class="o">=</span> <span class="n">Fib</span><span class="p">()</span>
@@ -1280,7 +1281,7 @@ K Trebol
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[40]:</div>
+<div class="prompt input_prompt">In&nbsp;[79]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="kn">import</span> <span class="nn">itertools</span>
@@ -1349,7 +1350,7 @@ de listas, sólo que en vez de paréntesis cuadrados [] usamos paréntesis norma
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[41]:</div>
+<div class="prompt input_prompt">In&nbsp;[80]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="kn">from</span> <span class="nn">sys</span> <span class="k">import</span> <span class="n">getsizeof</span>
@@ -1414,7 +1415,7 @@ Supongamos este contenido para el archivo logs.txt:</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[42]:</div>
+<div class="prompt input_prompt">In&nbsp;[81]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="kn">import</span> <span class="nn">sys</span>
@@ -1456,7 +1457,7 @@ Supongamos este contenido para el archivo logs.txt:</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[43]:</div>
+<div class="prompt input_prompt">In&nbsp;[82]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="k">def</span> <span class="nf">conteo_dec</span><span class="p">(</span><span class="n">n</span><span class="p">):</span>
@@ -1483,7 +1484,7 @@ Supongamos este contenido para el archivo logs.txt:</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[44]:</div>
+<div class="prompt input_prompt">In&nbsp;[83]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">x</span> <span class="o">=</span> <span class="n">conteo_dec</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span><span class="c">#notar que aquí no se imprime nada</span>
@@ -1507,7 +1508,7 @@ Supongamos este contenido para el archivo logs.txt:</p>
 
 <div class="output_area"><div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>&lt;generator object conteo_dec at 0x104b92d80&gt;
+<pre>&lt;generator object conteo_dec at 0x10847cea0&gt;
 
 Contando en forma decreciente desde 5
 5
@@ -1524,7 +1525,7 @@ Contando en forma decreciente desde 5
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[38]:</div>
+<div class="prompt input_prompt">In&nbsp;[84]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="k">def</span> <span class="nf">fibonacci</span><span class="p">():</span>
@@ -1583,7 +1584,7 @@ Contando en forma decreciente desde 5
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[39]:</div>
+<div class="prompt input_prompt">In&nbsp;[85]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
@@ -1642,7 +1643,7 @@ Contando en forma decreciente desde 5
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[40]:</div>
+<div class="prompt input_prompt">In&nbsp;[86]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="k">def</span> <span class="nf">mov_avg</span><span class="p">():</span>
@@ -1677,7 +1678,7 @@ Contando en forma decreciente desde 5
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[41]:</div>
+<div class="prompt input_prompt">In&nbsp;[87]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">m</span> <span class="o">=</span> <span class="n">mov_avg</span><span class="p">()</span>
@@ -1734,7 +1735,7 @@ loop del while...
 </div>
 </div>
 
-<div class="output_area"><div class="prompt output_prompt">Out[41]:</div>
+<div class="output_area"><div class="prompt output_prompt">Out[87]:</div>
 
 
 <div class="output_text output_subarea output_execute_result">
@@ -1749,7 +1750,7 @@ loop del while...
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[42]:</div>
+<div class="prompt input_prompt">In&nbsp;[88]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">m</span> <span class="o">=</span> <span class="n">mov_avg</span><span class="p">()</span>
@@ -1806,7 +1807,7 @@ loop del while...
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[43]:</div>
+<div class="prompt input_prompt">In&nbsp;[89]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="k">def</span> <span class="nf">grep</span><span class="p">(</span><span class="n">pattern</span><span class="p">):</span><span class="c">#hace lo mismo que la función grep de la consola de Unix</span>
@@ -1858,7 +1859,7 @@ que siempre son retornadas (no necesitan el statement "return"). Ejemplos:</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[44]:</div>
+<div class="prompt input_prompt">In&nbsp;[90]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
@@ -1994,7 +1995,7 @@ DwARI8kDQMRI8gAQMZI8AESMJA8AESPJA0DESPIAELH/B4glYccoNqsmAAAAAElFTkSuQmCC
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[33]:</div>
+<div class="prompt input_prompt">In&nbsp;[91]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">pow2</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">x</span> <span class="p">:</span> <span class="n">x</span><span class="o">**</span><span class="mi">2</span>
@@ -2152,7 +2153,7 @@ B4CAEeQBIGAEeQAIGEEeAAJGkAeAgBHkASBg/w8xfzBdsU91ZAAAAABJRU5ErkJggg==
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[34]:</div>
+<div class="prompt input_prompt">In&nbsp;[92]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">a</span> <span class="o">=</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">4</span><span class="p">]</span>
@@ -2203,7 +2204,7 @@ B4CAEeQBIGAEeQAIGEEeAAJGkAeAgBHkASBg/w8xfzBdsU91ZAAAAABJRU5ErkJggg==
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[45]:</div>
+<div class="prompt input_prompt">In&nbsp;[93]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">f</span> <span class="o">=</span> <span class="n">fibonacci</span><span class="p">()</span> <span class="c">#función definida más arriba</span>
@@ -2249,7 +2250,7 @@ siguiente forma: f(f(f(f(s1,s2),s3),s4),s5),...</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[36]:</div>
+<div class="prompt input_prompt">In&nbsp;[94]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="kn">from</span> <span class="nn">functools</span> <span class="k">import</span> <span class="n">reduce</span>
@@ -2264,7 +2265,7 @@ siguiente forma: f(f(f(f(s1,s2),s3),s4),s5),...</p>
 <div class="output">
 
 
-<div class="output_area"><div class="prompt output_prompt">Out[36]:</div>
+<div class="output_area"><div class="prompt output_prompt">Out[94]:</div>
 
 
 <div class="output_text output_subarea output_execute_result">
@@ -2279,7 +2280,7 @@ siguiente forma: f(f(f(f(s1,s2),s3),s4),s5),...</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[37]:</div>
+<div class="prompt input_prompt">In&nbsp;[95]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="kn">import</span> <span class="nn">datetime</span>
@@ -2334,13 +2335,13 @@ siguiente forma: f(f(f(f(s1,s2),s3),s4),s5),...</p>
 
 <div class="output_area"><div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>reduce 1 time: 0:00:00.074427
+<pre>reduce 1 time: 0:00:00.068758
 361
-reduce 2 time: 0:00:00.043316
+reduce 2 time: 0:00:00.041842
 361
-max(generator) time: 0:00:00.031264
+max(generator) time: 0:00:00.033890
 361
-max(for clásico) time: 0:00:00.045822
+max(for clásico) time: 0:00:00.041437
 361
 </pre>
 </div>
@@ -2372,7 +2373,7 @@ max(for clásico) time: 0:00:00.045822
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[56]:</div>
+<div class="prompt input_prompt">In&nbsp;[96]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="k">def</span> <span class="nf">func_hola</span><span class="p">(</span><span class="n">nombre</span><span class="p">):</span>
@@ -2413,7 +2414,7 @@ max(for clásico) time: 0:00:00.045822
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[57]:</div>
+<div class="prompt input_prompt">In&nbsp;[97]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="k">def</span> <span class="nf">func_hola</span><span class="p">(</span><span class="n">nombre</span><span class="p">):</span>
@@ -2457,7 +2458,7 @@ max(for clásico) time: 0:00:00.045822
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[46]:</div>
+<div class="prompt input_prompt">In&nbsp;[98]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="k">def</span> <span class="nf">func_hola</span><span class="p">(</span><span class="n">nombre</span><span class="p">):</span>
@@ -2501,7 +2502,7 @@ max(for clásico) time: 0:00:00.045822
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[59]:</div>
+<div class="prompt input_prompt">In&nbsp;[99]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="k">def</span> <span class="nf">compone_func_saludar</span><span class="p">():</span>
@@ -2545,7 +2546,7 @@ max(for clásico) time: 0:00:00.045822
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[60]:</div>
+<div class="prompt input_prompt">In&nbsp;[100]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="k">def</span> <span class="nf">compone_func_saludar</span><span class="p">(</span><span class="n">nombre</span><span class="p">):</span>
@@ -2589,7 +2590,7 @@ función que está un nivel más arriba:</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[61]:</div>
+<div class="prompt input_prompt">In&nbsp;[101]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="k">def</span> <span class="nf">compone_func_saludar</span><span class="p">(</span><span class="n">nombre</span><span class="p">):</span>
@@ -2620,12 +2621,12 @@ función que está un nivel más arriba:</p>
 
 <div class="output_area"><div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>4297366528
+<pre>4297370720
 2
-4297366528
+4297370720
 2
 Entrando a get_mensaje()...
-4297366560
+4297370752
 3
 Saludos para tí Ana!
 </pre>
@@ -2650,7 +2651,7 @@ Saludos para tí Ana!
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[48]:</div>
+<div class="prompt input_prompt">In&nbsp;[102]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="kn">import</span> <span class="nn">datetime</span>
@@ -2680,7 +2681,7 @@ Saludos para tí Ana!
 <div class="output_area"><div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>9227465
-Tiempo de ejecución: 0:00:04.843262
+Tiempo de ejecución: 0:00:05.225696
 </pre>
 </div>
 </div>
@@ -2703,7 +2704,7 @@ del número en algún cálculo anterior:</p>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[49]:</div>
+<div class="prompt input_prompt">In&nbsp;[103]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="k">def</span> <span class="nf">eficient_fib</span><span class="p">(</span><span class="n">f</span><span class="p">):</span><span class="c">#recibe una función como argumento</span>
@@ -2732,7 +2733,7 @@ del número en algún cálculo anterior:</p>
 <div class="output_area"><div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>9227465
-Tiempo de ejecución: 0:00:00.000138
+Tiempo de ejecución: 0:00:00.000201
 </pre>
 </div>
 </div>
@@ -2752,7 +2753,7 @@ Tiempo de ejecución: 0:00:00.000138
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[64]:</div>
+<div class="prompt input_prompt">In&nbsp;[104]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="nd">@eficient_fib</span>
@@ -2781,7 +2782,7 @@ Tiempo de ejecución: 0:00:00.000138
 <div class="output_area"><div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>9227465
-Tiempo de ejecución: 0:00:00.000355
+Tiempo de ejecución: 0:00:00.000183
 </pre>
 </div>
 </div>
@@ -2802,7 +2803,7 @@ Una forma genérica de hacerlo es la siguiente: </h3>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[65]:</div>
+<div class="prompt input_prompt">In&nbsp;[105]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="k">def</span> <span class="nf">mydecorator</span><span class="p">(</span><span class="n">function</span><span class="p">):</span>
@@ -2823,7 +2824,7 @@ Una forma genérica de hacerlo es la siguiente: </h3>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[66]:</div>
+<div class="prompt input_prompt">In&nbsp;[106]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="kn">import</span> <span class="nn">time</span>
@@ -2867,7 +2868,7 @@ Una forma genérica de hacerlo es la siguiente: </h3>
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[67]:</div>
+<div class="prompt input_prompt">In&nbsp;[107]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="nd">@memoize</span><span class="p">(</span><span class="mf">0.0001</span><span class="p">)</span><span class="c">#esto es lo mismo a decir: complex_process = memoize(0.0001), que retorna una función (_memoize), </span>
@@ -2906,13 +2907,13 @@ lo teníamos disponible
 4
 calculando...
 4
-lo teníamos disponible
-4
 calculando...
 4
 lo teníamos disponible
 4
 calculando...
+4
+lo teníamos disponible
 4
 </pre>
 </div>
@@ -2933,7 +2934,7 @@ calculando...
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[50]:</div>
+<div class="prompt input_prompt">In&nbsp;[108]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="k">class</span> <span class="nc">User</span><span class="p">:</span>
@@ -2961,7 +2962,7 @@ calculando...
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[51]:</div>
+<div class="prompt input_prompt">In&nbsp;[109]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="n">juan</span> <span class="o">=</span> <span class="n">User</span><span class="p">((</span><span class="s">&#39;admin&#39;</span><span class="p">,</span> <span class="s">&#39;user&#39;</span><span class="p">))</span>
@@ -2999,12 +3000,12 @@ calculando...
 <pre>
 <span class="ansired">---------------------------------------------------------------------------</span>
 <span class="ansired">Unauthorized</span>                              Traceback (most recent call last)
-<span class="ansigreen">&lt;ipython-input-51-fd5dfc7ee51e&gt;</span> in <span class="ansicyan">&lt;module&gt;</span><span class="ansiblue">()</span>
+<span class="ansigreen">&lt;ipython-input-109-fd5dfc7ee51e&gt;</span> in <span class="ansicyan">&lt;module&gt;</span><span class="ansiblue">()</span>
 <span class="ansigreen">     11</span> s<span class="ansiblue">.</span>receta_pisco_sour<span class="ansiblue">(</span><span class="ansiblue">)</span><span class="ansiblue"></span>
 <span class="ansigreen">     12</span> user <span class="ansiblue">=</span> pedro<span class="ansiblue"></span>
 <span class="ansigreen">---&gt; 13</span><span class="ansired"> </span>s<span class="ansiblue">.</span>receta_pisco_sour<span class="ansiblue">(</span><span class="ansiblue">)</span><span class="ansiblue"></span>
 
-<span class="ansigreen">&lt;ipython-input-50-a47c1f59915c&gt;</span> in <span class="ansicyan">__protect</span><span class="ansiblue">(*args, **kw)</span>
+<span class="ansigreen">&lt;ipython-input-108-a47c1f59915c&gt;</span> in <span class="ansicyan">__protect</span><span class="ansiblue">(*args, **kw)</span>
 <span class="ansigreen">     11</span>             user <span class="ansiblue">=</span> globals<span class="ansiblue">(</span><span class="ansiblue">)</span><span class="ansiblue">.</span>get<span class="ansiblue">(</span><span class="ansiblue">&apos;user&apos;</span><span class="ansiblue">)</span><span class="ansiblue"></span>
 <span class="ansigreen">     12</span>             <span class="ansigreen">if</span> user <span class="ansigreen">is</span> <span class="ansigreen">None</span> <span class="ansigreen">or</span> role <span class="ansigreen">not</span> <span class="ansigreen">in</span> user<span class="ansiblue">.</span>roles<span class="ansiblue">:</span><span class="ansiblue"></span>
 <span class="ansigreen">---&gt; 13</span><span class="ansired">                 </span><span class="ansigreen">raise</span> Unauthorized<span class="ansiblue">(</span><span class="ansiblue">&quot;No te voy a decir!!&quot;</span><span class="ansiblue">)</span><span class="ansired">#exceptions coming soon!</span><span class="ansiblue"></span>
@@ -3039,7 +3040,7 @@ calculando...
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[55]:</div>
+<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span class="c">#supongamos que queremos decorar la clase tal que se imprima un warning cuando gastamos más de lo que tenemos</span>
@@ -3072,21 +3073,6 @@ calculando...
 </pre></div>
 
 </div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-
-<div class="output_area"><div class="prompt"></div>
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>Estás gastando más de lo que tienes, se generará una deuda en tu cuenta!!
-Saldo Actual = 0
-</pre>
-</div>
-</div>
-
 </div>
 </div>
 
