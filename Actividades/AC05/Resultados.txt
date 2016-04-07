@@ -1,15 +1,15 @@
 *-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-*
 CONSULTA 1
 1.Alejandra Paz, Ingreso: 2010-04-01, ID: 5752
-2.Diego Gal·n Tejera, Ingreso: 2010-04-04, ID: 5865
-3.Juan Antonio de AmigÛ, Ingreso: 2010-04-10, ID: 5681
+2.Diego Gal√°n Tejera, Ingreso: 2010-04-04, ID: 5865
+3.Juan Antonio de Amig√≥, Ingreso: 2010-04-10, ID: 5681
 4.Alejandro Yuste Salcedo, Ingreso: 2010-04-18, ID: 5696
 5.Juana Tenorio Orozco, Ingreso: 2010-04-20, ID: 5779
 6.Alejandra Noguera Valenciano, Ingreso: 2010-04-27, ID: 5682
 7.Milagros Manuela Quiroga Ortiz, Ingreso: 2010-05-01, ID: 5832
 8.Martin Escolano Vargas, Ingreso: 2010-05-13, ID: 5812
-9.Domingo Cabo EspaÒa, Ingreso: 2010-05-17, ID: 5769
-10.Ana AvilÈs Bustamante, Ingreso: 2010-05-19, ID: 5724
+9.Domingo Cabo Espa√±a, Ingreso: 2010-05-17, ID: 5769
+10.Ana Avil√©s Bustamante, Ingreso: 2010-05-19, ID: 5724
 *-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-**-*
 CONSULTA 2
 0.advance Spectre Under Chaos III, Disco: Carry On Above Storm Shotgun, Rating: 5.0, ID: 917
