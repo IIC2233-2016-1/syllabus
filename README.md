@@ -43,10 +43,11 @@
 ### Abril
 | Día  | Evento | Contenido                  | Información adicional |
 |:-----|:-------|:---------------------------|:----------------------|
-|Lunes 4 | [Ayudantía04](https://github.com/IIC2233-2016-1/syllabus/tree/master/Ayudantias/AY04%20-%20Funcional%20y%20otros)| Funcional y otros temas importantes | |
+|Lunes 4 | [Ayudantía 04](https://github.com/IIC2233-2016-1/syllabus/tree/master/Ayudantias/AY04%20-%20Funcional%20y%20otros)| Funcional y otros temas importantes | |
 |Jueves 7 | [AC05](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC05) | Functional entero sin decoradores |  |
-|Lunes 11 | [Ayudantía05](https://github.com/IIC2233-2016-1/syllabus/Ayudantias/) | Decoradores | Solo en la sala B17   |
+|Lunes 11 | [Ayudantía 05](https://github.com/IIC2233-2016-1/syllabus/tree/master/Ayudantias/AY05%20-%20Decoradores) | Decoradores | Solo en la sala B17   |
 |Jueves 14 | [AC06](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC06) | Decoradores |  |
+|Lunes 18 | [Ayudantía 06](https://github.com/IIC2233-2016-1/syllabus/Ayudantias/) | Metaclases |  |
 
 ### Mayo
 | Día  | Evento | Contenido                  | Información adicional |
