@@ -1,90 +1,1 @@
-Puesto	User 1	Nombre 1	Asistencia	User 2	Nombre 2	Asistencia
- **E10 01-A** 	 iavasquez1 	 Iv√°n V√°squez 		  	   	
- **E10 01-B** 	 wayoalamos 	 Mart√≠n √Ålamos 		  	   	
- **E10 01-E** 	 icontrerasn 	 √çtalo Contreras 		  	   	
- **E10 01-F** 	 hmmundaca 	 Herman Mundaca 		  	   	
- **E10 02-A** 	 bvfernandez 	 Bernardita Fern√°ndez 		  	   	
- **E10 02-B** 	 mafillol 	 Macarena Fillol 		  	   	
- **E10 02-C** 	 micostabal 	 Mart√≠n Cost√°bal 		  	   	
- **E10 02-D** 	 camiolguin 	 Camila Olgu√≠n 		  	   	
- **E10 02-E** 	 rorpis 	 Rodrigo Orpis 		  	   	
- **E10 02-H** 	 FranciscoRencoret1 	 Francisco Rencoret 		  	   	
- **E10 02-I** 	 domingobenoit 	 Domingo Benoit 		  	   	
- **E10 02-J** 	 sguerra2 	 Sebasti√°n Guerra 		  	   	
- **E10 02-K/L** 	 jagaldames 	 Jos√© Galdames 		 bmarinb 	 Bruno Mar√≠n 	
- **E10 03-A/B** 	 criscv94 	 Cristian Cort√©s 		 dasotosilva19 	 Daniel Soto 	
- **E10 03-C/D** 	 norman123123 	 Norman Oliden 		 stephichau 	 Stephanie Chau 	
- **E10 03-E/F** 	 Manuel-uc 	 Manuel Aylwin 		 vlcastillo 	 Valent√≠n Castillo 	
- **E10 03-G/H** 	 cabarra 	 Camilo Barra 		 andresvaldes93 	 Andres Valdes 	
- **E10 03-I/J** 	 jfcumsille 	 Juan Cumsille 		 caackermann 	 Christian Ackermann 	
- **E10 03-K/L** 	 noksenberg 	 Niv Oksenberg 		 arturodelreal 	 Arturo Del Real 	
- **E10 04-A/B** 	 laurateuber 	 Laura Teuber 		 Kitaps 	 Patrick Liedtke 	
- **E10 04-C/D** 	 fcgfaura 	 Fernanda Garcia 		 priccis 	 Pedro Ricci 	
- **E10 04-E/F** 	 Joseromeroi 	 Jose Romero 		 JoseMacherone 	 Jos√© Macherone 	
- **E10 04-G/H** 	 abulnes1 	 Arturo Bulnes 		 dlvasquez 	 Diego V√°squez 	
- **E10 04-I/J** 	 evd995 	 Esteban Villalobos 		 dtfuller 	 David Fuller 	
- **E10 04-K/L** 	 cdonoso 	 Clemente Donoso 		 ifcarrera 	 Isaac Carrera 	
- **E10 05-A/B** 	 FernandoPieressa 	 Fernando Pieressa 		 CrescenteUC 	 Crescente Joglar 	
- **E10 05-C/D** 	 rmant 	 Raimundo Manterola 		 Diiru 	 Diego Iruretagoyena 	
- **E10 05-E/F** 	 neberrios 	 Nicolas Berrios 		 augustoal 	 Augusto Arizt√≠a 	
- **E10 05-G/H** 	 pifarias 	 Pedro Far√≠as 		 bceppi 	 Basti√°n Ceppi 	
- **E10 05-I/J** 	 andersskog 	 Anders Skog 		 joaquincastillo 	 Joaqu√≠n Castillo 	
- **E10 05-K/L** 	 andresback 	 Andr√©s Back 		 josetov 	 Jos√© Ovalle 	
- **E10 06-A/B** 	 jicortes2 	 Juan Cort√©s 		 bregonesi 	 Benjam√≠n Regonesi 	
- **E10 06-C/D** 	 Eduherrera5 	 Eduardo Herrera 		 ogcortes 	 Oriel Cortes 	
- **E10 06-E/F** 	 fipasten 	 Fernando Past√©n 		 MortizDX 	 Mauricio Ortiz 	
- **E10 06-G/H** 	 matnagra 	 Mat√≠as Navarrete 		 spiza 	 Sebasti√°n Piza 	
- **E10 06-I/J** 	 moralillo 	 Tom√°s Morales 		 mandrade2 	 Mat√≠as Andrade 	
- **E10 06-K/L** 	 maramir6 	 Matias Ramirez 		 Jricci1 	 Joaqu√≠n Ricci 	
- **E10 07-A/B** 	 hhase 	 Hannes Hase 		 ftgatica 	 Felipe Gatica 	
- **E10 07-C/D** 	 Phytonia-Master 	 Luis Ampuero 		 leylayunis 	 Leyla Yunis 	
- **E10 07-E/F** 	 JoseDaroch 	 Jos√© Daroch 		 jtagle2 	 Joaqu√≠n Tagle 	
- **E10 07-G/H** 	 HenryBlairG 	 Henry Blair 		 mglambert 	 Mathias Lambert 	
- **E10 07-I/J** 	 Zanfor 	 Mat√≠as Zanforl√≠n 		 jedelacarrera 	 Jorge De La Carrera 	
- **E15 01-A** 	 chapito96 	 Santiago Torres 		  	   	
- **E15 01-B** 	 Snorlax8 	 Cindy Tarud 		  	   	
- **E15 01-C** 	 AlfonsoIgnacioV 	 Alfonso Valdes 		  	   	
- **E15 01-D** 	 perojas3 	 Pablo Rojas 		  	   	
- **E15 01-E** 	 sitoro 	 Sebasti√°n Toro 		  	   	
- **E15 01-F** 	 PipeQ 	 Andr√©s Quintana 		  	   	
- **E15 02-A** 	 gdburky 	 Guillermo Burky 		  	   	
- **E15 02-B** 	 rrfoster 	 Roberto Foster 		  	   	
- **E15 02-C** 	 alainrochette 	 Alain Rochette 		  	   	
- **E15 02-D** 	 mfuenzalida1 	 Maximiliano Fuenzalida 		  	   	
- **E15 02-E** 	 sggr94 	 Sebasti√°n Garc√≠a 		  	   	
- **E15 02-H** 	 iguridi 	 Ignacio Guridi 		  	   	
- **E15 02-I** 	 Zepk 	 Pedro Acu√±a 		  	   	
- **E15 02-J** 	 Pochoclo 	 Nicol√°s Sep√∫lveda 		  	   	
- **E15 02-K** 	 Vjmoreno 	 Vicente Moreno 		  	   	
- **E15 02-L** 	 Nebula2028 	 Patricio Salgado 		  	   	
- **E15 03-A** 	 agmardones 	 Andr√©s Mardones 		  	   	
- **E15 03-B** 	 elzambon 	 Enzo Zamb√≥n 		  	   	
- **E15 03-C** 	 cataherrera 	 Catalina Herrera 		  	   	
- **E15 03-D** 	 JuanGalilea 	 Juan Galilea 		  	   	
- **E15 03-E** 	 sormazabal 	 Sof√≠a Ormazabal 		  	   	
- **E15 03-H** 	 gantunesr 	 Gustavo Antunes 		  	   	
- **E15 03-I** 	 wololoatata 	 Gonzalo Caro 		  	   	
- **E15 03-J** 	 jagalarce 	 Jeremy Galarce 		  	   	
- **E15 03-K** 	 ManuelSIlvaCav 	 Manuel Silva 		  	   	
- **E15 03-L** 	 santiagocruzb 	 Jos√© Cruz 		  	   	
- **E15 04-A** 	 tnmarin 	 Tom√°s Mar√≠n 		  	   	
- **E15 04-B** 	 sdiez1 	 Sergio Diez 		  	   	
- **E15 04-C/D** 	 gbordoni 	 Gianfranco Bordoni 		 kcsss 	 Matias Caces 	
- **E15 04-E/F** 	 sialvarez 	 Sebasti√°n √Ålvarez 		 pmiquelv 	 Pedro Miquel 	
- **E15 04-G/H** 	 diegosapunar 	 Diego Sapunar 		 RodrigoBocazG 	 Rodrigo Bocaz 	
- **E15 04-I/J** 	 msbobadilla 	 Manuel Bobadilla 		 fivargas 	 Felipe Vargas 	
- **E15 04-K/L** 	 cnmoya 	 Crist√≥bal Moya 		 jonnylee719 	 Jonathan Lee 	
- **E15 05-A/B** 	 bjassael 	 Benjam√≠n Assael 		 DiegoSilvaS 	 Diego Silva 	
- **E15 05-C/D** 	 nithomas 	 Nicolas Thomas 		 cpavez3 	 Crist√≥bal Pavez 	
- **E15 05-E/F** 	 gebalassa 	 Gabriel Balassa 		 Hernan4444 	 Hernan Valdivieso 	
- **E15 05-G/H** 	 tsuarezsaieh 	 Tomas Suarez 		 fnquinteros 	 Felipe Quinteros 	
- **E15 05-I/J** 	 vicentemartintarud 	 Vicente Martin 		 martinvidal 	 Mart√≠n Vidal 	
- **E15 05-K/L** 	 ehdonoso 	 El√≠as Donoso 		 jpdattas 	 Jean Dattas 	
- **E15 06-A/B** 	 mhaacke 	 Michael Haacke 		 isipalma 	 Isidora Palma 	
- **E15 06-C/D** 	 isarovic 	 Ignacio Sarovic 		 vectorcrumb 	 Lucas Alvarez 	
- **E15 06-E/F** 	 pggodoy 	 Pablo Godoy 		 fhgajardo 	 Felipe Gajardo 	
- **E15 06-G/H** 	 cggutierrez 	 Christopher Guti√©rrez 		 Mieynaudi 	 Mat√≠as Eynaudi 	
- **E15 06-I/J** 	 MatixCubix 	 Mat√≠as Cubillos 		 vbarros2 	 Vicente Barros 	
- **E15 06-K/L** 	 salangarica 	 Saul Langarica 		 jneyzaguirre 	 Jos√© Eyzaguirre 	
- **E15 07-A/B** 	 bleon1 	 Benjam√≠n Le√≥n 		 bicarcamo 	 Benjam√≠n C√°rcamo 	
- **E15 07-C/D** 	 Tblatrille 	 Tom√°s Latrille 		 VNicholls 	 Vicente Nicholls 	
+Puesto	User 1	Nombre 1	Asistencia	User 2	Nombre 2	Asistencia **E10 01-A** 	 iavasquez1 	 IvÃ¡n VÃ¡squez 	T	  	   	 **E10 01-B** 	 wayoalamos 	 MartÃ_n ÃÅlamos 	T	  	   	 **E10 01-E** 	 icontrerasn 	 Ãçtalo Contreras 	T	  	   	 **E10 01-F** 	 hmmundaca 	 Herman Mundaca 	T	  	   	 **E10 02-A** 	 bvfernandez 	 Bernardita FernÃ¡ndez 		  	   	 **E10 02-B** 	 mafillol 	 Macarena Fillol 		  	   	 **E10 02-C** 	 micostabal 	 MartÃ_n CostÃ¡bal 	T	  	   	 **E10 02-D** 	 camiolguin 	 Camila OlguÃ_n 	T	  	   	 **E10 02-E** 	 rorpis 	 Rodrigo Orpis 	T	  	   	 **E10 02-H** 	 FranciscoRencoret1 	 Francisco Rencoret 	T	  	   	 **E10 02-I** 	 domingobenoit 	 Domingo Benoit 	T	  	   	 **E10 02-J** 	 sguerra2 	 SebastiÃ¡n Guerra 	T	  	   	 **E10 02-K/L** 	 jagaldames 	 JosÃ© Galdames 	T	 bmarinb 	 Bruno MarÃ_n 	T **E10 03-A/B** 	 criscv94 	 Cristian CortÃ©s 	T	 dasotosilva19 	 Daniel Soto 	T **E10 03-C/D** 	 norman123123 	 Norman Oliden 	T	 stephichau 	 Stephanie Chau 	T **E10 03-E/F** 	 Manuel-uc 	 Manuel Aylwin 	T	 vlcastillo 	 ValentÃ_n Castillo 	T **E10 03-G/H** 	 cabarra 	 Camilo Barra 		 andresvaldes93 	 Andres Valdes 	 **E10 03-I/J** 	 jfcumsille 	 Juan Cumsille 	T	 caackermann 	 Christian Ackermann 	 **E10 03-K/L** 	 noksenberg 	 Niv Oksenberg 	T	 arturodelreal 	 Arturo Del Real 	T **E10 04-A/B** 	 laurateuber 	 Laura Teuber 	T	 Kitaps 	 Patrick Liedtke 	T **E10 04-C/D** 	 fcgfaura 	 Fernanda Garcia 		 priccis 	 Pedro Ricci 	 **E10 04-E/F** 	 Joseromeroi 	 Jose Romero 	T	 JoseMacherone 	 JosÃ© Macherone 	T **E10 04-G/H** 	 abulnes1 	 Arturo Bulnes 	T	 dlvasquez 	 Diego VÃ¡squez 	T **E10 04-I/J** 	 evd995 	 Esteban Villalobos 	T	 dtfuller 	 David Fuller 	T **E10 04-K/L** 	 cdonoso 	 Clemente Donoso 		 ifcarrera 	 Isaac Carrera 	T **E10 05-A/B** 	 FernandoPieressa 	 Fernando Pieressa 	T	 CrescenteUC 	 Crescente Joglar 	T **E10 05-C/D** 	 rmant 	 Raimundo Manterola 	T	 Diiru 	 Diego Iruretagoyena 	T **E10 05-E/F** 	 neberrios 	 Nicolas Berrios 	T	 augustoal 	 Augusto AriztÃ_a 	T **E10 05-G/H** 	 pifarias 	 Pedro FarÃ_as 	T	 bceppi 	 BastiÃ¡n Ceppi 	T **E10 05-I/J** 	 andersskog 	 Anders Skog 	T	 joaquincastillo 	 JoaquÃ_n Castillo 	T **E10 05-K/L** 	 andresback 	 AndrÃ©s Back 	T	 josetov 	 JosÃ© Ovalle 	T **E10 06-A/B** 	 jicortes2 	 Juan CortÃ©s 	T	 bregonesi 	 BenjamÃ_n Regonesi 	 **E10 06-C/D** 	 Eduherrera5 	 Eduardo Herrera 		 ogcortes 	 Oriel Cortes 	 **E10 06-E/F** 	 fipasten 	 Fernando PastÃ©n 	T	 MortizDX 	 Mauricio Ortiz 	T **E10 06-G/H** 	 matnagra 	 MatÃ_as Navarrete 	T	 spiza 	 SebastiÃ¡n Piza 	T **E10 06-I/J** 	 moralillo 	 TomÃ¡s Morales 		 mandrade2 	 MatÃ_as Andrade 	T **E10 06-K/L** 	 maramir6 	 Matias Ramirez 	T	 Jricci1 	 JoaquÃ_n Ricci 	T **E10 07-A/B** 	 hhase 	 Hannes Hase 	T	 ftgatica 	 Felipe Gatica 	T **E10 07-C/D** 	 Phytonia-Master 	 Luis Ampuero 	T	 leylayunis 	 Leyla Yunis 	T **E10 07-E/F** 	 JoseDaroch 	 JosÃ© Daroch 	T	 jtagle2 	 JoaquÃ_n Tagle 	T **E10 07-G/H** 	 HenryBlairG 	 Henry Blair 		 mglambert 	 Mathias Lambert 	T **E10 07-I/J** 	 Zanfor 	 MatÃ_as ZanforlÃ_n 	T	 jedelacarrera 	 Jorge De La Carrera 	T **E15 01-A** 	 chapito96 	 Santiago Torres 		  	   	 **E15 01-B** 	 Snorlax8 	 Cindy Tarud 		  	   	 **E15 01-C** 	 AlfonsoIgnacioV 	 Alfonso Valdes 		  	   	 **E15 01-D** 	 perojas3 	 Pablo Rojas 		  	   	 **E15 01-E** 	 sitoro 	 SebastiÃ¡n Toro 		  	   	 **E15 01-F** 	 PipeQ 	 AndrÃ©s Quintana 		  	   	 **E15 02-A** 	 gdburky 	 Guillermo Burky 		  	   	 **E15 02-B** 	 rrfoster 	 Roberto Foster 		  	   	 **E15 02-C** 	 alainrochette 	 Alain Rochette 		  	   	 **E15 02-D** 	 mfuenzalida1 	 Maximiliano Fuenzalida 		  	   	 **E15 02-E** 	 sggr94 	 SebastiÃ¡n GarcÃ_a 		  	   	 **E15 02-H** 	 iguridi 	 Ignacio Guridi 		  	   	 **E15 02-I** 	 Zepk 	 Pedro AcuÃ±a 		  	   	 **E15 02-J** 	 Pochoclo 	 NicolÃ¡s SepÃºlveda 		  	   	 **E15 02-K** 	 Vjmoreno 	 Vicente Moreno 		  	   	 **E15 02-L** 	 Nebula2028 	 Patricio Salgado 		  	   	 **E15 03-A** 	 agmardones 	 AndrÃ©s Mardones 		  	   	 **E15 03-B** 	 elzambon 	 Enzo ZambÃ_n 		  	   	 **E15 03-C** 	 cataherrera 	 Catalina Herrera 		  	   	 **E15 03-D** 	 JuanGalilea 	 Juan Galilea 		  	   	 **E15 03-E** 	 sormazabal 	 SofÃ_a Ormazabal 		  	   	 **E15 03-H** 	 gantunesr 	 Gustavo Antunes 		  	   	 **E15 03-I** 	 wololoatata 	 Gonzalo Caro 		  	   	 **E15 03-J** 	 jagalarce 	 Jeremy Galarce 		  	   	 **E15 03-K** 	 ManuelSIlvaCav 	 Manuel Silva 		  	   	 **E15 03-L** 	 santiagocruzb 	 JosÃ© Cruz 		  	   	 **E15 04-A** 	 tnmarin 	 TomÃ¡s MarÃ_n 		  	   	 **E15 04-B** 	 sdiez1 	 Sergio Diez 		  	   	 **E15 04-C/D** 	 gbordoni 	 Gianfranco Bordoni 		 kcsss 	 Matias Caces 	 **E15 04-E/F** 	 sialvarez 	 SebastiÃ¡n ÃÅlvarez 		 pmiquelv 	 Pedro Miquel 	 **E15 04-G/H** 	 diegosapunar 	 Diego Sapunar 		 RodrigoBocazG 	 Rodrigo Bocaz 	 **E15 04-I/J** 	 msbobadilla 	 Manuel Bobadilla 		 fivargas 	 Felipe Vargas 	 **E15 04-K/L** 	 cnmoya 	 CristÃ_bal Moya 		 jonnylee719 	 Jonathan Lee 	 **E15 05-A/B** 	 bjassael 	 BenjamÃ_n Assael 		 DiegoSilvaS 	 Diego Silva 	 **E15 05-C/D** 	 nithomas 	 Nicolas Thomas 		 cpavez3 	 CristÃ_bal Pavez 	 **E15 05-E/F** 	 gebalassa 	 Gabriel Balassa 		 Hernan4444 	 Hernan Valdivieso 	 **E15 05-G/H** 	 tsuarezsaieh 	 Tomas Suarez 		 fnquinteros 	 Felipe Quinteros 	 **E15 05-I/J** 	 vicentemartintarud 	 Vicente Martin 		 martinvidal 	 MartÃ_n Vidal 	 **E15 05-K/L** 	 ehdonoso 	 ElÃ_as Donoso 		 jpdattas 	 Jean Dattas 	 **E15 06-A/B** 	 mhaacke 	 Michael Haacke 		 isipalma 	 Isidora Palma 	 **E15 06-C/D** 	 isarovic 	 Ignacio Sarovic 		 vectorcrumb 	 Lucas Alvarez 	 **E15 06-E/F** 	 pggodoy 	 Pablo Godoy 		 fhgajardo 	 Felipe Gajardo 	 **E15 06-G/H** 	 cggutierrez 	 Christopher GutiÃ©rrez 		 Mieynaudi 	 MatÃ_as Eynaudi 	 **E15 06-I/J** 	 MatixCubix 	 MatÃ_as Cubillos 		 vbarros2 	 Vicente Barros 	 **E15 06-K/L** 	 salangarica 	 Saul Langarica 		 jneyzaguirre 	 JosÃ© Eyzaguirre 	 **E15 07-A/B** 	 bleon1 	 BenjamÃ_n LeÃ_n 		 bicarcamo 	 BenjamÃ_n CÃ¡rcamo 	 **E15 07-C/D** 	 Tblatrille 	 TomÃ¡s Latrille 		 VNicholls 	 Vicente Nicholls 	
