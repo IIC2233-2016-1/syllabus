@@ -48,6 +48,7 @@
 |Lunes 11 | [Ayudantía 05](https://github.com/IIC2233-2016-1/syllabus/tree/master/Ayudantias/AY05%20-%20Decoradores) | Decoradores | Solo en la sala B17   |
 |Jueves 14 | [AC06](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC06) | Decoradores |  |
 |Lunes 18 | [Ayudantía 06](https://github.com/IIC2233-2016-1/syllabus/Ayudantias/) | Metaclases |  |
+|Jueves 21 | [AC07](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC07) | Metaclases |  |
 
 ### Mayo
 | Día  | Evento | Contenido                  | Información adicional |
