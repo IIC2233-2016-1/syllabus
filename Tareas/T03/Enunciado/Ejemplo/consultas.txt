@@ -1,0 +1,8 @@
+4
+comunas.csv
+personas.csv
+sexo.csv
+viajes.csv
+2
+EMPRESTA Persona,Sex DE personas,sexo ONDE AnoNac=2013 Y Id=Sexo Y Sex="Mujer";
+EMPRESTA DIVERGENTE Comuna DE viajes,comunas ONDE ComunaOrigen=Id;
