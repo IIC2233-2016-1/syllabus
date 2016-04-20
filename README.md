@@ -46,6 +46,7 @@
 |Lunes 4 | [Ayudantía 04](https://github.com/IIC2233-2016-1/syllabus/tree/master/Ayudantias/AY04%20-%20Funcional%20y%20otros)| Funcional y otros temas importantes | |
 |Jueves 7 | [AC05](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC05) | Functional entero sin decoradores |  |
 |Lunes 11 | [Ayudantía 05](https://github.com/IIC2233-2016-1/syllabus/tree/master/Ayudantias/AY05%20-%20Decoradores) | Decoradores | Solo en la sala B17   |
+|Miércoles 13 | [T02](https://github.com/IIC2233-2016-1/syllabus/tree/master/Tareas/T02) | EDD |**Hora: 23:59**|
 |Jueves 14 | [AC06](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC06) | Decoradores |  |
 |Lunes 18 | [Ayudantía 06](https://github.com/IIC2233-2016-1/syllabus/blob/master/Ayudantias/AY06%20-%20Metaclases/Ayudantia%206.pdf) | Metaclases | No presencial |
 |Jueves 21 | [AC07](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC07) | Metaclases |  |
@@ -53,6 +54,7 @@
 ### Mayo
 | Día  | Evento | Contenido                  | Información adicional |
 |:-----|:-------|:---------------------------|:----------------------|
+|Lunes 2 | [T03](https://github.com/IIC2233-2016-1/syllabus/tree/master/Tareas/T03) | Funcional |**Hora: 23:59**|
 |Martes 17| Midterm Test | Por anunciar           |                       |
 
 ### Junio
