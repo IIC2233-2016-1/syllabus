@@ -50,7 +50,7 @@
 |Jueves 14 | [AC06](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC06) | Decoradores |  |
 |Lunes 18 | [Ayudantía 06](https://github.com/IIC2233-2016-1/syllabus/blob/master/Ayudantias/AY06%20-%20Metaclases/Ayudantia%206.pdf) | Metaclases | No presencial |
 |Jueves 21 | [AC07](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC07) | Metaclases |  |
-
+|Jueves 28 | [AC08](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC08) | Manejo de Excepciones y Testing con Unittest |  |
 ### Mayo
 | Día  | Evento | Contenido                  | Información adicional |
 |:-----|:-------|:---------------------------|:----------------------|
