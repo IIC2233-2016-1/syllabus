@@ -1,0 +1,27 @@
+version_id:int,version_nombre:str
+1,Red
+2,Blue
+3,Yellow
+4,Gold
+5,Silver
+6,Crystal
+7,Ruby
+8,Sapphire
+9,Emerald
+10,FireRed
+11,LeafGreen
+12,Diamond
+13,Pearl
+14,Platinum
+15,HeartGold
+16,SoulSilver
+17,Black
+18,White
+19,Colosseum
+20,XD
+21,Black 2
+22,White 2
+23,X
+24,Y
+25,Omega Ruby
+26,Alpha Sapphire
