@@ -1,38 +1,38 @@
 Puesto	User 1	Nombre 1	Asistencia	User 2	Nombre 2	Asistencia
  **E10 01-A** 	 cdonoso 	 Clemente Donoso 		  	   	
- **E10 01-B** 	 mglambert 	 Mathias Lambert 		  	   	
- **E10 01-E** 	 Manuel-uc 	 Manuel Aylwin 		  	   	
- **E10 02-A/B** 	 ifcarrera 	 Isaac Carrera 		 domingobenoit 	 Domingo Benoit 	
- **E10 02-C/D** 	 dasotosilva19 	 Daniel Soto 		 Joseromeroi 	 Jose Romero 	
- **E10 02-E/F** 	 josetov 	 José Ovalle 		 dlvasquez 	 Diego Vásquez 	
- **E10 02-G/H** 	 andresvaldes93 	 Andres Valdes 		 moralillo 	 Tomás Morales 	
- **E10 02-I/J** 	 leylayunis 	 Leyla Yunis 		 augustoal 	 Augusto Ariztía 	
- **E10 02-K/L** 	 joaquincastillo 	 Joaquín Castillo 		 mandrade2 	 Matías Andrade 	
- **E10 03-A/B** 	 neberrios 	 Nicolas Berrios 		 caackermann 	 Christian Ackermann 	
- **E10 03-C/D** 	 Eduherrera5 	 Eduardo Herrera 		 laurateuber 	 Laura Teuber 	
- **E10 03-E/F** 	 sguerra2 	 Sebastián Guerra 		 Jricci1 	 Joaquín Ricci 	
- **E10 03-G/H** 	 MortizDX 	 Mauricio Ortiz 		 rorpis 	 Rodrigo Orpis 	
- **E10 03-I/J** 	 pifarias 	 Pedro Farías 		 iavasquez1 	 Iván Vásquez 	
- **E10 03-K/L** 	 jicortes2 	 Juan Cortés 		 bregonesi 	 Benjamín Regonesi 	
- **E10 04-A/B** 	 noksenberg 	 Niv Oksenberg 		 jtagle2 	 Joaquín Tagle 	
- **E10 04-C/D** 	 stephichau 	 Stephanie Chau 		 maramir6 	 Matias Ramirez 	
- **E10 04-E/F** 	 andersskog 	 Anders Skog 		 fipasten 	 Fernando Pastén 	
- **E10 04-G/H** 	 bvfernandez 	 Bernardita Fernández 		 camiolguin 	 Camila Olguín 	
- **E10 04-I/J** 	 wayoalamos 	 Martín Álamos 		 ftgatica 	 Felipe Gatica 	
- **E10 04-K/L** 	 rmant 	 Raimundo Manterola 		 Diiru 	 Diego Iruretagoyena 	
- **E10 05-A/B** 	 jagaldames 	 José Galdames 		 micostabal 	 Martín Costábal 	
- **E10 05-C/D** 	 CrescenteUC 	 Crescente Joglar 		 icontrerasn 	 Ítalo Contreras 	
- **E10 05-E/F** 	 Zanfor 	 Matías Zanforlín 		 criscv94 	 Cristian Cortés 	
- **E10 05-G/H** 	 bceppi 	 Bastián Ceppi 		 jfcumsille 	 Juan Cumsille 	
- **E10 05-I/J** 	 abulnes1 	 Arturo Bulnes 		 andresback 	 Andrés Back 	
- **E10 05-K/L** 	 dtfuller 	 David Fuller 		 evd995 	 Esteban Villalobos 	
- **E10 06-A/B** 	 jedelacarrera 	 Jorge De La Carrera 		 JoseMacherone 	 José Macherone 	
- **E10 06-C/D** 	 FranciscoRencoret1 	 Francisco Rencoret 		 hhase 	 Hannes Hase 	
- **E10 06-E/F** 	 spiza 	 Sebastián Piza 		 matnagra 	 Matías Navarrete 	
- **E10 06-G/H** 	 vlcastillo 	 Valentín Castillo 		 hmmundaca 	 Herman Mundaca 	
- **E10 06-I/J** 	 fcgfaura 	 Fernanda Garcia 		 bmarinb 	 Bruno Marín 	
- **E10 06-K/L** 	 FernandoPieressa 	 Fernando Pieressa 		 arturodelreal 	 Arturo Del Real 	
- **E10 07-A/B** 	 JoseDaroch 	 José Daroch 		 Phytonia-Master 	 Luis Ampuero 	
+ **E10 01-B** 	 mglambert 	 Mathias Lambert 	T	  	   	
+ **E10 01-E** 	 Manuel-uc 	 Manuel Aylwin 	T	  	   	
+ **E10 02-A/B** 	 ifcarrera 	 Isaac Carrera 	T	 domingobenoit 	 Domingo Benoit 	
+ **E10 02-C/D** 	 dasotosilva19 	 Daniel Soto 	T	 Joseromeroi 	 Jose Romero 	T
+ **E10 02-E/F** 	 josetov 	 José Ovalle 	T	 dlvasquez 	 Diego Vásquez 	T
+ **E10 02-G/H** 	 andresvaldes93 	 Andres Valdes 		 moralillo 	 Tomás Morales 	T
+ **E10 02-I/J** 	 leylayunis 	 Leyla Yunis 	T	 augustoal 	 Augusto Ariztía 	T
+ **E10 02-K/L** 	 joaquincastillo 	 Joaquín Castillo 	T	 mandrade2 	 Matías Andrade 	T
+ **E10 03-A/B** 	 neberrios 	 Nicolas Berrios 		 caackermann 	 Christian Ackermann 	T
+ **E10 03-C/D** 	 Eduherrera5 	 Eduardo Herrera 		 laurateuber 	 Laura Teuber 	T
+ **E10 03-E/F** 	 sguerra2 	 Sebastián Guerra 		 Jricci1 	 Joaquín Ricci 	T
+ **E10 03-G/H** 	 MortizDX 	 Mauricio Ortiz 	T	 rorpis 	 Rodrigo Orpis 	T
+ **E10 03-I/J** 	 pifarias 	 Pedro Farías 	T	 iavasquez1 	 Iván Vásquez 	T
+ **E10 03-K/L** 	 jicortes2 	 Juan Cortés 	T	 bregonesi 	 Benjamín Regonesi 	T
+ **E10 04-A/B** 	 noksenberg 	 Niv Oksenberg 	T	 jtagle2 	 Joaquín Tagle 	T
+ **E10 04-C/D** 	 stephichau 	 Stephanie Chau 	T	 maramir6 	 Matias Ramirez 	
+ **E10 04-E/F** 	 andersskog 	 Anders Skog 	T	 fipasten 	 Fernando Pastén 	T
+ **E10 04-G/H** 	 bvfernandez 	 Bernardita Fernández 	T	 camiolguin 	 Camila Olguín 	T
+ **E10 04-I/J** 	 wayoalamos 	 Martín Álamos 	T	 ftgatica 	 Felipe Gatica 	T
+ **E10 04-K/L** 	 rmant 	 Raimundo Manterola 	T	 Diiru 	 Diego Iruretagoyena 	
+ **E10 05-A/B** 	 jagaldames 	 José Galdames 		 micostabal 	 Martín Costábal 	T
+ **E10 05-C/D** 	 CrescenteUC 	 Crescente Joglar 	T	 icontrerasn 	 Ítalo Contreras 	T
+ **E10 05-E/F** 	 Zanfor 	 Matías Zanforlín 	T	 criscv94 	 Cristian Cortés 	T
+ **E10 05-G/H** 	 bceppi 	 Bastián Ceppi 	T	 jfcumsille 	 Juan Cumsille 	T
+ **E10 05-I/J** 	 abulnes1 	 Arturo Bulnes 	T	 andresback 	 Andrés Back 	T
+ **E10 05-K/L** 	 dtfuller 	 David Fuller 	T	 evd995 	 Esteban Villalobos 	T
+ **E10 06-A/B** 	 jedelacarrera 	 Jorge De La Carrera 	T	 JoseMacherone 	 José Macherone 	T
+ **E10 06-C/D** 	 FranciscoRencoret1 	 Francisco Rencoret 	T	 hhase 	 Hannes Hase 	T
+ **E10 06-E/F** 	 spiza 	 Sebastián Piza 	T	 matnagra 	 Matías Navarrete 	T
+ **E10 06-G/H** 	 vlcastillo 	 Valentín Castillo 	T	 hmmundaca 	 Herman Mundaca 	T
+ **E10 06-I/J** 	 fcgfaura 	 Fernanda Garcia 	T	 bmarinb 	 Bruno Marín 	T
+ **E10 06-K/L** 	 FernandoPieressa 	 Fernando Pieressa 	T	 arturodelreal 	 Arturo Del Real 	T
+ **E10 07-A/B** 	 JoseDaroch 	 José Daroch 	T	 Phytonia-Master 	 Luis Ampuero 	
  **E15 01-A** 	 iguridi 	 Ignacio Guridi 	T	  	   	
  **E15 01-B** 	 isarovic 	 Ignacio Sarovic 	T	  	   	
  **E15 01-E** 	 kcsss 	 Matias Caces 	T	  	   	
