@@ -10,12 +10,12 @@ regiones.csv
 versiones.csv
 10
 EMPRESTA pokemon_nombre DE pokemon ONDE (pokemon_id_especie <= 151);
-EMPRESTA pokemon_nombre DE pokemon, poke_estadistica ONDE (pokemon_id = poke_estadistica_pokemon_id) AGRUPATELOS X pokemon_nombre TENIENDO (PROMEDIO(poke_estadisticas_base) >= 100);
+EMPRESTA pokemon_nombre DE pokemon, poke_estadisticas ONDE (pokemon_id = poke_estadisticas_pokemon_id) AGRUPATELOS X pokemon_nombre TENIENDO (PROMEDIO(poke_estadisticas_base) >= 100);
 EMPRESTA DIVERGENTE pokemon_nombre DE pokemon, encuentros ONDE ((encuentro_pokemon_id = pokemon_id) Y (encuentro_min ENTRE (30 Y 60))) ORDENATELOS X pokemon_peso PA BAJO SOLO 10;
 EMPRESTA PROMEDIO(pokemon_peso) DE pokemon;
 EMPRESTA MIN(pokemon_experiencia_base) DE pokemon;
 EMPRESTA MATS(pokemon_altura) DE pokemon;
 EMPRESTA pokemon_nombre DE pokemon ONDE (pokemon_nombre PARECIO A 'mega');
-EMPRESTA pokemon_id DE pokemon ONDE ((EXISTE (EMPRESTA estadistica_nombre DE estadistica)) Y (pokemon_nombre PARECIO A 'pikachu'));
+EMPRESTA pokemon_id DE pokemon ONDE ((EXISTE (EMPRESTA estadistica_nombre DE estadisticas)) Y (pokemon_nombre PARECIO A 'pikachu'));
 (EMPRESTA pokemon_id DE pokemon ONDE (pokemon_altura > 10)) COMUN CN (EMPRESTA pokemon_id DE pokemon ONDE (pokemon_peso < 200));
 (EMPRESTA pokemon_id DE pokemon ONDE (pokemon_experiencia_base ENTRE (100 Y 150))) SACALE (EMPRESTA pokemon_id DE pokemon ONDE (pokemon_id EN (EMPRESTA DIVERGENTE pokemon_id DE pokemon ONDE (pokemon_id != 2))));
