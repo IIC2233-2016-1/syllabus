@@ -52,10 +52,12 @@
 |Jueves 21 | [AC07](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC07) | Metaclases |  |
 |Lunes 25 | Ayudantía 07 | Manejo de Excepciones y Testing con Unittest |  |
 |Jueves 28 | [AC08](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC08) | Manejo de Excepciones y Testing con Unittest |  |
+
 ### Mayo
 | Día  | Evento | Contenido                  | Información adicional |
 |:-----|:-------|:---------------------------|:----------------------|
 |Lunes 2 | [T03](https://github.com/IIC2233-2016-1/syllabus/tree/master/Tareas/T03) | Funcional |**Hora: 23:59**|
+|Jueves 5 | [AC08](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC08) | Simulación DES |  |
 |Martes 17| Midterm Test | Por anunciar           |                       |
 
 ### Junio
