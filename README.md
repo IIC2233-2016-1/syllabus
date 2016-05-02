@@ -57,7 +57,7 @@
 | Día  | Evento | Contenido                  | Información adicional |
 |:-----|:-------|:---------------------------|:----------------------|
 |Lunes 2 | Ayudantía 08 | Simulación |  |
-| Miércoles 4 | [T03](https://github.com/IIC2233-2016-1/syllabus/tree/master/Tareas/T03) | Funcional |**Hora: 23:00**|
+| Miércoles 4 | [T03](https://github.com/IIC2233-2016-1/syllabus/tree/master/Tareas/T03) | Funcional |**Hora: 23:59**|
 |Jueves 5 | [AC08](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC08) | Simulación DES |  |
 |Martes 17| Midterm Test | Por anunciar           |                       |
 
