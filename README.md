@@ -50,13 +50,14 @@
 |Jueves 14 | [AC06](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC06) | Decoradores |  |
 |Lunes 18 | [Ayudantía 06](https://github.com/IIC2233-2016-1/syllabus/blob/master/Ayudantias/AY06%20-%20Metaclases/Ayudantia%206.pdf) | Metaclases | No presencial |
 |Jueves 21 | [AC07](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC07) | Metaclases |  |
-|Lunes 25 | Ayudantía 07 | Manejo de Excepciones y Testing con Unittest |  |
+|Lunes 25 | [Ayudantía 07](https://github.com/IIC2233-2016-1/syllabus/tree/master/Ayudantias/AY07%20-%20Exceptions%20y%20Unittest) | Manejo de Excepciones y Testing con Unittest |  |
 |Jueves 28 | [AC08](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC08) | Manejo de Excepciones y Testing con Unittest |  |
 
 ### Mayo
 | Día  | Evento | Contenido                  | Información adicional |
 |:-----|:-------|:---------------------------|:----------------------|
-|Lunes 2 | [T03](https://github.com/IIC2233-2016-1/syllabus/tree/master/Tareas/T03) | Funcional |**Hora: 23:59**|
+|Lunes 2 | Ayudantía 08 | Simulación |  |
+| Miércoles 4 | [T03](https://github.com/IIC2233-2016-1/syllabus/tree/master/Tareas/T03) | Funcional |**Hora: 23:59**|
 |Jueves 5 | [AC08](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC08) | Simulación DES |  |
 |Martes 17| Midterm Test | Por anunciar           |                       |
 

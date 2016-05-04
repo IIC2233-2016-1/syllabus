@@ -18,4 +18,4 @@ EMPRESTA MATS(pokemon_altura) DE pokemon;
 EMPRESTA pokemon_nombre DE pokemon ONDE (pokemon_nombre PARECIO A 'mega');
 EMPRESTA pokemon_id DE pokemon ONDE ((EXISTE (EMPRESTA estadistica_nombre DE estadisticas)) Y (pokemon_nombre PARECIO A 'pikachu'));
 (EMPRESTA pokemon_id DE pokemon ONDE (pokemon_altura > 10)) COMUN CN (EMPRESTA pokemon_id DE pokemon ONDE (pokemon_peso < 200));
-(EMPRESTA pokemon_id DE pokemon ONDE (pokemon_experiencia_base ENTRE (100 Y 150))) SACALE (EMPRESTA pokemon_id DE pokemon ONDE (pokemon_id EN (EMPRESTA DIVERGENTE pokemon_id DE pokemon ONDE (pokemon_id != 2))));
+(EMPRESTA pokemon_id DE pokemon ONDE (pokemon_experiencia_base ENTRE(100 Y 150))) SACALE (EMPRESTA pokemon_id DE pokemon ONDE (pokemon_id EN (EMPRESTA DIVERGENTE pokemon_id DE pokemon ONDE (pokemon_id != 2))));
