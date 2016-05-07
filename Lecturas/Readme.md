@@ -3,6 +3,7 @@
 ## Tabla de contenidos
 * [Consola y Paths](#consola-y-paths)
 * [Big-O notation](#big-o-notation)
+* [Paralelismo](#paralelismo)
 
 ## Consola y Paths
 
