@@ -1,0 +1,7 @@
+X,Y,TIPO,CAPACIDAD,TIEMPO(min)/CANTIDAD_A
+10,40,safe_zone,10,0.5
+100,200,gun_shop_short,20,50
+400,600,gun_shop_long,10,40
+900,150,gun_shop_short,30, 40
+700,600,safe_zone,20,1
+900,400,gun_shop_long,15,20

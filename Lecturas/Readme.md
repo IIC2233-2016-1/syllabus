@@ -3,6 +3,7 @@
 ## Tabla de contenidos
 * [Consola y Paths](#consola-y-paths)
 * [Big-O notation](#big-o-notation)
+* [Paralelismo](#paralelismo)
 
 ## Consola y Paths
 
@@ -16,3 +17,7 @@
 - [Big-O notation explained by a self-taught programmer](https://justin.abrah.ms/computer-science/big-o-notation-explained.html): Explica un poco más, tiene unos ejemplos en Python.
 - [Big-O is easy to calculate, if you know how](https://justin.abrah.ms/computer-science/how-to-calculate-big-o.html): Continuación de la lectura anterior.
 - [Time complexity in Python](https://wiki.python.org/moin/TimeComplexity): Esto es una referencia para la complejidad de ciertas operaciones en Python. No tomen en cuenta el análisis amortizado ("Amortized worst case").
+
+
+## Paralelismo
+- [Computers without clocks](https://github.com/IIC2233-2016-1/syllabus/blob/master/Lecturas/Computers_without_clocks.pdf)
