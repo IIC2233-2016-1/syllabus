@@ -1,0 +1,88 @@
+## AC10
+
+La asistencia aparecerá en [Asistencia.tsv](Asistencia.tsv). **Recuerda revisarla antes del término de la clase**.
+
+| Puesto | User 1 | Nombre 1 | User 2 | Nombre 2 |
+|:-------|:-------|:---------|:-------|:---------|
+| **E10 01-A** | jfcumsille | Juan Cumsille |  |   |
+| **E10 01-B** | bceppi | Bastián Ceppi |  |   |
+| **E10 01-E** | sguerra2 | Sebastián Guerra |  |   |
+| **E10 01-F** | bvfernandez | Bernardita Fernández |  |   |
+| **E10 02-A/B** | stephichau | Stephanie Chau | leylayunis | Leyla Yunis |
+| **E10 02-C/D** | jtagle2 | Joaquín Tagle | ftgatica | Felipe Gatica |
+| **E10 02-E/F** | hhase | Hannes Hase | Jricci1 | Joaquín Ricci |
+| **E10 02-G/H** | Manuel-uc | Manuel Aylwin | JoseDaroch | José Daroch |
+| **E10 02-I/J** | evd995 | Esteban Villalobos | moralillo | Tomás Morales |
+| **E10 02-K/L** | vlcastillo | Valentín Castillo | bmarinb | Bruno Marín |
+| **E10 03-A/B** | dasotosilva19 | Daniel Soto | bregonesi | Benjamín Regonesi |
+| **E10 03-C/D** | laurateuber | Laura Teuber | mglambert | Mathias Lambert |
+| **E10 03-E/F** | FernandoPieressa | Fernando Pieressa | cdonoso | Clemente Donoso |
+| **E10 03-G/H** | mandrade2 | Matías Andrade | dlvasquez | Diego Vásquez |
+| **E10 03-I/J** | ifcarrera | Isaac Carrera | rorpis | Rodrigo Orpis |
+| **E10 03-K/L** | FranciscoRencoret1 | Francisco Rencoret | Eduherrera5 | Eduardo Herrera |
+| **E10 04-A/B** | caackermann | Christian Ackermann | Phytonia-Master | Luis Ampuero |
+| **E10 04-C/D** | jedelacarrera | Jorge De La Carrera | augustoal | Augusto Ariztía |
+| **E10 04-E/F** | neberrios | Nicolas Berrios | criscv94 | Cristian Cortés |
+| **E10 04-G/H** | Zanfor | Matías Zanforlín | abulnes1 | Arturo Bulnes |
+| **E10 04-I/J** | fipasten | Fernando Pastén | CrescenteUC | Crescente Joglar |
+| **E10 04-K/L** | fcgfaura | Fernanda Garcia | dtfuller | David Fuller |
+| **E10 05-A/B** | icontrerasn | Ítalo Contreras | arturodelreal | Arturo Del Real |
+| **E10 05-C/D** | hmmundaca | Herman Mundaca | spiza | Sebastián Piza |
+| **E10 05-E/F** | camiolguin | Camila Olguín | iavasquez1 | Iván Vásquez |
+| **E10 05-G/H** | MortizDX | Mauricio Ortiz | andresback | Andrés Back |
+| **E10 05-I/J** | jagaldames | José Galdames | wayoalamos | Martín Álamos |
+| **E10 05-K/L** | noksenberg | Niv Oksenberg | andersskog | Anders Skog |
+| **E10 06-A/B** | joaquincastillo | Joaquín Castillo | JoseMacherone | José Macherone |
+| **E10 06-C/D** | Joseromeroi | Jose Romero | rmant | Raimundo Manterola |
+| **E10 06-E/F** | jicortes2 | Juan Cortés | matnagra | Matías Navarrete |
+| **E10 06-G/H** | micostabal | Martín Costábal | pifarias | Pedro Farías |
+| **E15 01-A** | santiagocruzb | José Cruz |  |   |
+| **E15 01-B** | PipeQ | Andrés Quintana |  |   |
+| **E15 01-E** | perojas3 | Pablo Rojas |  |   |
+| **E15 01-F** | vbarros2 | Vicente Barros |  |   |
+| **E15 02-A** | sormazabal | Sofía Ormazabal |  |   |
+| **E15 02-B** | chapito96 | Santiago Torres |  |   |
+| **E15 02-C** | isarovic | Ignacio Sarovic |  |   |
+| **E15 02-D** | nithomas | Nicolas Thomas |  |   |
+| **E15 02-E** | bleon1 | Benjamín León |  |   |
+| **E15 02-H** | sialvarez | Sebastián Álvarez |  |   |
+| **E15 02-I** | sggr94 | Sebastián García |  |   |
+| **E15 02-J** | Zepk | Pedro Acuña |  |   |
+| **E15 02-K** | kcsss | Matias Caces |  |   |
+| **E15 02-L** | jneyzaguirre | José Eyzaguirre |  |   |
+| **E15 03-A** | fnquinteros | Felipe Quinteros |  |   |
+| **E15 03-B** | pggodoy | Pablo Godoy |  |   |
+| **E15 03-C** | sitoro | Sebastián Toro |  |   |
+| **E15 03-D** | cataherrera | Catalina Herrera |  |   |
+| **E15 03-E** | gantunesr | Gustavo Antunes |  |   |
+| **E15 03-H** | RodrigoBocazG | Rodrigo Bocaz |  |   |
+| **E15 03-I** | cpavez3 | Cristóbal Pavez |  |   |
+| **E15 03-J** | Nebula2028 | Patricio Salgado |  |   |
+| **E15 03-K** | jagalarce | Jeremy Galarce |  |   |
+| **E15 03-L** | vicentemartintarud | Vicente Martin |  |   |
+| **E15 04-A** | isipalma | Isidora Palma |  |   |
+| **E15 04-B** | bjassael | Benjamín Assael |  |   |
+| **E15 04-C** | agmardones | Andrés Mardones |  |   |
+| **E15 04-D** | iguridi | Ignacio Guridi |  |   |
+| **E15 04-E** | pmiquelv | Pedro Miquel |  |   |
+| **E15 04-H** | jpdattas | Jean Dattas |  |   |
+| **E15 04-I** | AlfonsoIgnacioV | Alfonso Valdes |  |   |
+| **E15 04-J** | ManuelSIlvaCav | Manuel Silva |  |   |
+| **E15 04-K** | tsuarezsaieh | Tomas Suarez |  |   |
+| **E15 04-L** | Mieynaudi | Matías Eynaudi |  |   |
+| **E15 05-A** | Snorlax8 | Cindy Tarud |  |   |
+| **E15 05-B** | mhaacke | Michael Haacke |  |   |
+| **E15 05-C** | gebalassa | Gabriel Balassa |  |   |
+| **E15 05-D** | cggutierrez | Christopher Gutiérrez |  |   |
+| **E15 05-E** | Pochoclo | Nicolás Sepúlveda |  |   |
+| **E15 05-H** | diegosapunar | Diego Sapunar |  |   |
+| **E15 05-I** | salangarica | Saul Langarica |  |   |
+| **E15 05-J** | VNicholls | Vicente Nicholls |  |   |
+| **E15 05-K** | Vjmoreno | Vicente Moreno |  |   |
+| **E15 05-L** | jonnylee719 | Jonathan Lee |  |   |
+| **E15 06-A** | DiegoSilvaS | Diego Silva |  |   |
+| **E15 06-B/C** | gdburky | Guillermo Burky | tnmarin | Tomás Marín |
+| **E15 06-D/E** | sdiez1 | Sergio Diez | bicarcamo | Benjamín Cárcamo |
+| **E15 06-H/I** | fivargas | Felipe Vargas | martinvidal | Martín Vidal |
+| **E15 06-J/K** | cnmoya | Cristóbal Moya | mfuenzalida1 | Maximiliano Fuenzalida |
+| **E15 07-A/B** | Tblatrille | Tomás Latrille | Hernan4444 | Hernan Valdivieso |
