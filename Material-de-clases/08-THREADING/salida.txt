@@ -1,0 +1,15 @@
+Esta linea fue escrita por el thread # 0
+Esta linea fue escrita por el thread # 1
+Esta linea fue escrita por el thread # 2
+Esta linea fue escrita por el thread # 3
+Esta linea fue escrita por el thread # 4
+Esta linea fue escrita por el thread # 5
+Esta linea fue escrita por el thread # 6
+Esta linea fue escrita por el thread # 7
+Esta linea fue escrita por el thread # 8
+Esta linea fue escrita por el thread # 9
+Esta linea fue escrita por el thread # 10
+Esta linea fue escrita por el thread # 11
+Esta linea fue escrita por el thread # 12
+Esta linea fue escrita por el thread # 13
+Esta linea fue escrita por el thread # 14
