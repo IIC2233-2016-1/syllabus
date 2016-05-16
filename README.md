@@ -64,7 +64,7 @@
 |Lunes 16 | Ayudantía 10 | Repaso para el Midterm | |
 |Martes 17| Midterm Test | Todo hasta Threading (incluyendo lecturas) |      |
 | Miércoles 18 | [T04](https://github.com/IIC2233-2016-1/syllabus/tree/master/Tareas/T04) | Simulación, Testing y Manejo de Excepciones |**Hora: 23:59**|
-|Jueves 19 | AC11 | Interfaces gráficas (PyQt) | |
+|Jueves 19 | AC11 | Interfaces gráficas (PyQt4) | **Probar que esté bien instalado con `import PyQt4` antes de la actividad** |
 
 ### Junio
 | Día  | Evento | Contenido                  | Información adicional |
