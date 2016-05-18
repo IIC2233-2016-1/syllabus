@@ -63,7 +63,7 @@
 |Jueves 12 | [AC10](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC10) | Threading |  |
 |Lunes 16 | [Ayudantía 10](https://github.com/IIC2233-2016-1/syllabus/tree/master/Ayudantias/AY10%20-%20Repaso%20de%20MidTerm) | Repaso para el Midterm | |
 |Martes 17| Midterm Test | Todo hasta Threading (incluyendo lecturas) |      |
-|Jueves 19 | AC11 | Interfaces gráficas (PyQt4) | **Probar que esté bien instalado con `import PyQt4` antes de la actividad** |
+|Jueves 19 | [AC11](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC11) | Interfaces gráficas (PyQt4) | **Probar que esté bien instalado con `import PyQt4` antes de la actividad** |
 | Viernes 20 | [T04](https://github.com/IIC2233-2016-1/syllabus/tree/master/Tareas/T04) | Simulación, Testing y Manejo de Excepciones |**Hora: 23:59**|
 |Lunes 23 | [Ayudantía 11](https://github.com/IIC2233-2016-1/syllabus/tree/master/Ayudantias/) | PyQt4 y QtDesigner |  |
 
