@@ -65,8 +65,9 @@
 |Martes 17| Midterm Test | Todo hasta Threading (incluyendo lecturas) |      |
 |Jueves 19 | [AC11](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC11) | Interfaces gráficas (PyQt4) | **Probar que esté bien instalado con `import PyQt4` antes de la actividad** |
 | Viernes 20 | [T04](https://github.com/IIC2233-2016-1/syllabus/tree/master/Tareas/T04) | Simulación, Testing y Manejo de Excepciones |**Hora: 23:59**|
-|Lunes 23 | [Ayudantía 11](https://github.com/IIC2233-2016-1/syllabus/tree/master/Ayudantias/) | PyQt4 y QtDesigner |  |
-|Jueves 26 | [AC11](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC12) | Interfaces gráficas (QtDesigner) | |
+|Lunes 23 | [Ayudantía 11](https://github.com/IIC2233-2016-1/syllabus/tree/master/Ayudantias/AY11%20-%20Interfaces%20graficas) | PyQt4 y QtDesigner |  |
+|Jueves 26 | [AC12](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC12) | Interfaces gráficas (QtDesigner) | |
+|Lunes 30 | [Ayudantía 12](https://github.com/IIC2233-2016-1/syllabus/tree/master/Ayudantias/) | I/O: Manejo de strings y Bytes |  |
 
 ### Junio
 | Día  | Evento | Contenido                  | Información adicional |
