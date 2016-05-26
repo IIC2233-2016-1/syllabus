@@ -1,0 +1,27 @@
+Producto-Codigo-Precio
+Leche-84701-650
+Tomate-84702-200
+Pan-84703-190
+Queso-84704-700
+Detergente-84705-900
+Pasta dental-84706-500
+Escoba-84707-990
+Jugo-84708-650
+Bebida-84709-1000
+Alfajor-84710-300
+Fideo-84711-600
+Arroz-84712-700
+Carne-84713-3000
+Caja de huevos-84714-1500
+Salsa de soja-84715-1200
+Cepillo de dientes-84716-600
+Vaso-84717-500
+Plato-84718-800
+Lavaloza-84719-1100
+Galleta-84720-400
+Jamon-84721-900
+Manjar-84722-750
+Leche condensada-84723-690
+Papas fritas-84724-400
+Cereal-84725-1000
+Balon deportivo-84726-4000
