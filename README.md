@@ -72,7 +72,7 @@
 ### Junio
 | Día  | Evento | Contenido                  | Información adicional |
 |:-----|:-------|:---------------------------|:----------------------|
-|      |        |                            |                       |
+|Jueves 2      |  [AC13](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC13)     |     Input-Output {String + Bytes}                      |                       |
 
 ### Julio
 | Día  | Evento | Contenido                  | Información adicional |
