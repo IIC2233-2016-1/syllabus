@@ -106,6 +106,7 @@ if __name__ == '__main__':
     # que iran moviendo las imagenes
     # notar que empezaran en momentos distintos
     # pues wait depende de i
+    personajes = list()
     for i in range(10):
         _path = "aqua_boss.png" if i % 2 == 1 else "green_boss.png"
         personaje = Character(
@@ -114,5 +115,6 @@ if __name__ == '__main__':
             x=0, y=0,
             wait=3 * (9 - i)
         )
+        personajes.append(personaje)
         personaje.start()
     app.exec_()
