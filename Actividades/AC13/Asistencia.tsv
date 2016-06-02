@@ -37,27 +37,27 @@ Puesto	User 1	Nombre 1	Asistencia	User 2	Nombre 2	Asistencia
  **E15 01-E** 	 isipalma 	 Isidora Palma 	T	  	   	
  **E15 01-F** 	 sitoro 	 Sebastián Toro 	T	  	   	
  **E15 02-A/B** 	 cpavez3 	 Cristóbal Pavez 	T	 Snorlax8 	 Cindy Tarud 	T
- **E15 02-C/D** 	 sialvarez 	 Sebastián Álvarez 		 cggutierrez 	 Christopher Gutiérrez 	
+ **E15 02-C/D** 	 sialvarez 	 Sebastián Álvarez 	T	 cggutierrez 	 Christopher Gutiérrez 	T
  **E15 02-E/F** 	 gantunesr 	 Gustavo Antunes 		 bleon1 	 Benjamín León 	
- **E15 02-G/H** 	 gebalassa 	 Gabriel Balassa 		 sormazabal 	 Sofía Ormazabal 	
- **E15 02-I/J** 	 Hernan4444 	 Hernan Valdivieso 		 iguridi 	 Ignacio Guridi 	
- **E15 02-K/L** 	 jonnylee719 	 Jonathan Lee 		 tsuarezsaieh 	 Tomas Suarez 	
- **E15 03-A/B** 	 PipeQ 	 Andrés Quintana 		 jpdattas 	 Jean Dattas 	
- **E15 03-C/D** 	 diegosapunar 	 Diego Sapunar 		 Zepk 	 Pedro Acuña 	
- **E15 03-E/F** 	 DiegoSilvaS 	 Diego Silva 		 fnquinteros 	 Felipe Quinteros 	
- **E15 03-G/H** 	 isarovic 	 Ignacio Sarovic 		 agmardones 	 Andrés Mardones 	
- **E15 03-I/J** 	 RodrigoBocazG 	 Rodrigo Bocaz 		 bjassael 	 Benjamín Assael 	
- **E15 03-K/L** 	 chapito96 	 Santiago Torres 		 pggodoy 	 Pablo Godoy 	
- **E15 04-A/B** 	 cnmoya 	 Cristóbal Moya 		 pmiquelv 	 Pedro Miquel 	
- **E15 04-C/D** 	 vbarros2 	 Vicente Barros 		 Nebula2028 	 Patricio Salgado 	
- **E15 04-E/F** 	 sggr94 	 Sebastián García 		 AlfonsoIgnacioV 	 Alfonso Valdes 	
- **E15 04-G/H** 	 mhaacke 	 Michael Haacke 		 martinvidal 	 Martín Vidal 	
- **E15 04-I/J** 	 kcsss 	 Matias Caces 		 santiagocruzb 	 José Cruz 	
- **E15 04-K/L** 	 VNicholls 	 Vicente Nicholls 		 Tblatrille 	 Tomás Latrille 	
+ **E15 02-G/H** 	 gebalassa 	 Gabriel Balassa 	T	 sormazabal 	 Sofía Ormazabal 	
+ **E15 02-I/J** 	 Hernan4444 	 Hernan Valdivieso 	T	 iguridi 	 Ignacio Guridi 	T
+ **E15 02-K/L** 	 jonnylee719 	 Jonathan Lee 	T	 tsuarezsaieh 	 Tomas Suarez 	T
+ **E15 03-A/B** 	 PipeQ 	 Andrés Quintana 	T	 jpdattas 	 Jean Dattas 	T
+ **E15 03-C/D** 	 diegosapunar 	 Diego Sapunar 	T	 Zepk 	 Pedro Acuña 	T
+ **E15 03-E/F** 	 DiegoSilvaS 	 Diego Silva 	T	 fnquinteros 	 Felipe Quinteros 	T
+ **E15 03-G/H** 	 isarovic 	 Ignacio Sarovic 	T	 agmardones 	 Andrés Mardones 	T
+ **E15 03-I/J** 	 RodrigoBocazG 	 Rodrigo Bocaz 	T	 bjassael 	 Benjamín Assael 	T
+ **E15 03-K/L** 	 chapito96 	 Santiago Torres 	T	 pggodoy 	 Pablo Godoy 	
+ **E15 04-A/B** 	 cnmoya 	 Cristóbal Moya 		 pmiquelv 	 Pedro Miquel 	T
+ **E15 04-C/D** 	 vbarros2 	 Vicente Barros 	T	 Nebula2028 	 Patricio Salgado 	T
+ **E15 04-E/F** 	 sggr94 	 Sebastián García 	T	 AlfonsoIgnacioV 	 Alfonso Valdes 	T
+ **E15 04-G/H** 	 mhaacke 	 Michael Haacke 	T	 martinvidal 	 Martín Vidal 	T
+ **E15 04-I/J** 	 kcsss 	 Matias Caces 	T	 santiagocruzb 	 José Cruz 	T
+ **E15 04-K/L** 	 VNicholls 	 Vicente Nicholls 		 Tblatrille 	 Tomás Latrille 	T
  **E15 05-A/B** 	 vicentemartintarud 	 Vicente Martin 		 bicarcamo 	 Benjamín Cárcamo 	
- **E15 05-C/D** 	 mfuenzalida1 	 Maximiliano Fuenzalida 		 Mieynaudi 	 Matías Eynaudi 	
- **E15 05-E/F** 	 gdburky 	 Guillermo Burky 		 salangarica 	 Saul Langarica 	
- **E15 05-G/H** 	 Pochoclo 	 Nicolás Sepúlveda 		 Vjmoreno 	 Vicente Moreno 	
- **E15 05-I/J** 	 fivargas 	 Felipe Vargas 		 cataherrera 	 Catalina Herrera 	
- **E15 05-K/L** 	 sdiez1 	 Sergio Diez 		 ManuelSIlvaCav 	 Manuel Silva 	
- **E15 06-A/B** 	 jneyzaguirre 	 José Eyzaguirre 		 jagalarce 	 Jeremy Galarce 	
+ **E15 05-C/D** 	 mfuenzalida1 	 Maximiliano Fuenzalida 	T	 Mieynaudi 	 Matías Eynaudi 	T
+ **E15 05-E/F** 	 gdburky 	 Guillermo Burky 		 salangarica 	 Saul Langarica 	T
+ **E15 05-G/H** 	 Pochoclo 	 Nicolás Sepúlveda 	T	 Vjmoreno 	 Vicente Moreno 	T
+ **E15 05-I/J** 	 fivargas 	 Felipe Vargas 		 cataherrera 	 Catalina Herrera 	T
+ **E15 05-K/L** 	 sdiez1 	 Sergio Diez 	T	 ManuelSIlvaCav 	 Manuel Silva 	T
+ **E15 06-A/B** 	 jneyzaguirre 	 José Eyzaguirre 	T	 jagalarce 	 Jeremy Galarce 	
