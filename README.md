@@ -73,6 +73,7 @@
 | Día  | Evento | Contenido                  | Información adicional |
 |:-----|:-------|:---------------------------|:----------------------|
 |Jueves 2      |  [AC13](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC13)     |     Input-Output {String + Bytes}                      |                       |
+|Jueves 9      |  [AC14](https://github.com/IIC2233-2016-1/syllabus/tree/master/Actividades/AC14)     |     Input-Output {Serialización + Json}                      |                       |
 
 ### Julio
 | Día  | Evento | Contenido                  | Información adicional |
