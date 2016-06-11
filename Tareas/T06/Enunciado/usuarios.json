@@ -1,0 +1,1 @@
+[{"nombre_usuario": "chris", "password_no_encriptada": "macoy123", "lista_amigos": ["marcel", "john"]}, {"nombre_usuario": "john", "password_no_encriptada": "trustno1", "lista_amigos": ["chris", "marcel"]}, {"nombre_usuario": "marcel", "password_no_encriptada": "letmein", "lista_amigos": ["john", "chris"]}]
