@@ -41,10 +41,13 @@ class Servidor:
         self.host = '127.0.0.1'
         self.port = 3490
         self.s_servidor = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        # Debemos hacer el setup para poder escuchar a los clientes que se quieran conectar
+
+        # Coloca el software en la direccion indicada
         self.s_servidor.bind((self.host, self.port))
-        # En este caso solo queremos escuchar un cliente
+
+        # Numero de conexiones "en espera"
         self.s_servidor.listen(1)
+
         self.cliente = None
         self.aceptar()
 
