@@ -80,7 +80,7 @@
 ### Julio
 | Día  | Evento | Contenido                  | Información adicional |
 |:-----|:-------|:---------------------------|:----------------------|
-|Martes 5 |Final Exam| Por anunciar          |                       |
+|Martes 5 |Final Exam| Por anunciar          | Hora: 9:15, Salas por anunciar |
 
 # Notas
 
